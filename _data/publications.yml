@@ -34,20 +34,12 @@
   doi: 10.1093/ageing/afy003
   pdf: /doc/publication/2018/01/cheval_aa_2018.pdf
   
-- name: boisgontier_nba_2018_authorsversion
+- name: cheval_bx_2018
   date: 2018
   type: journal
   authors: Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <b>Boisgontier MP<b>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: BioRxiv
-  pdf: /doc/publication/2018/01/boisgontier_nba_2018_authorsversion.pdf
+  pdf: /doc/publication/2018/01/cheval_bx_2018.pdf
   link: ex
-  biorxiv: ex
-  comments: ex
-  osf: ex
-  github: ex
-  figshare: ex
-  arxiv: ex
-  osf: ex
-  overleaf: ex
-  website: https://matthieuboisgontier.github.io
+  biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
