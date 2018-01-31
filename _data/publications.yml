@@ -34,12 +34,23 @@
   doi: 10.1093/ageing/afy003
   pdf: /doc/publication/2018/01/cheval_aa_2018.pdf
   
+- name: corporaal_bsf_2018
+  date: 2018-01-01
+  type: preprint
+  authors:  Corporaal SHA, Bruijn S, Hoogkamer W, Chalavi S, <b>Boisgontier MP</b>, Duysens J, Swinnen SP, Gooijers J
+  title: 'Different neural substrates for precision stepping and fast online step adjustments in youth'
+  journal: Brain Structure and Function
+  pdf: /doc/publication/2018/01/corporaal_bsf_2018.pdf
+  doi: 10.1007/s00429-017-1586-9
+  link: ex
+  
 - name: cheval_bx_2018
   date: 2018-01-01
   type: preprint
-  authors: Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <b>Boisgontier MP<b>
+  authors:  
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: BioRxiv
   pdf: /doc/publication/2018/01/cheval_bx_2018.pdf
+  doi: 10.1101/211425
   link: ex
-  biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
+  
