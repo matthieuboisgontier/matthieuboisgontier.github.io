@@ -36,7 +36,7 @@
   
 - name: cheval_bx_2018
   date: 2018-01-01
-  type: preprint
+  type: preprint.doi
   authors: Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <b>Boisgontier MP<b>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: BioRxiv
