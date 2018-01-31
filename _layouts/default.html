@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--
+Hello internet user,
+
+For the love of all that is worth loving *please*
+if you copy-paste this to use for your own
+website, try to change the Google analytics code
+to yours or just remove it.
+
+The code used to generate this website is released
+under the GNU General Public License version 3
+(GPLv3) and written by Olivia Guest.
+More information here: http://oliviaguest.com/license
+
+Feel free to contact me on the repo:
+https://github.com/oliviaguest/oliviaguest.github.io
+if you need help with anything! :)
+
+Cheers,
+Olivia
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  <meta property="og:image" content="/images/favicons/cropped-cropped-screen-shot-2017-10-22-at-18-55-221.png" />
+  {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="3; url=/">
+  {% endif %}
+  {% include meta.html %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <meta name="viewport" content="width=device-width">
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-60x60.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.baseurl }}/images/favicons/apple-touch-icon-152x152.png" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-196x196.png" sizes="196x196" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-128.png" sizes="128x128" />
+  <meta name="application-name" content="&nbsp;" />
+  <meta name="msapplication-TileColor" content="#FFFFFF" />
+  <meta name="msapplication-TileImage" content="images/favicons/mstile-144x144.png" />
+  <meta name="msapplication-square70x70logo" content="images/favicons/mstile-70x70.png" />
+  <meta name="msapplication-square150x150logo" content="images/favicons/mstile-150x150.png" />
+  <meta name="msapplication-wide310x150logo" content="images/favicons/mstile-310x150.png" />
+  <meta name="msapplication-square310x310logo" content="images/favicons/mstile-310x310.png" />
+
+  {% include css.html %}
+  {% include js.html %}
+
+
+</head>
+
+<body>
+
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        <ul>
+
+          <li>
+            <a href="//github.com/matthieuboisgontier" title="Fork me on GitHub" style="text-decoration:none">
+              <i class="fa fa-github"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//twitter.com/MattBoisgontier" title="Follow me on Twitter" style="text-decoration:none">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//scholar.google.fr/citations?user=j5OGJX4AAAA" title="View my Google Scholar profile" style="text-decoration:none">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//www.researchgate.net/profile/Matthieu_Boisgontier2" title="Follow me on ResearchGate" style="text-decoration:none">
+              <i class="ai ai-researchgate"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//impactstory.org/u/" title="View my Impactstory" style="text-decoration:none">
+              <i class="ai ai-impactstory"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//orcid.org/0000-0001-9376-3071" title="View my ORCID profile" style="text-decoration:none">
+              <i class="ai ai-orcid"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//figshare.com/authors/" title="View my figshare profile" style="text-decoration:none">
+              <i class="ai ai-figshare"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//osf.io/" title="View my OSF profile" style="text-decoration:none">
+              <i class="ai ai-osf"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//publons.com/author/421277/matthieu-boisgontier" title="View my Publons profile" style="text-decoration:none">
+              <i class="ai ai-publons"></i>
+            </a>
+          </li>
+
+          <li>
+            <a href="//ca.linkedin.com/in/matthieu-boisgontier-40847b13" title="View my Linkedin profile" style="text-decoration:none">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+
+        </ul>
+        <span class="flip">
+          <a href="//copyleft.org/">©</a>
+        </span>
+        <a href="/license/">Matthieu Boisgontier 2018–{{ site.time | date: '%y' }}</a>
+      </footer>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+</body>
+
+</html>

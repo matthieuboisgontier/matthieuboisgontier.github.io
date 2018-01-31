@@ -1,0 +1,26 @@
+- name: boisgontier_nba_2018_authorsversion
+  date: 2018-01-dd
+  type: journal
+  authors: <b>Boisgontier MP</b>, Cheval B, van Ruitenbeek P, Cuypers K, Leunissen I, Sunaert S, Meesen R, Zivari Adab H, Renaud O, Swinnen SP
+  title: 'Cerebellar grey matter explains bimanual coordination performance in children and older adults'
+  journal: Neurobiology of Aging
+  pdf: /doc/publication/2018/01/boisgontier_nba_2018_authorsversion.pdf
+  link: ex
+  biorxiv: ex
+  comments: ex
+  osf: ex
+  github: matthieuboisgontier
+  figshare: ex
+  arxiv: ex
+  osf: ex
+  overleaf: ex
+  website: https://matthieuboisgontier.github.io
+
+- name: chalavi_cc_2018
+  date: 2018-01-dd
+  type: journal
+  authors: Chalavi S, Zivari Adab H, Pauwels L, Beets IAM, van Ruitenbeek P, <b>Boisgontier MP</b>, Santos Monteiro T, Maes C, Sunaert S, Swinnen SP
+  title: 'Anatomy of subcortical structures predicts age-related differences in skill acquisition'
+  journal: Cerebral Cortex
+  doi: 10.1093/cercor/bhw382
+  pdf: /doc/publication/2018/01/chalavi_cc_2018.pdf
