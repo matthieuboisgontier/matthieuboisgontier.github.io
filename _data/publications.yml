@@ -210,7 +210,17 @@
   title: 'Proprioception in the cerebellum '
   journal: Frontiers in Human Neuroscience
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
-  doi: 10.3389/fnhum.2014.00212 
+  doi: 10.3389/fnhum.2014.00212
+  
+- name: boisgontier_fan_2014
+  date: 2014-01-01
+  type: journal
+  authors: Boisgontier MP, Van Halewyck F, Corporaal SHA, Willacker L, Van den Bergh V, Beets IAM, Levin O, Swinnen SP
+  title: 'Vision of the active limb impairs bimanual motor tracking in young and older adults'
+  journal: Frontiers in Human Neuroscience
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2014.00320/pdf'
+  doi: 10.3389/fnagi.2014.00320 
+
 
 
 
