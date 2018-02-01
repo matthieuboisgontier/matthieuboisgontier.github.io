@@ -246,7 +246,17 @@
   title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
   journal: Neuroscience and Biobehavioral Reviews
   pdf: /doc/publication/2018/01/boisgontier_nbr_2013
-  doi: 10.1016/j.neubiorev.2013.07.014 
+  doi: 10.1016/j.neubiorev.2013.07.014
+  
+- name: boisgontier_age_2013
+  date: 2013-01-01
+  type: journal
+  authors: Boisgontier MP, Nougier V 
+  title: 'Ageing of internal models: From a continuous to an intermittent proprioceptive control of movement'
+  journal: Age
+  pdf: /doc/publication/2018/01/boisgontier_age_2013
+  doi: 10.1007/s11357-012-9436-4 
+
 
 
 
