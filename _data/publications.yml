@@ -82,7 +82,7 @@
   pdf: /doc/publication/2018/01/boisgontier_nba_2017.pdf 
   doi: 10.1016/j.neurobiolaging.2016.10.024
   
-  - name: boisgontier_fp_2017
+- name: boisgontier_fp_2017
   date: 2017-01-01
   type: journal
   authors: <b>Boisgontier MP</b>, Serbruyns L, Swinnen SP
@@ -90,7 +90,7 @@
   journal: Frontiers in Psychology
   pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00249/pdf
   doi: 10.3389/fpsyg.2017.00249
-
+  
 - name: cheval_pse_2017
   date: 2017-01-01
   type: journal
