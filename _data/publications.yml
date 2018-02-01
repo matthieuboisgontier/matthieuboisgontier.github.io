@@ -177,13 +177,23 @@
   doi: 10.1007/s11357-016-9908-z
   
 - name: boisgontier_fhn_2015
-  date: 2016-01-01
+  date: 2015-01-01
   type: journal
   authors: Boisgontier MP
   title: 'Commentary: Cerebellar direct current stimulation enhances on-line motor skill acquisition through an effect on accuracy'
   journal: Frontiers in Human Neuroscience
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2015.00578/pdf'
   doi: 10.3389/fnhum.2015.00578
+  
+- name: boisgontier_tins_2015
+  date: 2015-01-01
+  type: journal
+  authors: Boisgontier MP
+  title: 'Motor aging results from cerebellar neuron death'
+  journal: Trends in Neurosciences
+  pdf: /doc/publication/2018/01/boisgontier_tins_2015
+  doi: 10.1016/j.tins.2015.01.003
+
 
 
 
