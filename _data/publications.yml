@@ -137,6 +137,16 @@
   authors: Santos Monteiro T, Beets IAM, <b>Boisgontier MP</b>, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
   title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
   journal: Neurobiology of Aging
-  pdf: /doc/publication/2018/01/ santosmonteiro_nba_2017
+  pdf: /doc/publication/2018/01/santosmonteiro_nba_2017
   doi: 10.1016/j.neurobiolaging.2017.06.004
+  
+- name: boisgontier_nbr_2016
+  date: 2016-01-01
+  type: journal
+  authors: <b>Boisgontier MP</b>, Cheval B
+  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
+  journal: Neuroscience & Biobehavioral Reviews
+  pdf: /doc/publication/2018/01/boisgontier_nbr_2016
+  doi: 10.1016/j.neubiorev.2016.05.034
+
 
