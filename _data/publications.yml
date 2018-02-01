@@ -58,8 +58,9 @@
 
 - name: lavrysen_ebr_2018
   date: 2018-01-01
-  type: preprint
+  type: journal
   authors:  Lavrysen A, Levin O, <b>Boisgontier MP</b>, Elliott D, Helsen WF
   title: 'Effects of wrist tendon vibration and eye movements on manual aiming'
+  journal: Experimental Brain Research
   doi: 10.1007/s00221-018-5180-z
   pdf: /doc/publication/2018/01/lavrysen_ebr_2018.pdf
