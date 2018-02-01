@@ -228,7 +228,18 @@
   title: 'Complexity of central processing in simple and choice multilimb reaction-time tasks'
   journal: PLoS One
   pdf: 'http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090457&type=printable'
-  doi: 10.1371/journal.pone.0090457 
+  doi: 10.1371/journal.pone.0090457
+  
+- name: boisgontier_p1_2014
+  date: 2014-01-01
+  type: journal
+  authors: Moineau B, Boisgontier MP 
+  title: 'Superimposed electrical stimulation improves mobility of pre-stiff thumbs after ulnar collateral ligament injury of the metacarpophalangeal joint: a randomized study'
+  journal: Annals of Physical and Rehabilitation Medicine
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S1877065714017084?via%3Dihub#'
+  doi: 10.1016/j.rehab.2014.04.004 
+
+
 
 
 
