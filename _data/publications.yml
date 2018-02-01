@@ -117,3 +117,16 @@
   journal: Neuroscience & Biobehavioral Reviews
   pdf: /doc/publication/2018/01/maes_nbr_2017.pdf
   doi: 10.1016/j.neubiorev.2017.01.052
+  
+- name: bonifazi_bx_2018
+  date: 2018-01-01
+  type: journal
+  authors:  Paolo Bonifazi, Asier Erramuzpe, Ibai Diez, Inigo Gabilondo, <b>Matthieu P Boisgontier</b>, Lisa Pauwels, Sebastiano Stramaglia, Stephan Swinnen, Jesus Cortes
+  title: 'What the structural-functional connectome reveals about brain aging: The key role of the fronto-striatal-thalamic circuit and the rejuvenating impact of physical activity'
+  doi: '10.1101/211425'
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
+  biorxiv: https://www.biorxiv.org/content/early/2017/09/04/183939
+  preprint:
+    doi: '10.1101/183939'
+    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
+    server: BioRxiv
