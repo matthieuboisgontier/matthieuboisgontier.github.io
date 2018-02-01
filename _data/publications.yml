@@ -109,7 +109,7 @@
   pdf: /doc/publication/2018/01/corporaal_hbm_2017.pdf
   doi: 10.1002/hbm.23754
   
-  - name: maes_nbr_2017
+- name: maes_nbr_2017
   date: 2017-01-01
   type: journal
   authors: Maes C, Gooijers J, Orban de Xivry JJ, Swinnen SP, <b>Boisgontier MP</b>
