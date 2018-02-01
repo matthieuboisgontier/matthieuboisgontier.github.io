@@ -272,8 +272,18 @@
   authors: Boisgontier MP, Olivier I, Chenu O, Nougier V
   title: 'Presbypropria: The effects of physiological ageing on proprioceptive control'
   journal: Age
-  pdf: /doc/publication/2018/01/boisgontier_age_2012
-  doi: 10.1007/s11357-011-9300-y 
+  pdf: /doc/publication/2018/01/boisgontier_age_2012.pdf
+  doi: 10.1007/s11357-011-9300-y
+  
+- name: vuillerme_ejap_2010
+  date: 2010-01-01
+  type: journal
+  authors: Vuillerme N, Boisgontier M
+  title: 'Changes in the relative contribution of each leg to the control of quiet two-legged stance following unilateral plantar-flexor muscles fatigue'
+  journal: European Journal of Applied Physiology
+  pdf: /doc/publication/2018/01/vuillerme_ejap_2010.pdf
+  doi: 10.1007/s00421-010-1449-z 
+
 
 
 
