@@ -345,5 +345,15 @@
   title: 'The effects of clothes on independent walking in toddlers'
   journal: Gait & Posture
   pdf: /doc/publication/2018/01/theveniau_gp_2014.pdf
-  doi: 10.1016/j.gaitpost.2013.08.031 
+  doi: 10.1016/j.gaitpost.2013.08.031
+
+- name: moineau_gp_2014
+  date: 2014-01-01
+  type: journal2
+  authors: Moineau B, Boisgontier MP, Barbieri G, Nougier V
+  title: 'A new method to assess temporal features of gait initiation with a single force plate'
+  journal: Gait & Posture
+  pdf: /doc/publication/2018/01/moineau_gp_2014.pdf
+  doi: 10.1016/j.gaitpost.2013.07.007
+
 
