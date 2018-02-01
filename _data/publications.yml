@@ -108,3 +108,13 @@
   journal: Human Brain Mapping
   pdf: /doc/publication/2018/01/corporaal_hbm_2017.pdf
   doi: 10.1002/hbm.23754
+  
+  - name: maes_nbr_2017
+  date: 2017-01-01
+  type: journal
+  authors: Maes C, Gooijers J, Orban de Xivry JJ, Swinnen SP, <b>Boisgontier MP</b>
+  title: 'Two hands, one brain, and aging'
+  journal: Neuroscience & Biobehavioral Reviews
+  pdf: /doc/publication/2018/01/maes_nbr_2017.pdf
+  doi: 10.1016/j.neubiorev.2017.01.052
+
