@@ -42,15 +42,14 @@
   journal: Brain Structure and Function
   pdf: /doc/publication/2018/01/corporaal_bsf_2018.pdf
   doi: 10.1007/s00429-017-1586-9
-  link: ex
   
 - name: cheval_bx_2018
   date: 2018-01-01
   type: preprint
-  authors:  
+  authors:  Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <b>Boisgontier MP</b>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: BioRxiv
-  pdf: /doc/publication/2018/01/cheval_bx_2018.pdf
   doi: 10.1101/211425
-  link: ex
+  pdf: /doc/publication/2018/01/cheval_bx_2018.pdf
+
   
