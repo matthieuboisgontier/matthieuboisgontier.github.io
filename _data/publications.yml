@@ -219,7 +219,17 @@
   title: 'Vision of the active limb impairs bimanual motor tracking in young and older adults'
   journal: Frontiers in Human Neuroscience
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2014.00320/pdf'
-  doi: 10.3389/fnagi.2014.00320 
+  doi: 10.3389/fnagi.2014.00320
+  
+- name: boisgontier_p1_2014
+  date: 2014-01-01
+  type: journal
+  authors: Boisgontier MP, Wittenberg G, Fujiyama H, Levin O, Swinnen SP
+  title: 'Complexity of central processing in simple and choice multilimb reaction-time tasks'
+  journal: PLoS One
+  pdf: 'http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090457&type=printable'
+  doi: 10.1371/journal.pone.0090457 
+
 
 
 
