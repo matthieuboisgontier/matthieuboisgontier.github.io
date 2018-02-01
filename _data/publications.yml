@@ -26,7 +26,7 @@
   
 - name: corporaal_bsf_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors:  Corporaal SHA, Bruijn S, Hoogkamer W, Chalavi S, <b>Boisgontier MP</b>, Duysens J, Swinnen SP, Gooijers J
   title: 'Different neural substrates for precision stepping and fast online step adjustments in youth'
   journal: Brain Structure and Function
@@ -48,7 +48,7 @@
   
 - name: lavrysen_ebr_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors:  Lavrysen A, Levin O, <b>Boisgontier MP</b>, Elliott D, Helsen WF
   title: 'Effects of wrist tendon vibration and eye movements on manual aiming'
   journal: Experimental Brain Research
@@ -93,7 +93,7 @@
   
 - name: cheval_pse_2017
   date: 2017-01-01
-  type: journal
+  type: journal2
   authors: Cheval B, Sarrazin PG, <b>Boisgontier MP</b>, Radel R
   title: 'Temptations toward behaviors minimizing energetic costs automatically activate physical activity goals in successful exercisers'
   journal: Psychology of Sport and Exercise 
@@ -120,7 +120,7 @@
   
 - name: bonifazi_bx_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors:  Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <b>Boisgontier MP</b>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
   title: 'What the structural-functional connectome reveals about brain aging: The key role of the fronto-striatal-thalamic circuit and the rejuvenating impact of physical activity'
   doi: '10.1101/183939'
