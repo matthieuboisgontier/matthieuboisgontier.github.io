@@ -193,6 +193,16 @@
   journal: Trends in Neurosciences
   pdf: /doc/publication/2018/01/boisgontier_tins_2015
   doi: 10.1016/j.tins.2015.01.003
+  
+- name: boisgontier_fan_2015
+  date: 2015-01-01
+  type: journal
+  authors: Boisgontier MP, Swinnen SP
+  title: 'Age-related deficit in a bimanual joint position matching task is amplitude dependent'
+  journal: Frontiers in Aging Neuroscience
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2015.00162/pdf'
+  doi: 10.3389/fnagi.2015.00162 
+
 
 
 
