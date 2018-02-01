@@ -64,3 +64,11 @@
   pdf: /doc/publication/2018/01/cheval_msse_2018.pdf 
   doi: 10.1249/MSS.0000000000001472 
 
+- name: zivariadab_ejn_2018
+  Date: 2018-01-01
+  type: journal
+  authors: Zivari Adab H , Chalavi S , Beets IAM , Gooijers J, Leunissen I, Cheval B, Collier Q, Sijbers J, Jeurissen B, Swinnen SP, <b>Boisgontier MP</b>
+  title: 'White matter microstructural organization of interhemispheric pathways predicts different stages of bimanual coordination learning in young and older adults'
+  journal: European Journal of Neuroscience
+  pdf: /doc/publication/2018/01/zivariadab_ejn_2018.pdf 
+  doi: 10.1111/ejn.13841
