@@ -123,10 +123,20 @@
   type: journal
   authors:  Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <b>Boisgontier MP</b>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
   title: 'What the structural-functional connectome reveals about brain aging: The key role of the fronto-striatal-thalamic circuit and the rejuvenating impact of physical activity'
-  doi: '10.1101/211425'
+  doi: '10.1101/183939'
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2017/09/04/183939
   preprint:
     doi: '10.1101/183939'
     pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
     server: BioRxiv
+  
+- name: santosmonteiro_nba_2017
+  date: 2017-01-01
+  type: journal
+  authors: Santos Monteiro T, Beets IAM, <b>Boisgontier MP</b>, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
+  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
+  journal: Neurobiology of Aging
+  pdf: /doc/publication/2018/01/ santosmonteiro_nba_2017
+  doi: 10.1016/j.neurobiolaging.2017.06.004
+
