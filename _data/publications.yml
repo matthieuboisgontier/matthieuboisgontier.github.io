@@ -255,7 +255,17 @@
   title: 'Ageing of internal models: From a continuous to an intermittent proprioceptive control of movement'
   journal: Age
   pdf: /doc/publication/2018/01/boisgontier_age_2013
-  doi: 10.1007/s11357-012-9436-4 
+  doi: 10.1007/s11357-012-9436-4
+  
+- name: boisgontier_nsl_2013
+  date: 2013-01-01
+  type: journal
+  authors: Boisgontier MP, Nougier V 
+  title: 'Proprioception: bilateral inputs first'
+  journal: Neuroscience Letters
+  pdf: /doc/publication/2018/01/boisgontier_nsl_2013
+  doi: 10.1016/j.neulet.2012.11.050
+
 
 
 
