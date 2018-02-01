@@ -65,7 +65,7 @@
   doi: 10.1249/MSS.0000000000001472 
 
 - name: zivariadab_ejn_2018
-  Date: 2018-01-01
+  date: 2018-01-01
   type: journal
   authors: Zivari Adab H , Chalavi S , Beets IAM , Gooijers J, Leunissen I, Cheval B, Collier Q, Sijbers J, Jeurissen B, Swinnen SP, <b>Boisgontier MP</b>
   title: 'White matter microstructural organization of interhemispheric pathways predicts different stages of bimanual coordination learning in young and older adults'
@@ -74,7 +74,7 @@
   doi: 10.1111/ejn.13841
   
   - name: boisgontier_nba_2017
-  Date: 2017-01-01
+  date: 2017-01-01
   type: journal
   authors: <b>Boisgontier MP</b>, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
   title: 'Individual differences in brainstem and basal ganglia structure predict postural control and loss of balance in young and older adults'
