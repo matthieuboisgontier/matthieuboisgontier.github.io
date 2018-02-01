@@ -90,3 +90,13 @@
   journal: Frontiers in Psychology
   pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00249/pdf
   doi: 10.3389/fpsyg.2017.00249
+  
+  - name: cheval_pse_2017
+  date: 2017-01-01
+  type: journal
+  authors: Cheval B, Sarrazin PG, <b>Boisgontier MP</b>, Radel R
+  title: 'Temptations toward behaviors minimizing energetic costs automatically activate physical activity goals in successful exercisers'
+  journal: Psychology of Sport and Exercise 
+  pdf: /doc/publication/2018/01/cheval_pse_2017.pdf
+  doi: 10.1016/j.psychsport.2017.02.006
+
