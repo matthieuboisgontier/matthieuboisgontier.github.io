@@ -63,7 +63,7 @@
   journal: Medicine & Science in Sports & Exercise.
   pdf: /doc/publication/2018/01/cheval_msse_2018.pdf 
   doi: 10.1249/MSS.0000000000001472 
-
+  
 - name: zivariadab_ejn_2018
   date: 2018-01-01
   type: journal
@@ -73,7 +73,7 @@
   pdf: /doc/publication/2018/01/zivariadab_ejn_2018.pdf 
   doi: 10.1111/ejn.13841
   
-  - name: boisgontier_nba_2017
+- name: boisgontier_nba_2017
   date: 2017-01-01
   type: journal
   authors: <b>Boisgontier MP</b>, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
@@ -90,8 +90,8 @@
   journal: Frontiers in Psychology
   pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00249/pdf
   doi: 10.3389/fpsyg.2017.00249
-  
-  - name: cheval_pse_2017
+
+- name: cheval_pse_2017
   date: 2017-01-01
   type: journal
   authors: Cheval B, Sarrazin PG, <b>Boisgontier MP</b>, Radel R
