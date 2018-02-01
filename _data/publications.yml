@@ -237,7 +237,17 @@
   title: 'Superimposed electrical stimulation improves mobility of pre-stiff thumbs after ulnar collateral ligament injury of the metacarpophalangeal joint: a randomized study'
   journal: Annals of Physical and Rehabilitation Medicine
   pdf: 'https://www.sciencedirect.com/science/article/pii/S1877065714017084/pdfft?md5=42e6a74d9d474985e528ad3d94884463&pid=1-s2.0-S1877065714017084-main.pdf'
-  doi: 10.1016/j.rehab.2014.04.004 
+  doi: 10.1016/j.rehab.2014.04.004
+  
+- name: boisgontier_nbr_2013
+  date: 2013-01-01
+  type: journal
+  authors: Boisgontier MP, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
+  title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
+  journal: Neuroscience and Biobehavioral Reviews
+  pdf: /doc/publication/2018/01/boisgontier_nbr_2013
+  doi: 10.1016/j.neubiorev.2013.07.014 
+
 
 
 
