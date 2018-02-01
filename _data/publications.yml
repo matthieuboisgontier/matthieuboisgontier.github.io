@@ -166,3 +166,13 @@
   journal: Human Brain Mapping
   pdf: /doc/publication/2018/01/boisgontier_hbm_2016
   doi: 10.1002/hbm.23333
+  
+- name: helsen_age_2016
+  date: 2016-01-01
+  type: journal2
+  authors: Helsen WF, Van Halewyck F, Levin O, Boisgontier MP, Lavrysen A, Elliott D
+  title: 'Manual aiming in healthy aging: Does proprioception acuity make the difference?'
+  journal: Age
+  pdf: /doc/publication/2018/01/helsen_age_2016
+  doi: 10.1007/s11357-016-9908-z
+
