@@ -265,6 +265,15 @@
   journal: Neuroscience Letters
   pdf: /doc/publication/2018/01/boisgontier_nl_2013.pdf
   doi: 10.1016/j.neulet.2012.11.050
+  
+- name: boisgontier_age_2012
+  date: 2012-01-01
+  type: journal
+  authors: Boisgontier MP, Olivier I, Chenu O, Nougier V
+  title: 'Presbypropria: The effects of physiological ageing on proprioceptive control'
+  journal: Age
+  pdf: /doc/publication/2018/01/boisgontier_age_2012
+  doi: 10.1007/s11357-011-9300-y 
 
 
 
