@@ -329,16 +329,21 @@
   pdf: /doc/publication/2018/01/levin_nbr_2014.pdf
   doi: 10.1016/j.neubiorev.2014.04.001
   
-- name: vanhalewyck _hms_2014
+- name: vanhalewyck_hms_2014
   date: 2014-01-01
   type: journal2
   authors: Van Halewyck F, Lavrysen A, Levin O, Boisgontier MP, Elliott D, Helsen WF 
   title: 'Both age and physical activity level impact on eye-hand coordination'
   journal: Human Movement Science
-  pdf: /doc/publication/2018/01/vanhalewyck _hms_2014
+  pdf: /doc/publication/2018/01/vanhalewyck _hms_2014.pdf
   doi: 10.1016/j.humov.2014.05.005
-
-
-
-
+  
+- name: theveniau_gp_2014
+  date: 2014-01-01
+  type: journal2
+  authors: Théveniau N, Boisgontier MP, Varieras S, Olivier I
+  title: 'The effects of clothes on independent walking in toddlers'
+  journal: Gait & Posture
+  pdf: /doc/publication/2018/01/theveniau_gp_2014.pdf
+  doi: 10.1016/j.gaitpost.2013.08.031 
 
