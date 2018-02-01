@@ -319,6 +319,16 @@
   journal: Experimental Brain Research
   pdf: /doc/publication/2018/01/vanhalewyck_ebr_2015.pdf
   doi: 10.1007/s00221-015-4247-3
+  
+- name: levin_nbr_2014
+  date: 2014-01-01
+  type: journal2
+  authors: Levin O, Fujiyama H, Boisgontier MP, Swinnen SP, Summers JJ 
+  title: 'Aging and motor inhibition: A converging perspective provided by brain stimulation and imaging approaches'
+  journal: Neuroscience & Biobehavioral Reviews
+  pdf: /doc/publication/2018/01/levin_nbr_2014.pdf
+  doi: 10.1016/j.neubiorev.2014.04.001
+
 
 
 
