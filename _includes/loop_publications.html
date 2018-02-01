@@ -1,5 +1,5 @@
 {% assign pubs = site.data.publications | reverse %}
-<h2>Journal Articles as First or Last Author</h2>
+<h2>Articles as First or Last Author</h2>
 <ul class="cv">
 
   {% for pub in pubs %}
@@ -10,7 +10,7 @@
 
       {{ pub.authors }} ({% if pub.status %}{{ pub.status }}{% else %}{{pub.date | date: "%Y"}}{% endif %}). {% if pub.doi %}
       <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.title }}</a>. {% elsif pub.pdf %}
-      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal %}<i>{{ pub.journal }}</i>. {% endif %}{% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
+      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal %}<b>{{ pub.journal }}</b>. {% endif %}{% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
 
       <span class="small-icons">
       {% if pub.biorxiv %}
@@ -44,7 +44,7 @@
 
 </ul>
 
-<h2>Journal Articles as Co-Author</h2>
+<h2>Articles as Co-Author</h2>
 <ul class="cv">
 
   {% for pub in pubs %}
@@ -55,7 +55,7 @@
 
       {{ pub.authors }} ({% if pub.status %}{{ pub.status }}{% else %}{{pub.date | date: "%Y"}}{% endif %}). {% if pub.doi %}
       <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.title }}</a>. {% elsif pub.pdf %}
-      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal2 %}<i>{{ pub.journal2 }}</i>. {% endif %}{% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
+      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal2 %}<b>{{ pub.journal2 }}</b>. {% endif %}{% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
 
       <span class="small-icons">
       {% if pub.biorxiv %}
