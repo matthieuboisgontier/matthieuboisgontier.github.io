@@ -48,6 +48,7 @@
   type: journal
   authors:  Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <b>Boisgontier MP</b>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
+  journal: test
   doi: '10.7554/eLife.21397'
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2017/10/30/211425
