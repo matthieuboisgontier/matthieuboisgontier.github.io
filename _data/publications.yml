@@ -328,6 +328,16 @@
   journal: Neuroscience & Biobehavioral Reviews
   pdf: /doc/publication/2018/01/levin_nbr_2014.pdf
   doi: 10.1016/j.neubiorev.2014.04.001
+  
+- name: vanhalewyck _hms_2014
+  date: 2014-01-01
+  type: journal2
+  authors: Van Halewyck F, Lavrysen A, Levin O, Boisgontier MP, Elliott D, Helsen WF 
+  title: 'Both age and physical activity level impact on eye-hand coordination'
+  journal: Human Movement Science
+  pdf: /doc/publication/2018/01/vanhalewyck _hms_2014
+  doi: 10.1016/j.humov.2014.05.005
+
 
 
 
