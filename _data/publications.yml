@@ -284,7 +284,7 @@
   pdf: /doc/publication/2018/01/vuillermeboisgontier_ejap_2010.pdf
   doi: 10.1007/s00421-010-1449-z 
   
-- name: vuillerme_ejap_2009
+- name: vuillerme_gp_2009
   date: 2009-01-01
   type: journal
   authors: Vuillerme N, Boisgontier M
@@ -292,6 +292,16 @@
   journal: Gait & Posture
   pdf: /doc/publication/2018/01/vuillerme_gp_2009
   doi: 10.1016/j.gaitpost.2009.07.124
+  
+- name: vuillerme_gp_2008
+  date: 2008-01-01
+  type: journal
+  authors: Vuillerme N, Boisgontier M
+  title: 'Muscle fatigue degrades force sense at the ankle joint'
+  journal: Gait & Posture
+  pdf: /doc/publication/2018/01/vuillerme_gp_2009
+  doi: 10.1016/j.gaitpost.2008.03.005
+
 
 
 
