@@ -52,3 +52,12 @@
     doi: '10.1101/211425'
     pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
     server: bioRxivjournal: BioRxiv
+
+- name: cheval_bx_2018
+  date: 2018-01-01
+  type: preprint
+  authors:  Lavrysen A, Levin O, <b>Boisgontier MP</b>, Elliott D, Helsen WF
+  title: 'Effects of wrist tendon vibration and eye movements on manual aiming'
+  doi: 10.1007/s00221-018-5180-z
+  pdf: /doc/publication/2018/01/lavrysen_ebr_2018.pdf
+
