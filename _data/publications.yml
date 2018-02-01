@@ -99,4 +99,12 @@
   journal: Psychology of Sport and Exercise 
   pdf: /doc/publication/2018/01/cheval_pse_2017.pdf
   doi: 10.1016/j.psychsport.2017.02.006
-
+  
+  - name: corporaal_hbm_2017
+  date: 2017-01-01
+  type: journal
+  authors: Corporaal SHA, Gooijers J, Chalavi S, Cheval B, Swinnen SP, <b>Boisgontier MP</b>
+  title: 'Neural predictors of motor control and impact of visuo-proprioceptive information in youth'
+  journal: Human Brain Mapping
+  pdf: /doc/publication/2018/01/corporaal_hbm_2017.pdf
+  doi: 10.1002/hbm.23754
