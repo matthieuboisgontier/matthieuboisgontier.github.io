@@ -1,3 +1,12 @@
+- name: boisgontier_fhn_2014
+  date: 2014-01-01
+  type: journal
+  authors: Boisgontier MP, Swinnen SP
+  title: 'Proprioception in the cerebellum '
+  journal: Frontiers in Human Neuroscience
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
+  doi: 10.3389/fnhum.2014.00212
+  
 - name: boisgontier_nba_2018_authorsversion
   date: 2018-01-01
   type: journal
@@ -202,15 +211,6 @@
   journal: Frontiers in Aging Neuroscience
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2015.00162/pdf'
   doi: 10.3389/fnagi.2015.00162
-  
-- name: boisgontier_fhn_2014
-  date: 2014-01-01
-  type: journal
-  authors: Boisgontier MP, Swinnen SP
-  title: 'Proprioception in the cerebellum '
-  journal: Frontiers in Human Neuroscience
-  pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
-  doi: 10.3389/fnhum.2014.00212
   
 - name: boisgontier_fan_2014
   date: 2014-01-01
