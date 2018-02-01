@@ -53,7 +53,7 @@
     pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
     server: bioRxivjournal: BioRxiv
 
-- name: cheval_bx_2018
+- name: lavrysen_ebr_2018
   date: 2018-01-01
   type: preprint
   authors:  Lavrysen A, Levin O, <b>Boisgontier MP</b>, Elliott D, Helsen WF
