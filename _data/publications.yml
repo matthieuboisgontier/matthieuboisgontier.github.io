@@ -33,15 +33,15 @@
   journal: Age
   pdf: /doc/publication/2018/01/boisgontier_age_2012.pdf
   doi: 10.1007/s11357-011-9300-y
-
-- name: boisgontier_nbr_2013
+  
+- name: boisgontier_nl_2013
   date: 2013-01-01
   type: journal
-  authors: Boisgontier MP, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
-  title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
-  journal: Neuroscience and Biobehavioral Reviews
-  pdf: /doc/publication/2018/01/boisgontier_nbr_2013.pdf
-  doi: 10.1016/j.neubiorev.2013.07.014
+  authors: Boisgontier MP, Nougier V 
+  title: 'Proprioception: bilateral inputs first'
+  journal: Neuroscience Letters
+  pdf: /doc/publication/2018/01/boisgontier_nl_2013.pdf
+  doi: 10.1016/j.neulet.2012.11.050
   
 - name: boisgontier_age_2013
   date: 2013-01-01
@@ -52,14 +52,23 @@
   pdf: /doc/publication/2018/01/boisgontier_age_2013.pdf
   doi: 10.1007/s11357-012-9436-4
   
-- name: boisgontier_nl_2013
+- name: boisgontier_nbr_2013
   date: 2013-01-01
   type: journal
-  authors: Boisgontier MP, Nougier V 
-  title: 'Proprioception: bilateral inputs first'
-  journal: Neuroscience Letters
-  pdf: /doc/publication/2018/01/boisgontier_nl_2013.pdf
-  doi: 10.1016/j.neulet.2012.11.050
+  authors: Boisgontier MP, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
+  title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
+  journal: Neuroscience and Biobehavioral Reviews
+  pdf: /doc/publication/2018/01/boisgontier_nbr_2013.pdf
+  doi: 10.1016/j.neubiorev.2013.07.014
+  
+- name: moineau_aprm_2014
+  date: 2014-01-01
+  type: journal
+  authors: Moineau B, Boisgontier MP 
+  title: 'Superimposed electrical stimulation improves mobility of pre-stiff thumbs after ulnar collateral ligament injury of the metacarpophalangeal joint: a randomized study'
+  journal: Annals of Physical and Rehabilitation Medicine
+  pdf: /doc/publication/2018/01/moineau_aprm_2014.pdf
+  doi: 10.1016/j.rehab.2014.04.004
   
 - name: boisgontier_fan_2014
   date: 2014-01-01
@@ -105,15 +114,6 @@
   journal: Gait & Posture
   pdf: /doc/publication/2018/01/moineau_gp_2014.pdf
   doi: 10.1016/j.gaitpost.2013.07.007
-  
-- name: boisgontier_p1_2014
-  date: 2014-01-01
-  type: journal
-  authors: Moineau B, Boisgontier MP 
-  title: 'Superimposed electrical stimulation improves mobility of pre-stiff thumbs after ulnar collateral ligament injury of the metacarpophalangeal joint: a randomized study'
-  journal: Annals of Physical and Rehabilitation Medicine
-  pdf: /doc/publication/2018/01/moineau_aprm_2014.pdf
-  doi: 10.1016/j.rehab.2014.04.004
 
 - name: levin_nbr_2014
   date: 2014-01-01
@@ -160,6 +160,15 @@
   pdf: /doc/publication/2018/01/vanhalewyck_ebr_2015.pdf
   doi: 10.1007/s00221-015-4247-3
   
+- name: boisgontier_fan_2015
+  date: 2015-01-01
+  type: journal
+  authors: Boisgontier MP, Swinnen SP
+  title: 'Age-related deficit in a bimanual joint position matching task is amplitude dependent'
+  journal: Frontiers in Aging Neuroscience
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2015.00162/pdf'
+  doi: 10.3389/fnagi.2015.00162
+  
 - name: boisgontier_tins_2015
   date: 2015-01-01
   type: journal
@@ -169,14 +178,14 @@
   pdf: /doc/publication/2018/01/boisgontier_tins_2015.pdf
   doi: 10.1016/j.tins.2015.01.003
   
-- name: boisgontier_fan_2015
-  date: 2015-01-01
+  - name: boisgontier_gp_2016
+  date: 2016-01-01
   type: journal
-  authors: Boisgontier MP, Swinnen SP
-  title: 'Age-related deficit in a bimanual joint position matching task is amplitude dependent'
-  journal: Frontiers in Aging Neuroscience
-  pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2015.00162/pdf'
-  doi: 10.3389/fnagi.2015.00162
+  authors: Boisgontier MP, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
+  title: 'Whole-brain grey matter density predicts balance stability irrespective of age and protects older adults from falling'
+  journal: Gait & Posture
+  pdf: /doc/publication/2018/01/boisgontier_gp_2016.pdf
+  doi: 10.1016/j.gaitpost.2016.01.019
   
 - name: boisgontier_nbr_2016
   date: 2016-01-01
@@ -187,15 +196,6 @@
   pdf: /doc/publication/2018/01/boisgontier_nbr_2016.pdf
   doi: 10.1016/j.neubiorev.2016.05.034
   
-- name: boisgontier_gp_2016
-  date: 2016-01-01
-  type: journal
-  authors: Boisgontier MP, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
-  title: 'Whole-brain grey matter density predicts balance stability irrespective of age and protects older adults from falling'
-  journal: Gait & Posture
-  pdf: /doc/publication/2018/01/boisgontier_gp_2016.pdf
-  doi: 10.1016/j.gaitpost.2016.01.019
- 
 - name: boisgontier_hbm_2016
   date: 2016-01-01
   type: journal
@@ -214,15 +214,6 @@
   pdf: /doc/publication/2018/01/helsen_age_2016.pdf
   doi: 10.1007/s11357-016-9908-z
   
-- name: boisgontier_nba_2017
-  date: 2017-01-01
-  type: journal
-  authors: Boisgontier MP, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
-  title: 'Individual differences in brainstem and basal ganglia structure predict postural control and loss of balance in young and older adults'
-  journal: Neurobiology of Aging
-  pdf: /doc/publication/2018/01/boisgontier_nba_2017.pdf 
-  doi: 10.1016/j.neurobiolaging.2016.10.024
-  
 - name: boisgontier_fp_2017
   date: 2017-01-01
   type: journal
@@ -232,14 +223,14 @@
   pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00249/pdf
   doi: 10.3389/fpsyg.2017.00249
   
-- name: santosmonteiro_nba_2017
+- name: boisgontier_nba_2017
   date: 2017-01-01
-  type: journal2
-  authors: Santos Monteiro T, Beets IAM, Boisgontier MP, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
-  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
+  type: journal
+  authors: Boisgontier MP, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
+  title: 'Individual differences in brainstem and basal ganglia structure predict postural control and loss of balance in young and older adults'
   journal: Neurobiology of Aging
-  pdf: /doc/publication/2018/01/santosmonteiro_nba_2017.pdf
-  doi: 10.1016/j.neurobiolaging.2017.06.004
+  pdf: /doc/publication/2018/01/boisgontier_nba_2017.pdf 
+  doi: 10.1016/j.neurobiolaging.2016.10.024
   
 - name: cheval_pse_2017
   date: 2017-01-01
@@ -249,6 +240,15 @@
   journal: Psychology of Sport and Exercise
   pdf: /doc/publication/2018/01/cheval_pse_2017.pdf
   doi: 10.1016/j.psychsport.2017.02.006
+  
+- name: santosmonteiro_nba_2017
+  date: 2017-01-01
+  type: journal2
+  authors: Santos Monteiro T, Beets IAM, Boisgontier MP, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
+  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
+  journal: Neurobiology of Aging
+  pdf: /doc/publication/2018/01/santosmonteiro_nba_2017.pdf
+  doi: 10.1016/j.neurobiolaging.2017.06.004
   
 - name: corporaal_hbm_2017
   date: 2017-01-01
