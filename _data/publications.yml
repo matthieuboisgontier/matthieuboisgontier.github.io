@@ -132,7 +132,7 @@
   journal: Frontiers in Human Neuroscience
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
   doi: 10.3389/fnhum.2014.00212
-
+  
 - name: boisgontier_fhn_2015
   date: 2015-01-01
   type: journal
@@ -178,7 +178,7 @@
   pdf: /doc/publication/2018/01/boisgontier_tins_2015.pdf
   doi: 10.1016/j.tins.2015.01.003
   
-  - name: boisgontier_gp_2016
+- name: boisgontier_gp_2016
   date: 2016-01-01
   type: journal
   authors: Boisgontier MP, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
@@ -349,7 +349,7 @@
     doi: '10.1101/183939'
     pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
     server: BioRxiv
-    
+  
 - name: boisgontier_nba_2018
   date: 2018-01-01
   type: journal
