@@ -10,7 +10,9 @@
 
       {{ pub.authors }}. <br /> {% if pub.doi %}
       {{ pub.title }}</a>. {% elsif pub.pdf %}
-      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}.<br /> {% endif %} {% if pub.journal %}<b>{{ pub.journal }}</b> {% if pub.status %}<b>{{ pub.status }}</b>{% else %}<b>{{pub.date | date: "%Y"}}</b>{% endif %}. {% endif %}{% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
+      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}.<br /> {% endif %} 
+      {% if pub.journal %}<b>{{ pub.journal }}</b> {% if pub.status %}<b>{{ pub.status }}</b>{% else %}<b>{{pub.date | date: "%Y"}}</b>{% endif %}.
+      {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
 
       <span class="small-icons">
       {% if pub.biorxiv %}
