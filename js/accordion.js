@@ -16,6 +16,9 @@ $(function() {
     active = 0;
   } else if (hash === 'cv' | hash === 'curriculum_vitae' | hash === 'vitae') {
     active = 1;
+  } else if (hash === 'ArticlesFirst')
+  {
+    active = 1;
   }
   if (hash) {
     $('#accordion').accordion('option', 'active', active);
