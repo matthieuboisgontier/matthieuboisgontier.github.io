@@ -15,7 +15,7 @@
       <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;clear:both"></div>
 
       {{ pub.authors }}.{% if pub.doi %}
-      {{ pub.title }}</a>. {% elsif pub.pdf %}
+      <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.title }}</a>. {% elsif pub.pdf %}
       <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} 
       {% if pub.journal %}<b>{{ pub.journal }}</b> {% if pub.status %}<b>{{ pub.status }}</b>{% else %}<b>{{pub.date | date: "%Y"}}</b>{% endif %}.
       {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
