@@ -65,7 +65,7 @@
         <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="false" data-pass-hidden-categories="true"></a>
       </div>   
       {{ pub.authors }}.<br/>
-      {{ pub.title }}. 
+      {{ pub.title }}.<br/> 
       
       {% if pub.journal %}
         <b>{{ pub.journal }}</b> 
@@ -73,12 +73,11 @@
           <b>{{ pub.status }}</b>
         {% else %}
           <b>{{pub.date | date: "%Y"}}</b>
-            {% if pub.pageinfo %}<i>({{pub.pageinfo}})</i>{% endif %} 
+            {% if pub.pageinfo %}<i>({{pub.pageinfo}})</i>{% endif %}
+            {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
         {% endif %}. 
       {% endif %}
       
-      {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
-
       <span class="small-icons">
         {% if pub.biorxiv %}
           <a href="{{ pub.biorxiv }}" title="bioRxiv"><i class="ai ai-biorxiv" aria-hidden="true"></i></a>
