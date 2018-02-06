@@ -61,8 +61,10 @@
     {% if pub.type == 'journal2' %}
     <li class="cv">
 
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;clear:both"></div>
-
+      <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;clear:both"></div> -->
+      <div style="float:right;clear:both">
+        <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true"></a>
+      </div>   
       {{ pub.authors }}.<br/>
       {{ pub.title }}. 
       
