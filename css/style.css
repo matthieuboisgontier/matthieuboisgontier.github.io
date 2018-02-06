@@ -88,11 +88,6 @@ body {
   -moz-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
   filter: none;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
 }
 
 #description img:hover {
