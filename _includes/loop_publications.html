@@ -20,11 +20,9 @@
         {% else %}
           <b>{{pub.date | date: "%Y"}}</b>
             {% if pub.pageinfo %}<i>, {{pub.pageinfo}}.</i>{% endif %} 
-            {% if pub.doi %} {{ pub.doi }}. {% endif %}
+            {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
         {% endif %}
       {% endif %}
-
-      {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>. {% endif %}
 
       <span class="small-icons">
         {% if pub.biorxiv %}
