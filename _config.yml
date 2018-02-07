@@ -2,6 +2,11 @@
 # This file contains configuration flags to customize your site
 #
 
+#Letting Search Engines know - HTTPS config
+url: https://matthieuboisgontier.com
+enforce_ssl: matthieuboisgontier.com
+
+
 # Name of your site (displayed in the header)
 name: Matthieu Boisgontier
 
