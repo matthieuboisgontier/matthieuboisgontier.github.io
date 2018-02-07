@@ -316,7 +316,7 @@
 - name: cheval_msse_2018
   date: 2018-01-01
   type: journal
-  authors: Cheval B, Sieber S, Guessous I, Orsholits D, Courvoisier DS, Kliegel M, Stringhini S, Swinnen SP, Burton-Jeangros C, Cullati S, </u>Boisgontier MP<u>
+  authors: Cheval B, Sieber S, Guessous I, Orsholits D, Courvoisier DS, Kliegel M, Stringhini S, Swinnen SP, Burton-Jeangros C, Cullati S, <u>Boisgontier MP</u>
   title: 'Effect of early- and adult-life socioeconomic circumstances on physical inactivity'
   journal: Medicine & Science in Sports & Exercise
   pageinfo:
