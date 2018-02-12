@@ -88,16 +88,6 @@
   pdf: 'http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090457&type=printable'
   doi: 10.1371/journal.pone.0090457
   
-- name: vanhalewyck_hms_2014
-  date: 2014-01-01
-  type: journal2
-  authors: Van Halewyck F, Lavrysen A, Levin O, <u>Boisgontier MP</u>, Elliott D, Helsen WF 
-  title: 'Both age and physical activity level impact on eye-hand coordination'
-  journal: Human Movement Science
-  pageinfo: 36C:80–96
-  pdf: /doc/publication/2018/01/vanhalewyck _hms_2014.pdf
-  doi: 10.1016/j.humov.2014.05.005
-  
 - name: theveniau_gp_2014
   date: 2014-01-01
   type: journal2
@@ -107,7 +97,7 @@
   pageinfo: 39:659–661
   pdf: /doc/publication/2018/01/theveniau_gp_2014.pdf
   doi: 10.1016/j.gaitpost.2013.08.031
-
+  
 - name: moineau_gp_2014
   date: 2014-01-01
   type: journal2
@@ -117,6 +107,16 @@
   pageinfo: 39:631–633
   pdf: /doc/publication/2018/01/moineau_gp_2014.pdf
   doi: 10.1016/j.gaitpost.2013.07.007
+  
+- name: vanhalewyck_hms_2014
+  date: 2014-01-01
+  type: journal2
+  authors: Van Halewyck F, Lavrysen A, Levin O, <u>Boisgontier MP</u>, Elliott D, Helsen WF 
+  title: 'Both age and physical activity level impact on eye-hand coordination'
+  journal: Human Movement Science
+  pageinfo: 36C:80–96
+  pdf: /doc/publication/2018/01/vanhalewyck_hms_2014.pdf
+  doi: 10.1016/j.humov.2014.05.005
   
 - name: levin_nbr_2014
   date: 2014-01-01
