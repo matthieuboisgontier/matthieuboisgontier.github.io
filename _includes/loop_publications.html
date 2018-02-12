@@ -69,8 +69,7 @@
         {% if pub.status %}
           <b>{{ pub.status }}</b>
         {% else %}
-          <b>{{pub.date | date: "%Y"}}</b>
-            {% if pub.pageinfo %}, <i>{{ pub.pageinfo }}.</i>{% endif %}
+          <b>{{pub.date | date: "%Y"}}</b>{% if pub.pageinfo %}, <i>{{ pub.pageinfo }}.</i>{% endif %}
             {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
         {% endif %}. 
       {% endif %}
