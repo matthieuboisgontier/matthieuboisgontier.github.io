@@ -18,7 +18,7 @@
           <b>{{ pub.status }}</b>
         {% else %}
           <b>{{pub.date | date: "%Y"}}</b>{% if pub.pageinfo %}, <i>{{ pub.pageinfo }}.</i>{% endif %} 
-            {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
+            {% if pub.doi %}doi: {{ pub.doi }}{% endif %}
         {% endif %}
       {% endif %}
 
@@ -70,8 +70,8 @@
           <b>{{ pub.status }}</b>
         {% else %}
           <b>{{pub.date | date: "%Y"}}</b>{% if pub.pageinfo %}, <i>{{ pub.pageinfo }}.</i>{% endif %}
-            {% if pub.doi %}doi: {{ pub.doi }}. {% endif %}
-        {% endif %}. 
+            {% if pub.doi %}doi: {{ pub.doi }}{% endif %}
+        {% endif %} 
       {% endif %}
       
       <span class="small-icons">
