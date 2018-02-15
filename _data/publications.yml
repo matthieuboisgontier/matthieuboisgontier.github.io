@@ -1,6 +1,6 @@
 - name: vuillerme_ebr_2007
   date: 2007-01-01 
-  type: journal
+  type: journal2
   authors: Vuillerme N, Pinsault N, Chenu O, <u>Boisgontier M</u>, Demongeot J, Payan Y
   title: 'How a plantar pressure-based, tongue-placed tactile biofeedback modifies postural control mechanisms during quiet standing'
   journal: Experimental Brain Research
@@ -10,7 +10,7 @@
  
 - name: vuillerme_ebr2_2007
   date: 2007-01-01 
-  type: journal
+  type: journal2
   authors: Vuillerme N, <u>Boisgontier M</u>, Chenu O, Demongeot J, Payan Y
   title: 'Tongue-placed tactile biofeedback suppresses the deleterious effects of muscle fatigue on joint position sense at the ankle'
   journal: Experimental Brain Research
