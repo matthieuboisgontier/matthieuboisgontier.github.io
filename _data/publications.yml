@@ -208,6 +208,16 @@
   pdf: /doc/publication/2018/01/boisgontier_nbr_2016.pdf
   doi: 10.1016/j.neubiorev.2016.05.034
   
+- name: helsen_age_2016
+  date: 2016-01-01
+  type: journal2
+  authors: Helsen WF, Van Halewyck F, Levin O, <u>Boisgontier MP</u>, Lavrysen A, Elliott D
+  title: 'Manual aiming in healthy aging: Does proprioception acuity make the difference?'
+  journal: Age
+  pageinfo: 38:45
+  pdf: /doc/publication/2018/01/helsen_age_2016.pdf
+  doi: 10.1007/s11357-016-9908-z  
+    
 - name: boisgontier_hbm_2016
   date: 2016-01-01
   type: journal
@@ -218,25 +228,15 @@
   pdf: /doc/publication/2018/01/boisgontier_hbm_2016.pdf
   doi: 10.1002/hbm.23333
   
-- name: helsen_age_2016
-  date: 2016-01-01
-  type: journal2
-  authors: Helsen WF, Van Halewyck F, Levin O, <u>Boisgontier MP</u>, Lavrysen A, Elliott D
-  title: 'Manual aiming in healthy aging: Does proprioception acuity make the difference?'
-  journal: Age
-  pageinfo: 38:45
-  pdf: /doc/publication/2018/01/helsen_age_2016.pdf
-  doi: 10.1007/s11357-016-9908-z
-  
-- name: santosmonteiro_nba_2017
+- name: boisgontier_fip_2017
   date: 2017-01-01
-  type: journal2
-  authors: Santos Monteiro T, Beets IAM, <u>Boisgontier MP</u>, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
-  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
-  journal: Neurobiology of Aging
-  pageinfo: 58:54–67
-  pdf: /doc/publication/2018/01/santosmonteiro_nba_2017.pdf
-  doi: 10.1016/j.neurobiolaging.2017.06.004
+  type: journal
+  authors: <u>Boisgontier MP</u>, Serbruyns L, Swinnen SP
+  title: 'Physical activity predicts performance in an unpracticed bimanual coordination task'
+  journal: Frontiers in Psychology
+  pageinfo: 8:249
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00249/pdf'
+  doi: 10.3389/fpsyg.2017.00249
   
 - name: cheval_pse_2017
   date: 2017-01-01
@@ -247,6 +247,16 @@
   pageinfo: 30:110–117
   pdf: /doc/publication/2018/01/cheval_pse_2017.pdf
   doi: 10.1016/j.psychsport.2017.02.006
+    
+- name: santosmonteiro_nba_2017
+  date: 2017-01-01
+  type: journal2
+  authors: Santos Monteiro T, Beets IAM, <u>Boisgontier MP</u>, Gooijers J, Pauwels L, Chalavi S, King B, Albouy G, Swinnen SP 
+  title: 'Relative cortico-subcortical shift in brain activity but preserved training-induced neural modulation in older adults during bimanual motor learning'
+  journal: Neurobiology of Aging
+  pageinfo: 58:54–67
+  pdf: /doc/publication/2018/01/santosmonteiro_nba_2017.pdf
+  doi: 10.1016/j.neurobiolaging.2017.06.004
   
 - name: corporaal_hbm_2017
   date: 2017-01-01
