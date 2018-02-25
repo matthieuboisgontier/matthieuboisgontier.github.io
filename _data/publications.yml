@@ -185,6 +185,16 @@
   pageinfo: 8:212
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
   doi: 10.3389/fnhum.2014.00212
+
+- name: moineau_aprm_2015
+  date: 2015-01-01
+  type: journal2
+  authors: Moineau B, <u>Boisgontier MP</u>, Gailledrat E, De Angelis M-P, Olivier I, Palluel E, Pérennou D, Nougier V
+  title: 'Is postural control more impaired in hip-disarticulated patients compared to transfemoral amputees? A pilot study'
+  journal: Annals of Physical & Rehabilitation Medicine
+  pageinfo: 58:354–356
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S1877065715005497/pdfft?md5=6b783ba329b57fb816ea297e9aeb1d99&pid=1-s2.0-S1877065715005497-main.pdf'
+  doi: 10.1016/j.rehab.2015.10.001
   
 - name: beets_cc_2015
   date: 2015-01-01
