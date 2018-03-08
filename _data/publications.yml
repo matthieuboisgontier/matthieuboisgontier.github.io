@@ -355,21 +355,6 @@
   pageinfo:
   pdf: /doc/publication/2018/01/corporaal_bsf_2018.pdf
   doi: 10.1007/s00429-017-1586-9
-  
-- name: cheval_sm_2018
-  date: 2018-01-01
-  type: journal
-  authors:  Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <u>Boisgontier MP</u>
-  title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
-  journal: Sports Medicine
-  doi: '10.1101/211425'
-  pageinfo:
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
-  biorxiv: https://www.biorxiv.org/content/early/2017/10/30/211425
-  preprint:
-    doi: '10.1101/211425'
-    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
-    server: BioRxiv
     
 - name: lavrysen_ebr_2018
   date: 2018-01-01
@@ -439,4 +424,19 @@
   preprint:
     doi: '10.1101/277988'
     pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+    server: BioRxiv
+  
+- name: cheval_sm_2018
+  date: 2018-01-01
+  type: journal
+  authors:  Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <u>Boisgontier MP</u>
+  title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
+  journal: Sports Medicine
+  doi: '10.1101/211425'
+  pageinfo:
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
+  biorxiv: https://www.biorxiv.org/content/early/2017/10/30/211425
+  preprint:
+    doi: '10.1101/211425'
+    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
     server: BioRxiv
