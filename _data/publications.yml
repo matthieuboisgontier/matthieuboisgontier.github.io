@@ -422,3 +422,17 @@
   pdf: /doc/publication/2018/01/boisgontier_nba_2018.pdf
   doi: 10.1016/j.neurobiolaging.2018.01.016
   
+- name: cheval_bx_2018
+  date: 2018-01-01
+  type: journal
+  authors:  Cheval B, Tipura E, Burra N, Chanal J, Orsholits D, Radel R, <u>Boisgontier MP</u>
+  title: 'Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study'
+  journal: BioRxiv
+  doi: '10.1101/277988'
+  pageinfo:
+  pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+  biorxiv: https://www.biorxiv.org/content/early/2018/03/07/277988
+  preprint:
+    doi: '10.1101/183939'
+    pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+    server: BioRxiv
