@@ -366,7 +366,11 @@
   pageinfo:
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2017/10/30/211425
-  
+  preprint:
+    doi: '10.1101/211425'
+    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
+    server: BioRxiv
+    
 - name: lavrysen_ebr_2018
   date: 2018-01-01
   type: journal2
