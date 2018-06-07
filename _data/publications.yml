@@ -21,7 +21,7 @@
 - name: vuillerme_gp_2008
   date: 2008-01-01
   type: journal
-  authors: 1- Vuillerme N, <u>Boisgontier M</u>
+  authors: <b>1-</b> Vuillerme N, <u>Boisgontier M</u>
   title: 'Muscle fatigue degrades force sense at the ankle joint'
   journal: Gait & Posture
   pageinfo: 28:521-524
@@ -31,7 +31,7 @@
 - name: boisgontier_ss_2009
   date: 2009-01-01
   type: journal
-  authors: 2- <u>Boisgontier M</u>, Vuillerme N, Thomas D, Pinsault N, Emprin M, Caillat-Miousse JL
+  authors: <b>2-</b> <u>Boisgontier M</u>, Vuillerme N, Thomas D, Pinsault N, Emprin M, Caillat-Miousse JL
   title: 'Effects of neuromuscular electrical stimulation on the range of motion recovery in hand proximal interphalangeal sprain'
   journal: Science & Sports
   pageinfo: 24:192–195
@@ -41,7 +41,7 @@
 - name: vuillerme_gp_2009
   date: 2009-01-01
   type: journal
-  authors: 3- Vuillerme N, <u>Boisgontier M</u>
+  authors: <b>3-</b> Vuillerme N, <u>Boisgontier M</u>
   title: 'Effectiveness of a tongue-placed electrotactile biofeedback to improve ankle force sense following plantar-flexor muscles fatigue'
   journal: Gait & Posture
   pageinfo: 30:556–559
@@ -51,7 +51,7 @@
 - name: boisgontier_jsmpf_2010
   date: 2010-01-01
   type: journal
-  authors: 4- <u>Boisgontier M</u>, Vuillerme N, Iversen MD
+  authors: <b>4-</b> <u>Boisgontier M</u>, Vuillerme N, Iversen MD
   title: 'Superimposed electrical stimulation decreases maximal grip force'
   journal: Journal of Sports Medicine & Physical Fitness
   pageinfo: 50:152-158
@@ -60,7 +60,7 @@
 - name: vuillerme_ejap_2010
   date: 2010-01-01
   type: journal
-  authors: 5- Vuillerme N, <u>Boisgontier M</u>
+  authors: <b>5-</b> Vuillerme N, <u>Boisgontier M</u>
   title: 'Changes in the relative contribution of each leg to the control of quiet two-legged stance following unilateral plantar-flexor muscles fatigue'
   journal: European Journal of Applied Physiology
   pageinfo: 24:192–195
@@ -80,7 +80,7 @@
 - name: boisgontier_jsmpf_2012
   date: 2012-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Moineau B, Nougier V
+  authors: <b>7-</b> <u>Boisgontier MP</u>, Moineau B, Nougier V
   title: 'Superimposed electrical stimulation comfortably improves the endurance of maximal voluntary contractions'
   journal: Journal of Sports Medicine & Physical Fitness
   pageinfo: 52:558-562
@@ -89,7 +89,7 @@
 - name: boisgontier_age_2012
   date: 2012-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Olivier I, Chenu O, Nougier V
+  authors: <b>8-</b><u>Boisgontier MP</u>, Olivier I, Chenu O, Nougier V
   title: 'Presbypropria: The effects of physiological ageing on proprioceptive control'
   journal: Age
   pageinfo: 34:1179–1194
@@ -99,7 +99,7 @@
 - name: boisgontier_age_2013
   date: 2013-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Nougier V 
+  authors: <b>9-</b> <u>Boisgontier MP</u>, Nougier V 
   title: 'Ageing of internal models: From a continuous to an intermittent proprioceptive control of movement'
   journal: Age
   pageinfo: 35:1339–1355
@@ -109,7 +109,7 @@
 - name: boisgontier_nl_2013
   date: 2013-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Nougier V 
+  authors: <b>10-</b> <u>Boisgontier MP</u>, Nougier V 
   title: 'Proprioception: bilateral inputs first'
   journal: Neuroscience Letters
   pageinfo: 534:96–100
@@ -119,7 +119,7 @@
 - name: boisgontier_nbr_2013
   date: 2013-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
+  authors: <b>11-</b> <u>Boisgontier MP</u>, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
   title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
   journal: Neuroscience and Biobehavioral Reviews
   pageinfo: 37:1824–1837
@@ -129,7 +129,7 @@
 - name: boisgontier_aprm_2014
   date: 2014-01-01
   type: journal
-  authors: Moineau B, <u>Boisgontier MP</u>
+  authors: <b>12-</b> Moineau B, <u>Boisgontier MP</u>
   title: 'Superimposed electrical stimulation improves mobility of pre-stiff thumbs after ulnar collateral ligament injury of the metacarpophalangeal joint: a randomized study'
   journal: Annals of Physical & Rehabilitation Medicine
   pageinfo: 57:373-380
@@ -139,7 +139,7 @@
 - name: boisgontier_fan_2014
   date: 2014-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Van Halewyck F, Corporaal SHA, Willacker L, Van den Bergh V, Beets IAM, Levin O, Swinnen SP
+  authors: <b>13-</b> <u>Boisgontier MP</u>, Van Halewyck F, Corporaal SHA, Willacker L, Van den Bergh V, Beets IAM, Levin O, Swinnen SP
   title: 'Vision of the active limb impairs bimanual motor tracking in young and older adults'
   journal: Frontiers in Human Neuroscience
   pageinfo: 6:320
@@ -149,7 +149,7 @@
 - name: boisgontier_p1_2014
   date: 2014-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Wittenberg G, Fujiyama H, Levin O, Swinnen SP
+  authors: <b>14-</b> <u>Boisgontier MP</u>, Wittenberg G, Fujiyama H, Levin O, Swinnen SP
   title: 'Complexity of central processing in simple and choice multilimb reaction-time tasks'
   journal: PLoS One
   pageinfo: 9:e90457
@@ -199,7 +199,7 @@
 - name: boisgontier_fhn_2014
   date: 2014-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Swinnen SP
+  authors: <b>15-</b> <u>Boisgontier MP</u>, Swinnen SP
   title: 'Proprioception in the cerebellum'
   journal: Frontiers in Human Neuroscience
   pageinfo: 8:212
@@ -209,7 +209,7 @@
 - name: boisgontier_fhn_2015
   date: 2015-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>
+  authors: <b>16-</b> <u>Boisgontier MP</u>
   title: 'Commentary: Cerebellar direct current stimulation enhances on-line motor skill acquisition through an effect on accuracy'
   journal: Frontiers in Human Neuroscience
   pageinfo: 9:578
@@ -249,7 +249,7 @@
 - name: boisgontier_tins_2015
   date: 2015-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>
+  authors: <b>17-</b> <u>Boisgontier MP</u>
   title: 'Motor aging results from cerebellar neuron death'
   journal: Trends in Neurosciences
   pageinfo: 38:127–128
@@ -259,7 +259,7 @@
 - name: boisgontier_fan_2015
   date: 2015-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Swinnen SP
+  authors: <b>18-</b> <u>Boisgontier MP</u>, Swinnen SP
   title: 'Age-related deficit in a bimanual joint position matching task is amplitude dependent'
   journal: Frontiers in Aging Neuroscience
   pageinfo: 7:162
@@ -269,7 +269,7 @@
 - name: boisgontier_gp_2016
   date: 2016-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
+  authors: <b>19-</b> <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
   title: 'Whole-brain grey matter density predicts balance stability irrespective of age and protects older adults from falling'
   journal: Gait & Posture
   pageinfo: 45:143-150
@@ -279,7 +279,7 @@
 - name: boisgontier_nbr_2016
   date: 2016-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Cheval B
+  authors: <b>20-</b> <u>Boisgontier MP</u>, Cheval B
   title: 'The anova to mixed model transition'
   journal: Neuroscience & Biobehavioral Reviews
   pageinfo: 68:1004–1005
@@ -299,7 +299,7 @@
 - name: boisgontier_hbm_2016
   date: 2016-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, van Ruitenbeek P, Leunissen I, Chalavi S, Sunaert S, Levin O, Swinnen SP 
+  authors: <b>21-</b> <u>Boisgontier MP</u>, van Ruitenbeek P, Leunissen I, Chalavi S, Sunaert S, Levin O, Swinnen SP 
   title: 'Nucleus accumbens and caudate atrophy predicts longer action selection times in young and old adults'
   journal: Human Brain Mapping
   pageinfo: 37:4629–4639
@@ -309,7 +309,7 @@
 - name: boisgontier_fip_2017
   date: 2017-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Serbruyns L, Swinnen SP
+  authors: <b221-</b> <u>Boisgontier MP</u>, Serbruyns L, Swinnen SP
   title: 'Physical activity predicts performance in an unpracticed bimanual coordination task'
   journal: Frontiers in Psychology
   pageinfo: 8:249
@@ -339,7 +339,7 @@
 - name: corporaal_hbm_2017
   date: 2017-01-01
   type: journal
-  authors: Corporaal SHA, Gooijers J, Chalavi S, Cheval B, Swinnen SP, <u>Boisgontier MP</u>
+  authors: <b>23-</b> Corporaal SHA, Gooijers J, Chalavi S, Cheval B, Swinnen SP, <u>Boisgontier MP</u>
   title: 'Neural predictors of motor control and impact of visuo-proprioceptive information in youth'
   journal: Human Brain Mapping
   pageinfo: 38:5628–5647
@@ -349,7 +349,7 @@
 - name: maes_nbr_2017
   date: 2017-01-01
   type: journal
-  authors: Maes C, Gooijers J, Orban de Xivry JJ, Swinnen SP, <u>Boisgontier MP</u>
+  authors: <b>24-</b> Maes C, Gooijers J, Orban de Xivry JJ, Swinnen SP, <u>Boisgontier MP</u>
   title: 'Two hands, one brain, and aging'
   journal: Neuroscience & Biobehavioral Reviews
   pageinfo: 75:234–256
@@ -359,7 +359,7 @@
 - name: boisgontier_nba_2017
   date: 2017-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
+  authors: <b>25-</b> <u>Boisgontier MP</u>, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
   title: 'Individual differences in brainstem and basal ganglia structure predict postural control and loss of balance in young and older adults'
   journal: Neurobiology of Aging
   pageinfo: 50:47–59
@@ -379,7 +379,7 @@
 - name: cheval_aa_2018
   date: 2018-01-01
   type: journal
-  authors: Cheval  B*, <u>Boisgontier MP*</u>, Orsholits D , Sieber S, Guessous I, Gabriel R, Stringhini S, Blane D, van der Linden BWA, Kliegel M, Burton-Jeangros C, Courvoisier DS, Cullati S
+  authors: <b>26-</b> Cheval  B*, <u>Boisgontier MP*</u>, Orsholits D , Sieber S, Guessous I, Gabriel R, Stringhini S, Blane D, van der Linden BWA, Kliegel M, Burton-Jeangros C, Courvoisier DS, Cullati S
   title: 'Association of early- and adult-life socioeconomic circumstances with muscle strength in older age'
   journal: Age & Ageing
   pageinfo: 47:398-407
@@ -409,7 +409,7 @@
 - name: cheval_msse_2018
   date: 2018-01-01
   type: journal
-  authors: Cheval B, Sieber S, Guessous I, Orsholits D, Courvoisier DS, Kliegel M, Stringhini S, Swinnen SP, Burton-Jeangros C, Cullati S, <u>Boisgontier MP</u>
+  authors: <b>27-</b> Cheval B, Sieber S, Guessous I, Orsholits D, Courvoisier DS, Kliegel M, Stringhini S, Swinnen SP, Burton-Jeangros C, Cullati S, <u>Boisgontier MP</u>
   title: 'Effect of early- and adult-life socioeconomic circumstances on physical inactivity'
   journal: Medicine & Science in Sports & Exercise
   pageinfo: 50:476-485
@@ -419,7 +419,7 @@
 - name: zivariadab_ejn_2018
   date: 2018-01-01
   type: journal
-  authors: Zivari Adab H, Chalavi S, Beets IAM, Gooijers J, Leunissen I, Cheval B, Collier Q, Sijbers J, Jeurissen B, Swinnen SP, <u>Boisgontier MP</u>
+  authors: <b>28-</b> Zivari Adab H, Chalavi S, Beets IAM, Gooijers J, Leunissen I, Cheval B, Collier Q, Sijbers J, Jeurissen B, Swinnen SP, <u>Boisgontier MP</u>
   title: 'White matter microstructural organization of interhemispheric pathways predicts different stages of bimanual coordination learning in young and older adults'
   journal: European Journal of Neuroscience
   pageinfo: 47:446–459
@@ -444,32 +444,17 @@
 - name: boisgontier_nba_2018
   date: 2018-01-01
   type: journal
-  authors: <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Cuypers K, Leunissen I, Sunaert S, Meesen R, Zivari Adab H, Renaud O, Swinnen SP
+  authors: <b>29-</b> <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Cuypers K, Leunissen I, Sunaert S, Meesen R, Zivari Adab H, Renaud O, Swinnen SP
   title: 'Cerebellar grey matter explains bimanual coordination performance in children and older adults'
   journal: Neurobiology of Aging
   pageinfo: 65:109-120
   pdf: /doc/publication/2018/01/boisgontier_nba_2018.pdf
   doi: 10.1016/j.neurobiolaging.2018.01.016
   
-- name: cheval_bx_2018
-  date: 2018-01-01
-  type: journal
-  authors:  Cheval B, Tipura E, Burra N, Chanal J, Orsholits D, Radel R, <u>Boisgontier MP</u>
-  title: 'Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study'
-  journal: BioRxiv
-  doi: '10.1101/277988'
-  pageinfo:
-  pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
-  biorxiv: https://www.biorxiv.org/content/early/2018/03/07/277988
-  preprint:
-    doi: '10.1101/277988'
-    pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
-    server: BioRxiv
-  
 - name: cheval_sm_2018
   date: 2018-01-01
   type: journal
-  authors:  Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <u>Boisgontier MP</u>
+  authors:  <b>30-</b> Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <u>Boisgontier MP</u>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: Sports Medicine
   doi: '10.1007/s40279-018-0898-0'
@@ -481,3 +466,18 @@
     pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
     server: BioRxiv
     biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
+
+- name: cheval_bx_2018
+  date: 2018-01-01
+  type: journal
+  authors:  <b>31-</b> Cheval B, Tipura E, Burra N, Chanal J, Orsholits D, Radel R, <u>Boisgontier MP</u>
+  title: 'Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study'
+  journal: BioRxiv
+  doi: '10.1101/277988'
+  pageinfo:
+  pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+  biorxiv: https://www.biorxiv.org/content/early/2018/03/07/277988
+  preprint:
+    doi: '10.1101/277988'
+    pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+    server: BioRxiv
