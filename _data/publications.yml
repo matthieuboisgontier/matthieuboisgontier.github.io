@@ -28,6 +28,16 @@
   pdf: /doc/publication/2018/01/vuillerme_gp_2008.pdf
   doi: 10.1016/j.gaitpost.2008.03.005
   
+- name: boisgontier_ss_2009
+  date: 2009-01-01
+  type: journal
+  authors: <u>Boisgontier M</u>, Vuillerme N, Thomas D, Pinsault N, Emprin M, Caillat-Miousse JL
+  title: 'Effects of neuromuscular electrical stimulation on the range of motion recovery in hand proximal interphalangeal sprain'
+  journal: Science & Sports
+  pageinfo: 24:192–195
+  pdf: /doc/publication/2018/01/boisgontier_ss_2009.pdf
+  doi: 10.1016/j.scispo.2008.09.001
+  
 - name: vuillerme_gp_2009
   date: 2009-01-01
   type: journal
