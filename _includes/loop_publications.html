@@ -102,6 +102,57 @@
   {% endfor %}
 </ul>
 
+<h2>Acknowledged Contributions</h2>
+<ul class="cv">
+
+  {% for pub in pubs %}
+    {% if pub.type == 'contribution' %}
+    <li class="cv">
+
+      <div style="float:right;clear:both">
+        <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
+      </div>   
+      {{ pub.authors }}.<br/>
+      {{ pub.title }}.<br/>
+      
+      {% if pub.journal %}
+        <b>{{ pub.journal }}</b> 
+        {% if pub.status %}
+          <b>{{ pub.status }}</b>
+        {% else %}
+          <b>{{pub.date | date: "%Y"}}</b>{% if pub.pageinfo %}, <i>{{ pub.pageinfo }}.</i>{% endif %} 
+            {% if pub.doi %}doi: {{ pub.doi }}{% endif %}
+        {% endif %}
+      {% endif %}
+
+      <span class="small-icons">
+        {% if pub.biorxiv %}
+          <a href="{{ pub.biorxiv }}" title="bioRxiv"><i class="ai ai-biorxiv" aria-hidden="true"></i></a>
+        {% endif %}
+
+        {% if pub.comments %}
+          <a href="{{ pub.comments }}" title="comments"><i class="fa fa-comments-o" aria-hidden="true"></i></a>
+        {% endif %}
+
+        {% if pub.doi %}
+          <a href="//dx.doi.org/{{ pub.doi }}" title="DOI"><i class="ai ai-doi" aria-hidden="true"></i></a>
+        {% endif %}
+
+        {%if pub.pdf %}
+          <a href="{{ pub.pdf }}" title="PDF"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+        {% endif %}
+      </span>
+
+      <!--{% if pub.slides %}
+      <p style="margin-top:0.25em">
+        <b>Slides</b>: {{ pub.slides.authors }} ({{ pub.slides.year }}): <a href="//dx.doi.org/{{ pub.slides.doi }}">{{ pub.slides.title }}</a>. figshare. doi: <a href="//dx.doi.org/{{ pub.slides.doi }}">{{ pub.slides.doi }}</a>.
+      </p>
+      {% endif %} -->
+    </li>
+    {% endif %}
+  {% endfor %}
+
+</ul>
 
 <h2>Preprints</h2>
 <ul class="cv">
