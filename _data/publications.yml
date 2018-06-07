@@ -180,12 +180,22 @@
   date: 2014-01-01
   type: journal
   authors: <u>Boisgontier MP</u>, Swinnen SP
-  title: 'Proprioception in the cerebellum '
+  title: 'Proprioception in the cerebellum'
   journal: Frontiers in Human Neuroscience
   pageinfo: 8:212
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2014.00212/pdf'
   doi: 10.3389/fnhum.2014.00212
 
+- name: boisgontier_fhn_2015
+  date: 2015-01-01
+  type: journal
+  authors: <u>Boisgontier MP</u>
+  title: 'Commentary: Cerebellar direct current stimulation enhances on-line motor skill acquisition through an effect on accuracy'
+  journal: Frontiers in Human Neuroscience
+  pageinfo: 9:578
+  pdf: 'https://www.frontiersin.org/articles/10.3389/fnhum.2015.00578/pdf'
+  doi: 10.3389/fnhum.2015.00578
+  
 - name: moineau_aprm_2015
   date: 2015-01-01
   type: journal2
