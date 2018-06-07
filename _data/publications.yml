@@ -31,7 +31,7 @@
 - name: boisgontier_ss_2009
   date: 2009-01-01
   type: journal
-  authors: <u>Boisgontier M</u>, Vuillerme N, Thomas D, Pinsault N, Emprin M, Caillat-Miousse JL
+  authors: 2- <u>Boisgontier M</u>, Vuillerme N, Thomas D, Pinsault N, Emprin M, Caillat-Miousse JL
   title: 'Effects of neuromuscular electrical stimulation on the range of motion recovery in hand proximal interphalangeal sprain'
   journal: Science & Sports
   pageinfo: 24:192–195
@@ -41,7 +41,7 @@
 - name: vuillerme_gp_2009
   date: 2009-01-01
   type: journal
-  authors: Vuillerme N, <u>Boisgontier M</u>
+  authors: 3- Vuillerme N, <u>Boisgontier M</u>
   title: 'Effectiveness of a tongue-placed electrotactile biofeedback to improve ankle force sense following plantar-flexor muscles fatigue'
   journal: Gait & Posture
   pageinfo: 30:556–559
@@ -51,7 +51,7 @@
 - name: boisgontier_jsmpf_2010
   date: 2010-01-01
   type: journal
-  authors: <u>Boisgontier M</u>, Vuillerme N, Iversen MD
+  authors: 4- <u>Boisgontier M</u>, Vuillerme N, Iversen MD
   title: 'Superimposed electrical stimulation decreases maximal grip force'
   journal: Journal of Sports Medicine & Physical Fitness
   pageinfo: 50:152-158
@@ -60,7 +60,7 @@
 - name: vuillerme_ejap_2010
   date: 2010-01-01
   type: journal
-  authors: Vuillerme N, <u>Boisgontier M</u>
+  authors: 5- Vuillerme N, <u>Boisgontier M</u>
   title: 'Changes in the relative contribution of each leg to the control of quiet two-legged stance following unilateral plantar-flexor muscles fatigue'
   journal: European Journal of Applied Physiology
   pageinfo: 24:192–195
@@ -70,7 +70,7 @@
 - name: boisgontier_sm_2011
   date: 2011-01-01
   type: journal
-  authors: <u>Boisgontier M</u>, Mignardot JB, Nougier V, Olivier I, Palluel E
+  authors: <b>6-</b> <u>Boisgontier M</u>, Mignardot JB, Nougier V, Olivier I, Palluel E
   title: 'Attentional cost of the executive functions involved in postural control'
   journal: Science & Motricite
   pageinfo: 74:53–64
