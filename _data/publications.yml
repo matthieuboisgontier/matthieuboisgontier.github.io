@@ -436,10 +436,6 @@
   pageinfo:
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2017/09/04/183939
-  preprint:
-    doi: '10.1101/183939'
-    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
-    server: BioRxiv
     
 - name: boisgontier_nba_2018
   date: 2018-01-01
@@ -461,11 +457,6 @@
   pageinfo: 48:1389-1404
   pdf: /doc/publication/2018/01/Cheval_SM_2018.pdf
   biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
-  preprint:
-    doi: '10.1101/211425'
-    pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/10/30/211425.full.pdf'
-    server: BioRxiv
-    biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
 
 - name: cheval_bx_2018
   date: 2018-01-01
@@ -477,7 +468,12 @@
   pageinfo:
   pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2018/03/07/277988
-  preprint:
-    doi: '10.1101/277988'
-    pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
-    server: BioRxiv
+  
+  - name: audrin_jep_2017
+  date: 2017-01-01
+  type: contribution
+  authors: <b>29-</b> Audrin C, Brosch T, Chanal J, Sander S
+  title: 'When symbolism overtakes quality: Materialists consumers disregard product quality when faced with luxury brands'
+  journal: Journal of Economic Psychology
+  pageinfo: 61:115-123
+  doi: 10.1016/j.joep.2017.04.001
