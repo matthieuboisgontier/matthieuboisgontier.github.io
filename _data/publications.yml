@@ -235,7 +235,17 @@
   pageinfo: 7:162
   pdf: 'https://www.frontiersin.org/articles/10.3389/fnagi.2015.00162/pdf'
   doi: 10.3389/fnagi.2015.00162
-  
+
+- name: boisgontier_gp_2016
+  date: 2016-01-01
+  type: journal
+  authors: <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Levin O, Renaud O, Chanal J, Swinnen SP
+  title: 'Whole-brain grey matter density predicts balance stability irrespective of age and protects older adults from falling'
+  journal: Gait & Posture
+  pageinfo: 45:143-150
+  pdf: /doc/publication/2018/01/boisgontier_gp_2016.pdf
+  doi: 10.1016/j.gaitpost.2016.01.019
+
 - name: boisgontier_nbr_2016
   date: 2016-01-01
   type: journal
