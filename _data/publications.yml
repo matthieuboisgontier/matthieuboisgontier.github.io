@@ -435,11 +435,21 @@
   pageinfo: 47:446–459
   pdf: /doc/publication/2018/01/zivariadab_ejn_2018.pdf 
   doi: 10.1111/ejn.13841
+
+- name: neva_jnp_2018
+  date: 2018-01-01
+  type: journal2
+  authors: <b>17-</b> Neva JL, Ma JA, Orsholits D, <u>Boisgontier MP</u>, Boyd LA
+  title: 'Acute exercise enhances visuomotor adaptation learning, but not inter-limb transfer'
+  journal: Under Review
+  doi: 
+  pageinfo:
+  pdf: 
   
 - name: bonifazi_bx_2018
   date: 2018-01-01
   type: journal2
-  authors: <b>17-</b> Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <u>Boisgontier MP</u>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
+  authors: <b>18-</b> Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <u>Boisgontier MP</u>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
   title: 'What the structural-functional connectome reveals about brain aging: The key role of the fronto-striatal-thalamic circuit and the rejuvenating impact of physical activity'
   journal: BioRxiv
   doi: '10.1101/183939'
