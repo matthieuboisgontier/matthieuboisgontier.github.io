@@ -450,10 +450,10 @@
   date: 2018-01-01
   type: journal2
   authors: <b>18-</b> Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <u>Boisgontier MP</u>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
-  title: 'Structure-function multi-scale connectomics reveals a major role of the fronto-striatal-thalamic circuit in brain aging'
-  journal: BioRxiv
+  title: 'Structure-function multi-scale connectomics reveals a major role of the fronto-striato-thalamic circuit in brain aging'
+  journal: Human Brain Mapping
   doi: '10.1101/183939'
-  pageinfo:
+  pageinfo: Under Review
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
   biorxiv: https://www.biorxiv.org/content/early/2017/09/04/183939
     
