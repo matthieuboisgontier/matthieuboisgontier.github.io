@@ -436,7 +436,7 @@
   pdf: /doc/publication/2018/01/zivariadab_ejn_2018.pdf 
   doi: 10.1111/ejn.13841
 
-- name: bonifazi_bx_2018
+- name: bonifazi_hbm_2018
   date: 2018-01-01
   type: journal2
   authors: <b>17-</b> Bonifazi P, Erramuzpe A, Diez I, Gabilondo I, <u>Boisgontier MP</u>, Pauwels L, Stramaglia S, Swinnen SP, Cortes J
@@ -444,7 +444,7 @@
   journal: Human Brain Mapping
   doi: '10.1002/hbm.24312'
   pageinfo: In press
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2017/09/04/183939.full.pdf'
+  pdf: /doc/publication/2018/01/bonifazi_hbm_2018.pdf 
   biorxiv: https://www.biorxiv.org/content/early/2017/09/04/183939
     
 - name: boisgontier_nba_2018
