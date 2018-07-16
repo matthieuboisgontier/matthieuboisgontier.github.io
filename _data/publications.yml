@@ -467,7 +467,17 @@
   pageinfo: 48:1389-1404
   pdf: /doc/publication/2018/01/Cheval_SM_2018.pdf
   biorxiv: https://www.biorxiv.org/content/early/2018/01/24/211425
-
+  
+- name: cheval_jgms_2018
+  date: 2018-01-01
+  type: journal
+  authors:  <b>32-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>*, Cullati S*
+  title: 'Disadvantaged early-life socioeconomic circumstances are associated with low respiratory function in older age'
+  journal: The Journals of Gerontology. Series A, Biological Sciences & Medical Sciences.
+  doi: 
+  pageinfo:
+  pdf:
+  
 - name: cheval_bx_2018
   date: 2018-01-01
   type: journal
@@ -497,16 +507,6 @@
   doi: 
   pageinfo: In press
   pdf: 
-  
-- name: cheval_jgms_2018
-  date: 2018-01-01
-  type: journal
-  authors:  <b>32-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>*, Cullati S*
-  title: 'Disadvantaged early-life socioeconomic circumstances are associated with low respiratory function in older age'
-  journal: The Journals of Gerontology. Series A, Biological Sciences & Medical Sciences.
-  doi: 
-  pageinfo: Under Review
-  pdf:
   
 - name: neva_ebr_2018
   date: 2018-01-01
