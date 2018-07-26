@@ -478,7 +478,7 @@
   pageinfo:
   pdf:
   
-- name: cheval_bx_2018
+- name: cheval_psy_2018
   date: 2018-01-01
   type: journal
   authors:  <b>32-</b> Cheval B, Tipura E, Burra N, Chanal J, Orsholits D, Radel R, <u>Boisgontier MP</u>
@@ -486,7 +486,7 @@
   journal: Neuropsychologia
   doi: '10.1016/j.neuropsychologia.2018.07.029'
   pageinfo: In Press
-  pdf: 'https://www.biorxiv.org/content/early/2018/03/07/277988.full.pdf'
+  pdf: /doc/publication/2018/01/cheval_psy_2018.pdf
   biorxiv: https://www.biorxiv.org/content/early/2018/03/07/277988
 
 - name: audrin_jep_2017
