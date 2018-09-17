@@ -5,10 +5,6 @@
   {% for pub in pubs %}
     {% if pub.type == 'journal' %}
     <li class="cv">
-      
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="false" class="altmetric-embed" style="float:right;clear:both">
-      </div>
-
       <div style="float:right;clear:both">
         <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
       </div>   
@@ -60,10 +56,6 @@
   {% for pub in pubs %}
     {% if pub.type == 'journal2' %}
     <li class="cv">
-
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="false" class="altmetric-embed" style="float:right;clear:both">
-      </div>
-      
       <div style="float:right;clear:both">
         <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="small" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="false" data-pass-hidden-categories="true"></a>
       </div>   
@@ -113,11 +105,7 @@
 
   {% for pub in pubs %}
     {% if pub.type == 'contribution' %}
-    <li class="cv">
-
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="false" class="altmetric-embed" style="float:right;clear:both">
-      </div>
-      
+    <li class="cv">      
       <div style="float:right;clear:both">
         <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
       </div>   
