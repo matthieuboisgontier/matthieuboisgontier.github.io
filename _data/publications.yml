@@ -508,14 +508,14 @@
   pageinfo:
   pdf: /doc/publication/2018/01/landos_ejph_2018.pdf
   
- - name: cheval_g_2019
-   date: 2019-01-01
-   type: journal2
-   authors: <b>19-</b> Cheval B, Chabert C, Sieber S, Orsholits D, Cooper R, Guessous I, Blane D, Kliegel M, Courvoisier DS, Kelly-Irving M, <u>Boisgontier MP</u>, Cullati S
-   title: 'The association between adverse childhood experiences and muscle strength in older age'
-   journal: Gerontology
-   pageinfo: Accepted
-   pdf: 
+- name: cheval_g_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>19-</b> Cheval B, Chabert C, Sieber S, Orsholits D, Cooper R, Guessous I, Blane D, Kliegel M, Courvoisier DS, Kelly-Irving M, <u>Boisgontier MP</u>, Cullati S
+  title: 'The association between adverse childhood experiences and muscle strength in older age'
+  journal: Gerontology
+  pageinfo: Accepted
+  pdf: 
 
 - name: neva_ebr_2018
   date: 2019-01-01
