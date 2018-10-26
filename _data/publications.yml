@@ -118,7 +118,7 @@
   
 - name: boisgontier_nl_2013
   date: 2013-01-01
-  type: journal
+  type: journal2
   authors: <b>10-</b> <u>Boisgontier MP</u>, Nougier V 
   title: 'Proprioception: bilateral inputs first'
   journal: Neuroscience Letters
@@ -128,7 +128,7 @@
   
 - name: boisgontier_nbr_2013
   date: 2013-01-01
-  type: journal
+  type: journal2
   authors: <b>11-</b> <u>Boisgontier MP</u>, Beets IAM, Duysens J, Nieuwboer A, Krampe RT, Swinnen SP
   title: 'Age-related differences in attentional cost associated with postural dual tasks: Increased recruitment of generic cognitive resources in older adults'
   journal: Neuroscience and Biobehavioral Reviews
@@ -148,7 +148,7 @@
   
 - name: boisgontier_fan_2014
   date: 2014-01-01
-  type: journal
+  type: journal2
   authors: <b>13-</b> <u>Boisgontier MP</u>, Van Halewyck F, Corporaal SHA, Willacker L, Van den Bergh V, Beets IAM, Levin O, Swinnen SP
   title: 'Vision of the active limb impairs bimanual motor tracking in young and older adults'
   journal: Frontiers in Aging Neuroscience
@@ -208,7 +208,7 @@
   
 - name: boisgontier_fhn_2014
   date: 2014-01-01
-  type: journal
+  type: journal2
   authors: <b>15-</b> <u>Boisgontier MP</u>, Swinnen SP
   title: 'Proprioception in the cerebellum'
   journal: Frontiers in Human Neuroscience
@@ -288,7 +288,7 @@
 
 - name: boisgontier_nbr_2016
   date: 2016-01-01
-  type: journal
+  type: journal2
   authors: <b>20-</b> <u>Boisgontier MP</u>, Cheval B
   title: 'The anova to mixed model transition'
   journal: Neuroscience & Biobehavioral Reviews
@@ -308,7 +308,7 @@
     
 - name: boisgontier_hbm_2016
   date: 2016-01-01
-  type: journal
+  type: journal2
   authors: <b>21-</b> <u>Boisgontier MP</u>, van Ruitenbeek P, Leunissen I, Chalavi S, Sunaert S, Levin O, Swinnen SP 
   title: 'Nucleus accumbens and caudate atrophy predicts longer action selection times in young and old adults'
   journal: Human Brain Mapping
