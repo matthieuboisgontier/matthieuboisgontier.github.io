@@ -258,7 +258,7 @@
   
 - name: boisgontier_tins_2015
   date: 2015-01-01
-  type: journal
+  type: journal2
   authors: <b>27-</b> <u>Boisgontier MP</u>
   title: 'Motor aging results from cerebellar neuron death'
   journal: Trends in Neurosciences
@@ -368,7 +368,7 @@
     
 - name: boisgontier_nba_2017
   date: 2017-01-01
-  type: journal
+  type: journal2
   authors: <b>38-</b> <u>Boisgontier MP</u>, Cheval B, Chalavi S, van Ruitenbeek P, Leunissen I, Levin O, Nieuwboer A, Swinnen SP
   title: 'Individual differences in brainstem and basal ganglia structure predict postural control and loss of balance in young and older adults'
   journal: Neurobiology of Aging
@@ -418,7 +418,7 @@
   
 - name: cheval_msse_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors: <b>43-</b> Cheval B, Sieber S, Guessous I, Orsholits D, Courvoisier DS, Kliegel M, Stringhini S, Swinnen SP, Burton-Jeangros C, Cullati S, <u>Boisgontier MP</u>
   title: 'Effect of early- and adult-life socioeconomic circumstances on physical inactivity'
   journal: Medicine & Science in Sports & Exercise
@@ -449,7 +449,7 @@
     
 - name: boisgontier_nba_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors: <b>46-</b> <u>Boisgontier MP</u>, Cheval B, van Ruitenbeek P, Cuypers K, Leunissen I, Sunaert S, Meesen R, Zivari Adab H, Renaud O, Swinnen SP
   title: 'Cerebellar grey matter explains bimanual coordination performance in children and older adults'
   journal: Neurobiology of Aging
@@ -459,7 +459,7 @@
   
 - name: cheval_sm_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors:  <b>47-</b> Cheval B, Radel R, Neva JL, Boyd LA, Swinnen SP, Sander D, <u>Boisgontier MP</u>
   title: 'Behavioral and neural evidence of the rewarding value of exercise behaviors: A systematic review'
   journal: Sports Medicine
@@ -480,7 +480,7 @@
   
 - name: cheval_psy_2018
   date: 2018-01-01
-  type: journal
+  type: journal2
   authors:  <b>49-</b> Cheval B, Tipura E, Burra N, Chanal J, Orsholits D, Radel R, <u>Boisgontier MP</u>
   title: 'Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study'
   journal: Neuropsychologia
