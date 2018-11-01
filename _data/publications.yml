@@ -516,3 +516,13 @@
   journal: Gerontology
   pageinfo: Accepted
   pdf: 
+
+- name: boisgontier_depression_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>51-</b> <u>Boisgontier MP</u>, Orsholits D, von Arx M, Sieber S, Courvoisier DS, Iversen MD, Cullati S, Cheval B
+  title: 'Physical activity removes the negative impact of adverse childhood experiences and depression on functional dependence'
+  journal: SportRxiv
+  pageinfo: Preprint
+  pdf: /doc/publication/2018/01/boisgontier_depression_2019.pdf
+  biorxiv: 
