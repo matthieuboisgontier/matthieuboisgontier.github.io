@@ -1,6 +1,8 @@
+{% assign pubs = site.data.publications | reverse %}
+
 <h2>Articles</h2>
 <ul class="cv">
-{% assign pubs = site.data.publications | reverse %}
+  
   {% for pub in pubs %}
     {% if pub.type == 'journal2' %}
     <li class="cv">
