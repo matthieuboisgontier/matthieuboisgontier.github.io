@@ -548,7 +548,7 @@
   pageinfo: Preprint
   pdf: /doc/publication/2018/01/boisgontier_depression_2019.pdf
   github: matthieuboisgontier/SHARE_ACE_FunctionalDependence
-  biorxiv: /preprints/sportrxiv/ms2u7
+  osf: /preprints/sportrxiv/ms2u7
   
 - name: cheval_cognition_2019
   date: 2019-01-01
@@ -559,5 +559,5 @@
   doi: 10.31236/osf.io/pagx6
   pageinfo: Preprint
   pdf: /doc/publication/2018/01/cheval_cognition_2019.pdf
-  osf: 10.31236/osf.io/pagx6
+  osf: /preprints/sportrxiv/pagx6/
   
