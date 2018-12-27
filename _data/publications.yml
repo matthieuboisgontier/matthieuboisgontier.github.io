@@ -573,9 +573,10 @@
   osf:
 
 - name: vandevoorde_2019
-  date: 2017-01-01
+  date: 2019-01-01
   type: contribution
   authors: <b>2-</b> Vandevoorde K, Orban de Xivry JJ
   title: 'Internal model recalibration does not deteriorate with age while motor adaptation does'
   journal: BioRxiv
+  doi: 10.1101/292250
   biorxiv: https://doi.org/10.1101/292250
