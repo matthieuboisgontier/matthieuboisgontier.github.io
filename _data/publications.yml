@@ -564,13 +564,13 @@
 - name: caldwell_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>56-</b> Caldwell AR, Nuckols G, Boardley ID, Schmidt J, Tenan MS, Skarabot J, Radel R, Naughton M, Schoenfeld BJ, Lahti J, Twomey R, Lohse KR, DMellor DT, Kreutzer A, Lahart IM, Mills JP, Morin JB, Dieter BP, Chow ZR, Bouza B, Zenko Z, Neva JL, Severin RS, <u>Boisgontier MP</u>, Steele J, Nunan D, Contreras B, Haun CT, Rosa-Caldwell ME, BRoberts BM, Cheval B, Miller MW, Knudson D, Peters S, Halperin I, Vigotsky AD
+  authors: <b>56-</b> Caldwell AR, Vigotsky AD, Nuckols G, Boardley ID, Schmidt J, Tenan MS, Skarabot J, Radel R, Naughton M, Schoenfeld BJ, Lahti J, Twomey R, Lohse KR, DMellor DT, Kreutzer A, Lahart IM, Mills JP, Morin JB, Dieter BP, Chow ZR, Bouza B, Zenko Z, Neva JL, Severin RS, <u>Boisgontier MP</u>, Steele J, Nunan D, Contreras B, Haun CT, Rosa-Caldwell ME, BRoberts BM, Cheval B, Miller MW, Knudson D, Peters S, Halperin I
   title: 'Moving sport and exercise science forward: A call for the adoption of more transparent research practices'
   journal: SportRxiv
-  doi: 
+  doi: 10.17605/OSF.IO/fxe7a
   pageinfo: Preprint
-  pdf: 
-  osf:
+  pdf: /doc/publication/2018/01/cadwell_rr_2019.pdf
+  osf: ang2u/
 
 - name: vandevoorde_2019
   date: 2019-01-01
