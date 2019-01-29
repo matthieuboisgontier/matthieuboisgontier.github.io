@@ -580,3 +580,15 @@
   journal: BioRxiv
   doi: 10.1101/292250
   biorxiv: https://doi.org/10.1101/292250
+
+- name: cheval_quartiers_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>55-</b> Cheval B, Rebar A, Miller M, Sieber S, Orsholits D, Baranyi G, Courvoisier DS, Cullati S, Chalabaev A,vSander D, <u>Boisgontier MP</u>
+  title: 'Cognitive resources moderate the adverse impact of poor perceived neighborhood conditions on physical activity'
+  journal: SportRxiv
+  doi: 
+  pageinfo: Preprint
+  pdf: /doc/publication/2018/01/cheval_quartiers_2019.pdf
+  osf: ht2z8/
+  
