@@ -38,6 +38,10 @@
         {% if pub.doi %}
           <a href="//dx.doi.org/{{ pub.doi }}" title="DOI"><i class="ai ai-doi" aria-hidden="true"></i></a>
         {% endif %}
+        
+        {% if pub.osf %}
+          <a href="//osf.io/{{ pub.osf }}"  title="OSF"><i class="ai ai-osf" aria-hidden="true"></i></a>
+        {% endif %}
 
         {%if pub.pdf %}
           <a href="{{ pub.pdf }}" title="PDF"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
