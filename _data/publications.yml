@@ -559,6 +559,7 @@
   pdf: /doc/publication/2018/01/boisgontier_depression_2019.pdf
   github: matthieuboisgontier/SHARE_ACE_FunctionalDependence
   osf: k6v9e/
+  sportrxiv: https://doi.org/10.31236/osf.io/ms2u7
   
 - name: cheval_cognition_2019
   date: 2019-01-01
@@ -570,7 +571,7 @@
   pageinfo: Preprint
   pdf: /doc/publication/2018/01/cheval_cognition_2019.pdf
   osf: wh62e/
-  sportrxiv: https://doi.org/10.1101/292250
+  sportrxiv: https://doi.org/10.31236/osf.io/pagx6
   
 - name: caldwell_2019
   date: 2019-01-01
@@ -582,6 +583,7 @@
   pageinfo: Preprint
   pdf: /doc/publication/2018/01/cadwell_rr_2019.pdf
   osf: ang2u/
+  sportrxiv: https://doi.org/10.31236/osf.io/fxe7a
 
 - name: vandevoorde_2019
   date: 2019-01-01
@@ -602,4 +604,5 @@
   pageinfo: Preprint
   pdf: /doc/publication/2018/01/cheval_quartiers_2019.pdf
   osf: ht2z8/
+  sportrxiv: https://doi.org/10.31236/osf.io/ga3wu
   
