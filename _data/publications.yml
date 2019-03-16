@@ -605,16 +605,4 @@
   pdf: /doc/publication/2018/01/cheval_quartiers_2019.pdf
   osf: ht2z8/
   sportrxiv: https://doi.org/10.31236/osf.io/ga3wu
-  
-- name: miller_2019
-  date: 2019-01-01
-  type: journal1
-  authors: <b>59-</b>Cheval B*, Boisgontier MP*, Bacelare MFB, Feisse R, Miller MW
-  title: 'Opportunities to sit and stand trigger equivalent reward-related brain activity'
-  journal: SportRxiv
-  doi: 10.31236/osf.io/kbnxg
-  pageinfo: Preprint
-  pdf: /doc/publication/2018/01/miller_2019.pdf
-  osf: dfej3/
-  sportrxiv: 10.31236/osf.io/kbnxg
-  
+
