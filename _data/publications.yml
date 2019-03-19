@@ -551,7 +551,7 @@
 - name: boisgontier_depression_2019
   date: 2019-01-01
   type: journal1
-  authors: <b>55-</b> <u>Boisgontier MP</u>, Orsholits D, von Arx M, Sieber S, Courvoisier DS, Iversen MD, Cullati S, Cheval B
+  authors: <b>56-</b> <u>Boisgontier MP</u>, Orsholits D, von Arx M, Sieber S, Courvoisier DS, Iversen MD, Cullati S, Cheval B
   title: 'Physical activity cancels the negative impact of adverse childhood experiences and depression on functional dependence'
   journal: SportRxiv
   doi: 10.31236/osf.io/ms2u7
@@ -564,7 +564,7 @@
 - name: cheval_cognition_2019
   date: 2019-01-01
   type: journal1
-  authors: <b>56-</b> Cheval B, Orsholits D, Sieber S, Courvoisier DS, Cullati S, <u>Boisgontier MP</u>
+  authors: <b>57-</b> Cheval B, Orsholits D, Sieber S, Courvoisier DS, Cullati S, <u>Boisgontier MP</u>
   title: 'Cognitive resources explain engagement in physical activity and its age-related decline: A longitudinal study of 105,206 people'
   journal: SportRxiv
   doi: 10.31236/osf.io/pagx6
@@ -576,7 +576,7 @@
 - name: caldwell_2019
   date: 2019-01-01
   type: journal1
-  authors: <b>57-</b> Caldwell AR, Vigotsky AD, Nuckols G, Boardley ID, Schmidt J, Tenan MS, Skarabot J, Radel R, Naughton M, Schoenfeld BJ, Lahti J, Twomey R, Lohse KR, DMellor DT, Kreutzer A, Lahart IM, Mills JP, Morin JB, Dieter BP, Chow ZR, Bouza B, Zenko Z, Neva JL, Severin RS, <u>Boisgontier MP</u>, Steele J, Nunan D, Contreras B, Haun CT, Rosa-Caldwell ME, BRoberts BM, Cheval B, Miller MW, Knudson D, Peters S, Halperin I
+  authors: <b>58-</b> Caldwell AR, Vigotsky AD, Nuckols G, Boardley ID, Schmidt J, Tenan MS, Skarabot J, Radel R, Naughton M, Schoenfeld BJ, Lahti J, Twomey R, Lohse KR, DMellor DT, Kreutzer A, Lahart IM, Mills JP, Morin JB, Dieter BP, Chow ZR, Bouza B, Zenko Z, Neva JL, Severin RS, <u>Boisgontier MP</u>, Steele J, Nunan D, Contreras B, Haun CT, Rosa-Caldwell ME, BRoberts BM, Cheval B, Miller MW, Knudson D, Peters S, Halperin I
   title: 'Moving sport and exercise science forward: A call for the adoption of more transparent research practices'
   journal: SportRxiv
   doi: 10.31236/osf.io/fxe7a
@@ -593,6 +593,14 @@
   journal: BioRxiv
   doi: 10.1101/292250
   biorxiv: https://doi.org/10.1101/292250
+  
+- name: cheval_jech_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>55-</b> Cheval B, Orsholits D, Sieber S, Stringhini S, Courvoisier DS, Kliegel M, <u>Boisgontier MP</u>, Cullati S, 
+  title: 'Early-life socioeconomic circumstances explain health differences in old age, but not their evolution over time'
+  journal: Journal of Epidemiology & Community Health
+  doi: 10.1136/jech-2019-212110
 
 
 
