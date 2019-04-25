@@ -605,7 +605,7 @@
 - name: miller_ijpp_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>56-</b> Cheval B, <u>Boisgontier MP</u>, Bacelar MFB, Feiss R, Miller MW 
+  authors: <b>56-</b> Cheval B*, <u>Boisgontier MP*</u>, Bacelar MFB, Feiss R, Miller MW 
   title: 'Opportunities to sit and stand trigger equivalent reward-related brain activity'
   journal: International Journal of Psychophysiology
   doi: 10.1016/j.ijpsycho.2019.04.009
