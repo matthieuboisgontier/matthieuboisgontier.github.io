@@ -488,10 +488,20 @@
   pageinfo: 61:115-123
   doi: 10.1016/j.joep.2017.04.001
   
+- name: vonarx_ssm_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>49-</b> von Arx M, Cheval B, Sieber S, Orsholits D, Widmer E, Kliegel M, Guessous I, Kelly-Irving M, Courvoisier DS, <u>Boisgontier MP</u>, Cullati S
+  title: 'The role of adult socioeconomic and relational reserves regarding the effect of childhood misfortune on late-life depressive symptoms'
+  journal: SSM - Population Health 
+  doi: 
+  pdf: 
+  pageinfo: 
+  
 - name: landos_ejph_2018
   date: 2019-01-01
   type: journal2
-  authors: <b>49-</b>   Aljoscha Landös A, von Arx M, Cheval B, Sieber S, Kliegel M, Gabriel R, Orsholits D, van der Linden BWA, Blane D, <u>Boisgontier MP</u>, Courvoisier DS, Guessous I, Burton-Jeangros C, Cullati S
+  authors: <b>50-</b>   Aljoscha Landös A, von Arx M, Cheval B, Sieber S, Kliegel M, Gabriel R, Orsholits D, van der Linden BWA, Blane D, <u>Boisgontier MP</u>, Courvoisier DS, Guessous I, Burton-Jeangros C, Cullati S
   title: 'Childhood socioeconomic circumstances and disability trajectories in older men and women: a European cohort study'
   journal: European Journal of Public Health
   doi: 10.1093/eurpub/cky166
@@ -501,7 +511,7 @@
 - name: cheval_jgms_2018
   date: 2019-01-01
   type: journal2
-  authors:  <b>50-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>*, Cullati S*
+  authors:  <b>51-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>*, Cullati S*
   title: 'Disadvantaged early-life socioeconomic circumstances are associated with low respiratory function in older age'
   journal: The Journals of Gerontology. Series A, Biological Sciences & Medical Sciences.
   doi: '10.1093/gerona/gly177'
@@ -511,7 +521,7 @@
 - name: cheval_gerontology_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>51-</b> Cheval B, Chabert C, Sieber S, Orsholits D, Cooper R, Guessous I, Blane D, Kliegel M, Courvoisier DS, Kelly-Irving M, <u>Boisgontier MP</u>, Cullati S
+  authors: <b>52-</b> Cheval B, Chabert C, Sieber S, Orsholits D, Cooper R, Guessous I, Blane D, Kliegel M, Courvoisier DS, Kelly-Irving M, <u>Boisgontier MP</u>, Cullati S
   title: 'The association between adverse childhood experiences and muscle strength in older age'
   journal: Gerontology
   doi: '10.1159/000494972'
@@ -521,7 +531,7 @@
 - name: sieber_ije_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>52-</b> Sieber S, Cheval B, Orsholits D, Van der Linden BW, Guessous I, Gabriel R, Kliegel M, Aartsen MJ, <u>Boisgontier MP</u>, Courvoisier D, Burton-Jeangros C, Cullati S
+  authors: <b>53-</b> Sieber S, Cheval B, Orsholits D, Van der Linden BW, Guessous I, Gabriel R, Kliegel M, Aartsen MJ, <u>Boisgontier MP</u>, Courvoisier D, Burton-Jeangros C, Cullati S
   title: 'Welfare regimes modify the association of disadvantaged adult-life socioeconomic circumstances with self-rated health in old age'
   journal: International Journal of Epidemiology
   doi: 10.1093/ije/dyy283
@@ -531,7 +541,7 @@
 - name: bolmont_jsm_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>53-</b> Bolmont M, Bianchi-Demicheli F, <u>Boisgontier MP</u>, Cheval B
+  authors: <b>54-</b> Bolmont M, Bianchi-Demicheli F, <u>Boisgontier MP</u>, Cheval B
   title: 'The woman’s (not the man’s) body is used to evaluate sexual desire: an eye-tracking study of automatic visual attention'
   journal: Journal of Sexual Medicine
   doi: 10.1016/j.jsxm.2018.12.003
@@ -541,7 +551,7 @@
 - name: neva_ebr_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>54-</b> Neva JL, Ma JA, Orsholits D, <u>Boisgontier MP</u>, Boyd LA
+  authors: <b>55-</b> Neva JL, Ma JA, Orsholits D, <u>Boisgontier MP</u>, Boyd LA
   title: 'The effects of acute exercise on visuomotor adaptation, learning, and inter-limb transfer'
   journal: Experimental Brain Research
   doi: 10.1007/s00221-019-05491-5
@@ -588,7 +598,7 @@
 - name: cheval_jech_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>55-</b> Cheval B, Orsholits D, Sieber S, Stringhini S, Courvoisier DS, Kliegel M, <u>Boisgontier MP</u>, Cullati S 
+  authors: <b>56-</b> Cheval B, Orsholits D, Sieber S, Stringhini S, Courvoisier DS, Kliegel M, <u>Boisgontier MP</u>, Cullati S 
   title: 'Early-life socioeconomic circumstances explain health differences in old age, but not their evolution over time'
   journal: Journal of Epidemiology & Community Health
   doi: 10.1136/jech-2019-212110
@@ -597,7 +607,7 @@
 - name: miller_ihpp_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>56-</b> Cheval B*, <u>Boisgontier MP*</u>, Bacelar MFB, Feiss R, Miller MW 
+  authors: <b>57-</b> Cheval B*, <u>Boisgontier MP*</u>, Bacelar MFB, Feiss R, Miller MW 
   title: 'Opportunities to sit and stand trigger equivalent reward-related brain activity'
   journal: International Journal of Psychophysiology
   doi: 10.1016/j.ijpsycho.2019.04.009
@@ -619,7 +629,7 @@
 - name: cheval_pm_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>57-</b> Cheval B, Rebar AL, Miller MW, Sieber S; Orsholits D, Baranyi G, Courvoisier DS, Cullati S, Sander D, Chalabaev A, <u>Boisgontier MP</u>
+  authors: <b>58-</b> Cheval B, Rebar AL, Miller MW, Sieber S; Orsholits D, Baranyi G, Courvoisier DS, Cullati S, Sander D, Chalabaev A, <u>Boisgontier MP</u>
   title: 'Cognitive resources moderate the adverse impact of poor perceived neighborhood conditions on self-reported physical activity of older adults'
   journal: Preventive Medicine
   doi: 10.1016/j.ypmed.2019.05.029
@@ -636,15 +646,3 @@
   journal: Journal of Neuroscience
   pageinfo: 
   doi: 10.1523/JNEUROSCI.0224-19.2019
-
-- name: vonarx_ssm_2019
-  date: 2019-01-01
-  type: journal2
-  authors: <b>58-</b> von Arx M, Cheval B, Sieber S, Orsholits D, Widmer E, Kliegel M, Guessous I, Kelly-Irving M, Courvoisier DS, <u>Boisgontier MP</u>, Cullati S
-  title: 'The role of adult socioeconomic and relational reserves regarding the effect of childhood misfortune on late-life depressive symptoms'
-  journal: SSM - Population Health 
-  doi: 
-  pdf: 
-  pageinfo: 
-  
-
