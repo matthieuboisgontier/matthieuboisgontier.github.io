@@ -389,7 +389,7 @@
 - name: cheval_aa_2018
   date: 2018-01-01
   type: journal2
-  authors: <b>40-</b> Cheval  B*, <u>Boisgontier MP*</u>, Orsholits D , Sieber S, Guessous I, Gabriel R, Stringhini S, Blane D, van der Linden BWA, Kliegel M, Burton-Jeangros C, Courvoisier DS, Cullati S
+  authors: <b>40-</b> Cheval  B, <u>Boisgontier MP</u>, Orsholits D , Sieber S, Guessous I, Gabriel R, Stringhini S, Blane D, van der Linden BWA, Kliegel M, Burton-Jeangros C, Courvoisier DS, Cullati S
   title: 'Association of early- and adult-life socioeconomic circumstances with muscle strength in older age'
   journal: Age & Ageing
   pageinfo: 47:398-407
@@ -511,7 +511,7 @@
 - name: cheval_jgms_2018
   date: 2019-01-01
   type: journal2
-  authors:  <b>51-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>*, Cullati S*
+  authors:  <b>51-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>, Cullati S
   title: 'Disadvantaged early-life socioeconomic circumstances are associated with low respiratory function in older age'
   journal: The Journals of Gerontology. Series A, Biological Sciences & Medical Sciences.
   doi: '10.1093/gerona/gly177'
@@ -608,7 +608,7 @@
 - name: miller_ihpp_2019
   date: 2019-01-01
   type: journal2
-  authors: <b>57-</b> Cheval B*, <u>Boisgontier MP*</u>, Bacelar MFB, Feiss R, Miller MW 
+  authors: <b>57-</b> Cheval B, <u>Boisgontier MP</u>, Bacelar MFB, Feiss R, Miller MW 
   title: 'Opportunities to sit and stand trigger equivalent reward-related brain activity'
   journal: International Journal of Psychophysiology
   doi: 10.1016/j.ijpsycho.2019.04.009
