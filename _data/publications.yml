@@ -647,3 +647,15 @@
   journal: Journal of Neuroscience
   pageinfo: 39:5836-5838
   doi: 10.1523/JNEUROSCI.0224-19.2019
+  
+- name: cheval_eyetracking_2019
+  date: 2019-01-01
+  type: journal1
+  authors: Cheval B, Miller MW, Orsholits D, Berry T, Sander D, Boisgontier MP
+  title: 'Physically active individuals look for more: An eye tracking study of attentional bias'
+  journal: SportRxiv
+  doi: 10.31236/osf.io/a296j
+  pageinfo: Preprint
+  pdf: 
+  osf: 
+  sportrxiv: https://doi.org/10.31236/osf.io/a296j
