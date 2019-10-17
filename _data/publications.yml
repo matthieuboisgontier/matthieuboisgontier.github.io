@@ -651,7 +651,7 @@
 - name: cheval_eyetracking_2019
   date: 2019-01-01
   type: journal1
-  authors: Cheval B, Miller MW, Orsholits D, Berry T, Sander D, Boisgontier MP
+  authors: Cheval B, Miller MW, Orsholits D, Berry T, Sander D, <u>Boisgontier MP</u>
   title: 'Physically active individuals look for more: An eye tracking study of attentional bias'
   journal: SportRxiv
   doi: 10.31236/osf.io/a296j
@@ -659,3 +659,13 @@
   pdf: 
   osf: 
   sportrxiv: https://doi.org/10.31236/osf.io/a296j
+  
+- name: vanderlinden_2019
+  date: 2019-01-01
+  type: journal1
+  authors: van der Linden BMA, Sieber S, Cheval B, Orsholits D, Guessous I, Gabriel R, von Arx M, Kelly-Irving M, Aartsen M, Blane D, <u>Boisgontier MP</u>, Courvoisier D, Oris M, Kliegel M, Cullati S
+  title: 'Life-course circumstances and frailty in old age within different European welfare regimes: a longitudinal study with SHARE'
+  journal: The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences
+  doi: 
+  pageinfo: In Press
+  pdf:
