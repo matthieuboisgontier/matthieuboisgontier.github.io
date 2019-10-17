@@ -660,12 +660,9 @@
   osf: 
   sportrxiv: https://doi.org/10.31236/osf.io/a296j
 
-- name: boisgontier_tins_2015
-  date: 2015-01-01
+- name: vanderlinden_2019
+  date: 2019-01-01
   type: journal2
-  authors: <b>27-</b> <u>Boisgontier MP</u>
-  title: 'Motor aging results from cerebellar neuron death'
-  journal: Trends in Neurosciences
-  pageinfo: 38:127–128
-  pdf: /doc/publication/2018/01/boisgontier_tins_2015.pdf
-  doi: 10.1016/j.tins.2015.01.003
+  authors: <b>59-</b> van der Linden BMA, Sieber S, Cheval B, Orsholits D, Guessous I, Gabriel R, von Arx M, Kelly-Irving M, Aartsen M, Blane D, <u>Boisgontier MP</u>, Courvoisier D, Oris M, Kliegel M, Cullati S
+  title: 'Life-course circumstances and frailty in old age within different European welfare regimes: a longitudinal study with SHARE'
+  journal: The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences
