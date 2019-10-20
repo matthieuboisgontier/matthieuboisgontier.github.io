@@ -660,7 +660,7 @@
   osf: 
   sportrxiv: https://doi.org/10.31236/osf.io/a296j
   
-- name: vanderlinden_jgb_2019
+- name: boisgontier_cjot_2019
   date: 2019-01-01
   type: journal2
   authors: <b>59-</b> van der Linden BMA, Sieber S, Cheval B, Orsholits D, Guessous I, Gabriel R, von Arx M, Kelly-Irving M, Aartsen M, Blane D, <u>Boisgontier MP</u>, Courvoisier D, Oris M, Kliegel M, Cullati S
@@ -669,3 +669,16 @@
   doi: 
   pdf: 
   pageinfo: 
+  
+- name: caldwell_2019
+  date: 2019-01-01
+  type: journal1
+  authors: <u>Boisgontier MP</u>, Cheval B, Schmidt J
+  title: 'Engagement in daily life physical activity reduces self-reported symptoms in adolescent concussion'
+  journal: SportRxiv
+  doi: 
+  pageinfo: 
+  pdf: 
+  osf: 
+  sportrxiv: 
+  
