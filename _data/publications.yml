@@ -660,27 +660,25 @@
   osf: 
   sportrxiv: https://doi.org/10.31236/osf.io/a296j
   
-- name: boisgontier_cjot_2019
+- name: van der Linden_jgb_2019
   date: 2019-01-01
   type: journal2
   authors: <b>59-</b> van der Linden BMA, Sieber S, Cheval B, Orsholits D, Guessous I, Gabriel R, von Arx M, Kelly-Irving M, Aartsen M, Blane D, <u>Boisgontier MP</u>, Courvoisier D, Oris M, Kliegel M, Cullati S
   title: 'Life-course circumstances and frailty in old age within different European welfare regimes: a longitudinal study with SHARE'
   journal: The Journals of Gerontology. Series B, Psychological Sciences & Social Sciences
-  doi: 10.31236/osf.io/nhg6c
+  doi: 
   pdf: 
   pageinfo: 
-  osf: fna95/
-  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
   
-- name: caldwell_2019
+- name: boisgontier_cjot_2019
   date: 2019-01-01
   type: journal1
   authors: <u>Boisgontier MP</u>, Cheval B, Schmidt J
   title: 'Engagement in daily life physical activity reduces self-reported symptoms in adolescent concussion'
   journal: SportRxiv
-  doi: 
-  pageinfo: 
+  doi: 10.31236/osf.io/nhg6c
   pdf: 
-  osf: 
-  sportrxiv: 
+  pageinfo: 
+  osf: fna95/
+  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
   
