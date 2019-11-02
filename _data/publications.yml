@@ -583,17 +583,6 @@
   osf: wh62e/
   sportrxiv: https://doi.org/10.31236/osf.io/pagx6
   
-- name: caldwell_2019
-  date: 2019-01-01
-  type: journal2
-  authors: Caldwell AR, David Vigotsky AD, Tenan MS, Radel R, Mellor DT, Kreutzer A, Lahart IM, Mills JP, Boisgontier MP
-  journal: Sports Medicine
-  doi: 10.31236/osf.io/fxe7a
-  pageinfo: Accepted
-  pdf: /doc/publication/2018/01/cadwell_rr_2019.pdf
-  osf: ang2u/
-  sportrxiv: https://doi.org/10.31236/osf.io/fxe7a
-  
 - name: cheval_jech_2019
   date: 2019-01-01
   type: journal2
@@ -681,3 +670,13 @@
   osf: fna95/
   sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
   
+- name: caldwell_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>60-</b> Caldwell AR, David Vigotsky AD, Tenan MS, Radel R, Mellor DT, Kreutzer A, Lahart IM, Mills JP, Boisgontier MP
+  journal: Sports Medicine
+  doi: 10.31236/osf.io/fxe7a
+  pageinfo: Accepted
+  pdf: /doc/publication/2018/01/cadwell_rr_2019.pdf
+  osf: ang2u/
+  sportrxiv: https://doi.org/10.31236/osf.io/fxe7a
