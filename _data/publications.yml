@@ -571,18 +571,6 @@
   osf: k6v9e/
   sportrxiv: https://doi.org/10.31236/osf.io/ms2u7
   
-- name: cheval_cognition_2019
-  date: 2019-01-01
-  type: journal1
-  authors: Cheval B, Orsholits D, Sieber S, Courvoisier DS, Cullati S, <u>Boisgontier MP</u>
-  title: 'Age-related decline of cognitive resources precedes and explains the decline in physical activity'
-  journal: SportRxiv
-  doi: 10.31236/osf.io/pagx6
-  pageinfo: Preprint
-  pdf: /doc/publication/2018/01/Cheval_Cognition_PA_2019.pdf
-  osf: wh62e/
-  sportrxiv: https://doi.org/10.31236/osf.io/pagx6
-  
 - name: cheval_jech_2019
   date: 2019-01-01
   type: journal2
@@ -699,3 +687,14 @@
   title: 'Comprendre l’ergothérapie auprès des enfants'
   journal: Association Nationale Française des Ergothérapeutes.
 
+- name: cheval_cognition_2019
+  date: 2020-01-01
+  type: journal2
+  authors: <b>62- Cheval B, Orsholits D, Sieber S, Courvoisier DS, Cullati S, <u>Boisgontier MP</u>
+  title: 'Age-related decline of cognitive resources precedes and explains the decline in physical activity'
+  journal: Health Psychology
+  doi: 10.31236/osf.io/pagx6
+  pageinfo: In Press.
+  pdf: /doc/publication/2018/01/Cheval_Cognition_PA_2019.pdf
+  osf: wh62e/
+  sportrxiv: https://doi.org/10.31236/osf.io/pagx6
