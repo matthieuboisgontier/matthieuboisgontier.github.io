@@ -709,4 +709,17 @@
   doi: 
   pdf: 
   pageinfo: In Press
+   
+- name: Sieber_jgb_2019
+  date: 2020-01-01
+  type: journal2
+  authors: <b>64-</b> Cheval B, Miller WM, Orsholits D, Berry T, Sander D, <u>Boisgontier MP</u>
+  title: 'Physically active individuals look for more: An eye tracking study of attentional bias'
+  journal: Psychophysiology
+  doi: 
+  pdf: 
+  sportrxiv: https://doi.org/10.31236/osf.io/a296j
+  osf: https://doi.org/10.5281/zenodo.3371190
+  pageinfo: In Press 
   
+ 
