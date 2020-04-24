@@ -724,7 +724,7 @@
 - name: cheval_covid_2020
   date: 2020-01-01
   type: journal1
-  authors: Cheval B, Sivaramakrishnan H, Maltagliati S, Flesser L, Forestier C, Sarrazin P, Orsholits D, Chalabaev A, Sander D, Ntoumanis N, Boisgontier<u>Boisgontier MP</u>
+  authors: Cheval B, Sivaramakrishnan H, Maltagliati S, Flesser L, Forestier C, Sarrazin P, Orsholits D, Chalabaev A, Sander D, Ntoumanis N, <u>Boisgontier MP</u>
   title: 'Relationships between changes in self-reported physical activity, sedentary behaviours, and health during the coronavirus COVID-19 pandemic in France and Switzerland'
   journal: SportRxiv
   doi: 
