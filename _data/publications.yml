@@ -719,5 +719,17 @@
   doi: 10.1111/psyp.13582
   pdf: /doc/publication/2018/01/Cheval_PP_2020.pdf
   biorxiv: https://doi.org/10.31236/osf.io/a296j
-  pageinfo: In Press 
+  pageinfo: In Press
+    
+- name: cheval_covid_2020
+  date: 2020-01-01
+  type: journal1
+  authors: Cheval B, Sivaramakrishnan H, Maltagliati S, Flesser L, Forestier C, Sarrazin P, Orsholits D, Chalabaev A, Sander D, Ntoumanis N, Boisgontier<u>Boisgontier MP</u>
+  title: 'Relationships between changes in self-reported physical activity, sedentary behaviours, and health during the coronavirus COVID-19 pandemic in France and Switzerland'
+  journal: SportRxiv
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: q7xve
+  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
   
