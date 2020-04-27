@@ -557,19 +557,6 @@
   doi: 10.1007/s00221-019-05491-5
   pageinfo: 237:1109–1127
   pdf: /doc/publication/2018/01/neva_ebr_2019.pdf
-
-- name: boisgontier_depression_2019
-  date: 2019-01-01
-  type: journal1
-  authors: <u>Boisgontier MP</u>, Orsholits D, von Arx M, Sieber S, Courvoisier DS, Iversen MD, Cullati S, Cheval B
-  title: 'Physical activity cancels the negative impact of adverse childhood experiences and depression on functional dependence'
-  journal: SportRxiv
-  doi: 10.31236/osf.io/ms2u7
-  pageinfo: Preprint
-  pdf: /doc/publication/2018/01/boisgontier_depression_2019.pdf
-  github: matthieuboisgontier/SHARE_ACE_FunctionalDependence
-  osf: k6v9e/
-  sportrxiv: https://doi.org/10.31236/osf.io/ms2u7
   
 - name: cheval_jech_2019
   date: 2019-01-01
@@ -733,3 +720,15 @@
   osf: q7xve
   biorxiv: https://doi.org/10.31236/osf.io/ydv84
   
+- name: boisgontier_depression_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <u>Boisgontier MP</u>, Orsholits D, von Arx M, Sieber S, Courvoisier DS, Iversen MD, Cullati S, Cheval B
+  title: 'Adverse childhood experiences, depressive symptoms, functional dependence, and physical activity: A moderated mediation model'
+  journal: Journal of Physical Activity & Health
+  doi: 10.31236/osf.io/ms2u7
+  pageinfo: 
+  pdf: /doc/publication/2018/01/boisgontier_depression_2019.pdf
+  github: matthieuboisgontier/SHARE_ACE_FunctionalDependence
+  osf: k6v9e/
+  sportrxiv: https://doi.org/10.31236/osf.io/ms2u7
