@@ -633,18 +633,6 @@
   pdf: /doc/publication/2018/01/vanderlinden_JGB_2020.pdf
   pageinfo: 
   
-- name: boisgontier_cjot_2019
-  date: 2019-01-01
-  type: journal1
-  authors: <u>Boisgontier MP</u>, Cheval B, Schmidt J
-  title: 'Engagement in daily life physical activity reduces self-reported symptoms in adolescent concussion'
-  journal: SportRxiv
-  doi: 10.31236/osf.io/nhg6c
-  pdf: 
-  pageinfo: 
-  osf: fna95/
-  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
-  
 - name: caldwell_2019
   date: 2020-01-01
   type: journal2
@@ -732,3 +720,16 @@
   github: matthieuboisgontier/SHARE_ACE_FunctionalDependence
   osf: k6v9e/
   biorxiv: https://doi.org/10.31236/osf.io/ms2u7
+  
+    
+- name: boisgontier_cjot_2019
+  date: 2019-01-01
+  type: journal2
+  authors: <b>66-</b> <u>Boisgontier MP</u>, Cheval B, Schmidt J
+  title: 'Daily-life physical activity and concussion symptoms in adolescents'
+  journal: Canadian Journal of Occupational Therapy
+  doi: 10.31236/osf.io/nhg6c
+  pdf: 
+  pageinfo: Under Review
+  osf: fna95/
+  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
