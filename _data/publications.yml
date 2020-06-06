@@ -674,6 +674,7 @@
   pdf: /doc/publication/2018/01/Cheval_HP_2020.pdf
   osf: wh62e/
   biorxiv: https://doi.org/10.31236/osf.io/pagx6
+  
 - name: Sieber_jgb_2019
   date: 2020-01-01
   type: journal2
@@ -682,7 +683,7 @@
   journal: The Journals of Gerontology. Series B, Psychological Sciences & Social Sciences
   doi: 10.1093/geronb/gbaa036
   pdf: 
-  pageinfo: In Press
+  pageinfo: 75:1312–1325
    
 - name: Cheval_pp_2020
   date: 2020-01-01
@@ -720,7 +721,6 @@
   osf: k6v9e/
   biorxiv: https://doi.org/10.31236/osf.io/ms2u7
   
-    
 - name: boisgontier_cjot_2019
   date: 2020-01-01
   type: journal2
