@@ -727,11 +727,11 @@
   authors: <b>66-</b> <u>Boisgontier MP</u>, Cheval B, Schmidt J
   title: 'Daily-life physical activity and concussion symptoms in adolescents'
   journal: Canadian Journal of Occupational Therapy
-  doi: 10.31236/osf.io/nhg6c
+  doi: 
   pdf: 
   pageinfo: Under Review
   osf: fna95/
-  sportrxiv: https://doi.org/10.31236/osf.io/nhg6c
+  biorxiv: https://doi.org/10.31236/osf.io/nhg6c
   
 - name: cheval_pse_2020
   date: 2020-01-01
@@ -743,5 +743,5 @@
   pdf: 
   pageinfo: Under Review
   osf: dsr42/ 
-  sportrxiv: 10.31236/osf.io/cjmzq
+  biorxiv: 10.31236/osf.io/cjmzq
   
