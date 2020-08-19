@@ -721,22 +721,10 @@
   osf: k6v9e/
   biorxiv: https://doi.org/10.31236/osf.io/ms2u7
   
-- name: boisgontier_cjot_2020
-  date: 2020-01-01
-  type: journal2
-  authors: <b>66-</b> <u>Boisgontier MP</u>, Cheval B, Schmidt J
-  title: 'Daily-life physical activity and concussion symptoms in adolescents'
-  journal: Canadian Journal of Occupational Therapy
-  doi: 
-  pdf: 
-  pageinfo: In press
-  osf: fna95/
-  biorxiv: https://doi.org/10.31236/osf.io/nhg6c
-  
 - name: cheval_pse_2020
   date: 2020-01-01
   type: journal2
-  authors: <b>67-</b> Cheval B, Daou M, Cabral D, Bacelar MFB, Parma J, Forestier C, Orsholits D, Sander D, <u>Boisgontier MP</u>, Miller MW
+  authors: <b>66-</b> Cheval B, Daou M, Cabral D, Bacelar MFB, Parma J, Forestier C, Orsholits D, Sander D, <u>Boisgontier MP</u>, Miller MW
   title: 'Higher inhibitory control is required to escape the innate attraction to effort minimization'
   journal: Psychology of Sport and Exercise
   doi: 10.1016/j.psychsport.2020.101781
@@ -744,4 +732,17 @@
   pageinfo: 51:101768
   osf: dsr42/ 
   biorxiv: https://doi.org/10.31236/osf.io/cjmzq
+  
+- name: boisgontier_cjot_2020
+  date: 2020-01-01
+  type: journal2
+  authors: <b>67-</b> <u>Boisgontier MP</u>, Cheval B, Schmidt J
+  title: 'Daily-life physical activity and concussion symptoms in adolescents'
+  journal: Canadian Journal of Occupational Therapy
+  doi: 
+  pdf: 
+  pageinfo: In press
+  osf: fna95/
+  biorxiv: https://doi.org/10.31236/osf.io/nhg6c
+
   
