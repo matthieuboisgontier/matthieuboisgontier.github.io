@@ -732,7 +732,7 @@
   pageinfo: 51:101768
   osf: dsr42/ 
   biorxiv: https://doi.org/10.31236/osf.io/cjmzq
-  
+
 - name: boisgontier_cjot_2020
   date: 2020-01-01
   type: journal2
@@ -744,3 +744,15 @@
   pageinfo: In press
   osf: fna95/
   biorxiv: https://doi.org/10.31236/osf.io/nhg6c
+  
+- name: maltagliati_preprint_2020
+  date: 2020-01-01
+  type: journal1
+  authors: Maltagliati S, Sarrazin P, Isoard-Gautheur S, Rhodes RE, <u>Boisgontier MP</u>, Cheval B
+  title: 'I sit but I don’t know why: integrating controlled and automatic motivational precursors within a socioecological approach to predict sedentary behaviors'
+  journal: Research Square
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.21203/rs.3.rs-70750/v1
