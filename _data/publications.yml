@@ -756,3 +756,16 @@
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.21203/rs.3.rs-70750/v1
+  
+    
+- name: Cheval_mendelian_2020
+  date: 2020-01-01
+  type: journal1
+  authors: Cheval B, Darrous L, Choi K, Klimentidis Y, Raichlen D, Alexander G, Cullati S, Kutalik Z, <u>Boisgontier MP</u>
+  title: 'Physical activity and general cognitive functioning: a Mendelian Randomization study'
+  journal: BioRxiv
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.1101/2020.10.16.342675
