@@ -760,7 +760,7 @@
 - name: Maltagliati_covid_preprint
   date: 2020-01-01
   type: journal1
-  authors: Maltagliati S, Rebar A, Fessler L, Forestier C, Sarrazin P, Chalabaev A, David Sander D, Sivaramakrishnan H, Orsholits D, <u>Boisgontier MP</u>, Nikos Ntoumanis N, Gardner B, Cheval B 
+  authors: Maltagliati S, Rebar A, Fessler L, Forestier C, Sarrazin P, Chalabaev A, Sander D, Sivaramakrishnan H, Orsholits D, <u>Boisgontier MP</u>, Ntoumanis N, Gardner B, Cheval B 
   title: 'Evolution of physical activity habits after a context change: the case of COVID-19 lockdown'
   journal: SportRxiv
   doi: 
