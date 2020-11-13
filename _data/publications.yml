@@ -767,7 +767,7 @@
   pdf: /doc/publication/2018/01/Maltagliati_covid_preprint.pdf
   pageinfo: 
   osf: hc8z5
-  biorxiv:
+  biorxiv: https://doi.org/10.31236/osf.io/e6jfw
   
 - name: Cheval_mendelian_2020
   date: 2020-01-01
