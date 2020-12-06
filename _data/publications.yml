@@ -768,6 +768,17 @@
   pageinfo: 
   osf: hc8z5
   biorxiv: https://doi.org/10.31236/osf.io/e6jfw
+ 
+- name: Wittenberg_3Dreaching_preprint
+  date: 2020-01-01
+  type: journal1
+  authors:  Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
+  title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction'
+  journal: BioRxiv
+  doi: 
+  pdf: /doc/publication/2018/01/Wittenberg_3Dreaching_2020.pdf
+  pageinfo: 
+  biorxiv: https://doi.org/10.1101/2020.12.03.410001
   
 - name: Cheval_mendelian_2020
   date: 2020-01-01
