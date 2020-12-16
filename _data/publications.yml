@@ -768,11 +768,22 @@
   pageinfo: 
   osf: hc8z5
   biorxiv: https://doi.org/10.31236/osf.io/e6jfw
+  
+- name: Wittenberg_3DreachingTMS_preprint
+  date: 2020-01-01
+  type: journal1
+  authors: Urbin MA,Tian J, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
+  title: 'Regional and age-dependent effects of cortical magnetic stimulation on unconstrained reaching behavior'
+  journal: BioRxiv
+  doi: 
+  pdf: /doc/publication/2018/01/Wittenberg_3DreachingTMS_preprint.pdf
+  pageinfo: 
+  biorxiv: https://doi.org/10.1101/2020.12.14.422725
  
 - name: Wittenberg_3Dreaching_preprint
   date: 2020-01-01
   type: journal1
-  authors:  Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
+  authors: Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
   title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction'
   journal: BioRxiv
   doi: 
