@@ -801,6 +801,18 @@
   pageinfo: 
   biorxiv: https://doi.org/10.1101/2020.12.03.410001
   
+- name: Cheval_grip_covid_2020
+  date: 2021-01-01
+  type: journal1
+  authors: Cheval B, Sieber S, Maltagliati S, Millet GP, Formánek T, Chalabaev A, Cullati S, <u>Boisgontier MP</u>
+  title: 'Muscle strength is associated with COVID-19 hospitalization in adults 50 years of age and older'
+  journal: MedRxiv
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.1101/2020.10.16.342675 
+ 
 - name: Cheval_mendelian_2020
   date: 2020-01-01
   type: journal1
