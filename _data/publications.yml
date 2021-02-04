@@ -811,7 +811,7 @@
   pdf: /doc/publication/2018/01/Cheval_Boisgontier_medrxiv.pdf
   pageinfo: 
   osf: 
-  biorxiv: 10.1101/2021.02.02.21250909
+  biorxiv: https://doi.org/10.1101/2021.02.02.21250909
  
 - name: Cheval_mendelian_2020
   date: 2020-01-01
