@@ -834,3 +834,15 @@
   doi: 
   pdf: /doc/publication/2018/01/Cheval_Boisgontier_TEMPA_ESSR_authorversion.pdf
   pageinfo: In press
+  
+- name: Cheval_inhibition_EEG_2021
+  date: 2021-01-01
+  type: journal1
+  authors: Cheval B, Cabral D, Daou M, Bacelar MFB, Parma J, Forestier C, Orsholits D, Maltagliati S, Sander D, <u>Boisgontier MP</u>, Miller MW
+  title: 'Inhibitory control elicited by physical activity and inactivity stimuli: an EEG study'
+  journal: SportRxiv
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.31236/osf.io/s9q2c
