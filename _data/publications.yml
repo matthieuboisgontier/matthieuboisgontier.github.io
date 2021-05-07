@@ -870,7 +870,6 @@
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.31236/osf.io/s9q2c
-  
     
 - name: Cermakova_pa_2021
   date: 2021-01-01
@@ -883,3 +882,15 @@
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.1101/2021.04.13.21255381
+
+- name: Fessler_pd_2021
+  date: 2021-01-01
+  type: journal1
+  authors: Fessler L, Sarrazin P, Smeding A, Maltagliati1 S, Boisgontier MP, Cheval B
+  title: 'All’s well that ends well: an early-phase study testing lower end-session exercise intensity to promote physical activity in patients with Parkinson’s disease'
+  journal: MedRxiv
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.31219/osf.io/rk4xe
