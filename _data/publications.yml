@@ -882,7 +882,6 @@
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.31219/osf.io/rk4xe
-  
     
 - name: Cheval_grip_covid_2020
   date: 2021-01-01
@@ -895,3 +894,15 @@
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.1101/2021.02.02.21250909
+ 
+- name: Chalabaev_psychsci_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>75-</b> Chalabaev A, Sarrazin P, Sieber S, Sander D, Cullati S, Maltagliati S, <u>Boisgontier MP</u>, Cheval B
+  title: 'Early-life socioeconomic circumstances and physical activity in older age: women pay the price '
+  journal: Psychological Science
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: 
+  biorxiv: 
