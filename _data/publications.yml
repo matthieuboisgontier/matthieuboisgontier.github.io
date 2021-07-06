@@ -906,3 +906,15 @@
   pageinfo: 
   osf: 
   biorxiv: 
+  
+- name: Miller_Cx_2021
+  date: 2021-01-01
+  type: journal1
+  authors: Miller M, Cheval B, Bacelar MFB, Cabral DAR, Feiss RS, Parma JO, Renaud O, Sander D, Krigolson OE, <u>Boisgontier MP</u>
+  title: 'Relationship between reward-related brain activity and opportunities to sit'
+  journal: Cortex
+  doi: 
+  pdf: 
+  pageinfo: Registered Report Stage 1, In Principle Acceptance (IPA)
+  osf: g64sp
+  biorxiv: 
