@@ -811,18 +811,6 @@
   pdf: /doc/publication/2018/01/Cheval_Boisgontier_TEMPA_ESSR_authorversion.pdf
   pageinfo: 49(3):168-178
   
-- name: Maltagliati_covid_pa_2021
-  date: 2021-01-01
-  type: journal1
-  authors: Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
-  title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
-  journal: MedRxiv
-  doi: 
-  pdf:
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.1101/2021.02.25.21252451
-  
 - name: Forestier_ego_2021
   date: 2021-01-01
   type: journal1
@@ -906,6 +894,18 @@
   pageinfo: 
   osf: 
   biorxiv: 
+    
+- name: Maltagliati_covid_pa_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>76-</b> Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
+  title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
+  journal: Journal of Sports Sciences
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.1101/2021.02.25.21252451
   
 - name: Miller_Cx_2021
   date: 2021-01-01
