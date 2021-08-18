@@ -817,10 +817,10 @@
   
 - name: Wittenberg_3DreachingTMS_preprint
   date: 2020-01-01
-  type: journal1
-  authors: Urbin MA, Tian J, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
+  type: journal2
+  authors: <b>74-</b> Urbin MA, Tian J, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
   title: 'Regional and age-dependent effects of cortical magnetic stimulation on unconstrained reaching behavior'
-  journal: BioRxiv
+  journal: Experimental Brain Research
   doi: 
   pdf: /doc/publication/2018/01/Wittenberg_3DreachingTMS_preprint.pdf
   pageinfo: 
