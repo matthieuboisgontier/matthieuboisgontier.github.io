@@ -935,7 +935,7 @@
 - name: Neva_neuroscience
   date: 2021-01-01
   type: journal2
-  authors: <b>78-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, u>Boisgontier MP</u>, Boyd LA
+  authors: <b>78-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, <u>Boisgontier MP</u>, Boyd LA
   title: 'Acute exercise modulates the excitability of specific interneurons in human motor cortex'
   journal: Neuroscience
   doi: 
