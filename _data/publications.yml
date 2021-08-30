@@ -931,7 +931,6 @@
   pageinfo: 
   biorxiv: https://doi.org/10.1101/2020.12.14.422725
   
- 
 - name: Neva_neuroscience
   date: 2021-01-01
   type: journal2
@@ -942,3 +941,15 @@
   pdf: 
   pageinfo: 
   biorxiv: 
+  
+- name: Aina_ejoa
+  date: 2021-01-01
+  type: journal2
+  authors: <b>79-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
+  title: 'Cognitive functions and physical activity in aging when energy is lacking'
+  journal: European Journal of Ageing
+  doi: 
+  pdf: 
+  pageinfo: 
+  biorxiv: 
+
