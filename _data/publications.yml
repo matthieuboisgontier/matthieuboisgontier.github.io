@@ -952,4 +952,15 @@
   pdf: 
   pageinfo: 
   biorxiv: 
+  
+- name: Aina_ejoa
+  date: 2021-01-01
+  type: journal2
+  authors: <b>80-</b> Cheval B, Finckh A, Maltagliati S, Fessler F, Cullati C, Sander S, Friese M, Wiers RW, <u>Boisgontier MP</u>, Courvoisier D, Luthy C
+  title: 'A cognitive-bias modification intervention to improve physical activity in patients following a rehabilitation program: protocol for the randomized controlled IMPACT trial'
+  journal: BMJ Open
+  doi: 
+  pdf: 
+  pageinfo: 
+  biorxiv: 
 
