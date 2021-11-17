@@ -511,7 +511,7 @@
 - name: cheval_jgms_2018
   date: 2019-01-01
   type: journal2
-  authors:  <b>51-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>, Cullati S
+  authors: <b>51-</b> Cheval B, Chabert C, Orsholits D, Sieber S, Guessous I, Blane D, Kliegel M, Janssens JP, Burton-Jeangros C, Pison C, Courvoisier DS, <u>Boisgontier MP</u>, Cullati S
   title: 'Disadvantaged early-life socioeconomic circumstances are associated with low respiratory function in older age'
   journal: The Journals of Gerontology. Series A, Biological Sciences & Medical Sciences.
   doi: '10.1093/gerona/gly177'
@@ -610,18 +610,6 @@
   journal: Journal of Neuroscience
   pageinfo: 39:5836-5838
   doi: 10.1523/JNEUROSCI.0224-19.2019
-  
-- name: cheval_eyetracking_2019
-  date: 2019-01-01
-  type: 
-  authors: Cheval B, Miller MW, Orsholits D, Berry T, Sander D, <u>Boisgontier MP</u>
-  title: 'Physically active individuals look for more: An eye tracking study of attentional bias'
-  journal: SportRxiv
-  doi: 10.31236/osf.io/a296j
-  pageinfo: Preprint
-  pdf: 
-  osf: 
-  sportrxiv: https://doi.org/10.31236/osf.io/a296j
   
 - name: van der Linden_jgb_2019
   date: 2020-01-01
@@ -732,23 +720,11 @@
   pageinfo: 87:364-371
   osf: fna95/
   biorxiv: https://doi.org/10.31236/osf.io/nhg6c
-  
-- name: maltagliati_preprint_2020
-  date: 2021-01-01
-  type: journal2
-  authors: <b>68-</b> Maltagliati S, Sarrazin P, Isoard-Gautheur S, Rhodes RE, <u>Boisgontier MP</u>, Cheval B
-  title: 'I sit but I don’t know why: investigating the multiple precursors of leisure-time sedentary behaviors'
-  journal: Research Quarterly for Exercise and Sport
-  doi: 10.1080/02701367.2021.1877246
-  pdf: /doc/publication/2018/01/Maltagliati_RQES_2021.pdf
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.21203/rs.3.rs-70750/v1
     
 - name: Maltagliati_covid_preprint
   date: 2021-01-01
   type: journal2
-  authors: <b>69-</b> Maltagliati S, Rebar A, Fessler L, Forestier C, Sarrazin P, Chalabaev A, Sander D, Sivaramakrishnan H, Orsholits D, <u>Boisgontier MP</u>, Ntoumanis N, Gardner B, Cheval B 
+  authors: <b>68-</b> Maltagliati S, Rebar A, Fessler L, Forestier C, Sarrazin P, Chalabaev A, Sander D, Sivaramakrishnan H, Orsholits D, <u>Boisgontier MP</u>, Ntoumanis N, Gardner B, Cheval B 
   title: 'Evolution of physical activity habits after a context change: the case of COVID-19 lockdown'
   journal: British Journal of Health Psychology
   doi: 10.1111/bjhp.12524
@@ -756,47 +732,11 @@
   pageinfo: 26:1135-1154
   osf: hc8z5
   biorxiv: https://doi.org/10.31236/osf.io/e6jfw
-      
-- name: Maltagliati_covid_pa_2021
-  date: 2021-01-01
-  type: journal2
-  authors: <b>70-</b> Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
-  title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
-  journal: Journal of Sports Sciences
-  doi: 10.1080/02640414.2021.1964721
-  pdf: /doc/publication/2018/01/Maltagliati_JSS_2021.pdf
-  pageinfo:
-  osf: 
-  biorxiv: https://doi.org/10.1101/2021.02.25.21252451
-   
-- name: Chalabaev_psychsci_2021
-  date: 2021-01-01
-  type: journal2
-  authors: <b>71-</b> Chalabaev A, Sarrazin P, Sieber S, Sander D, Cullati S, Maltagliati S, <u>Boisgontier MP</u>, Cheval B
-  title: 'Early-life socioeconomic circumstances and physical activity in older age: women pay the price '
-  journal: Psychological Science
-  doi: 
-  pdf: 
-  pageinfo: 
-  osf: 
-  biorxiv: 
-   
-- name: Cheval_inhibition_EEG_2021
-  date: 2021-01-01
-  type: journal2
-  authors: <b>72-</b> Cheval B, Cabral D, Daou M, Bacelar MFB, Parma J, Forestier C, Orsholits D, Maltagliati S, Sander D, <u>Boisgontier MP</u>, Miller MW
-  title: 'Inhibitory control elicited by physical activity and inactivity stimuli: an EEG study'
-  journal: Motivation Science
-  doi: 10.1037/mot0000236 
-  pdf: /doc/publication/2018/01/Cheval_MS_2021.pdf
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.31236/osf.io/s9q2c
      
 - name: cheval_JSS_2021
   date: 2021-01-01
   type: journal2
-  authors: <b>73-</b> Cheval B, Sivaramakrishnan H, Maltagliati S, Flesser L, Forestier C, Sarrazin P, Orsholits D, Chalabaev A, Sander D, Ntoumanis N, <u>Boisgontier MP</u>
+  authors: <b>69-</b> Cheval B, Sivaramakrishnan H, Maltagliati S, Flesser L, Forestier C, Sarrazin P, Orsholits D, Chalabaev A, Sander D, Ntoumanis N, <u>Boisgontier MP</u>
   title: 'Relationships between changes in self-reported physical activity, sedentary behaviours and health during the coronavirus COVID-19 pandemic in France and Switzerland'
   journal: Journal of Sports Sciences
   doi: 10.1080/02640414.2020.1841396
@@ -808,7 +748,7 @@
 - name: cheval_abm_2020
   date: 2021-01-01
   type: journal2
-  authors: <b>74-</b> Cheval B, Maltagliati S, Sieber S, Beran D, Chalabaev A, Sander D, Cullati S, <u>Boisgontier MP</u>
+  authors: <b>70-</b> Cheval B, Maltagliati S, Sieber S, Beran D, Chalabaev A, Sander D, Cullati S, <u>Boisgontier MP</u>
   title: 'Why are individuals with diabetes less active? The mediating role of physical, emotional, and cognitive factors'
   journal: Annals of Behavioral Medicine
   doi: 10.1093/abm/kaaa120
@@ -830,7 +770,7 @@
 - name: cheval_essr_2021
   date: 2021-01-01
   type: journal2
-  authors: <b>75-</b> Cheval B, <u>Boisgontier MP</u>
+  authors: <b>71-</b> Cheval B, <u>Boisgontier MP</u>
   title: 'The theory of effort minimization in physical activity'
   journal: Exercise and Sport Sciences Reviews
   doi: 10.1249/JES.0000000000000252
@@ -864,7 +804,7 @@
 - name: Cheval_grip_covid_2020
   date: 2021-01-01
   type: journal2
-  authors: <b>76-</b> Cheval B, Sieber S, Maltagliati S, Millet GP, Formánek T, Chalabaev A, Cullati S, <u>Boisgontier MP</u>
+  authors: <b>72-</b> Cheval B, Sieber S, Maltagliati S, Millet GP, Formánek T, Chalabaev A, Cullati S, <u>Boisgontier MP</u>
   title: 'Muscle strength is associated with COVID-19 hospitalization in adults 50 years of age and older'
   journal: Journal of Cachexia, Sarcopenia and Muscle
   doi: 10.1002/jcsm.12738
@@ -896,11 +836,104 @@
   pageinfo: 1-6 
   osf: 
   biorxiv: https://doi.org/10.31219/osf.io/r6fka
+  
+- name: Neva_neuroscience
+  date: 2021-01-01
+  type: journal2
+  authors: <b>73-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, <u>Boisgontier MP</u>, Boyd LA
+  title: 'Acute exercise modulates the excitability of specific interneurons in human motor cortex'
+  journal: Neuroscience
+  doi: 10.1016/j.neuroscience.2021.08.032
+  pdf: /doc/publication/2018/01/Neva_NSC_2021_Accepted-Version.pdf
+  pageinfo: 475:103-116
+  biorxiv: 
+    
+- name: cheval_bmjo
+  date: 2021-01-01
+  type: journal2
+  authors: <b>74-</b> Cheval B, Finckh A, Maltagliati S, Fessler F, Cullati C, Sander S, Friese M, Wiers RW, <u>Boisgontier MP</u>, Courvoisier D, Luthy C
+  title: 'A cognitive-bias modification intervention to improve physical activity in patients following a rehabilitation program: protocol for the randomized controlled IMPACT trial'
+  journal: BMJ Open
+  doi: 10.1136/bmjopen-2021-053845
+  pdf: /doc/publication/2018/01/Cheval_BMJ_2021.pdf
+  pageinfo: 11:e053845
+  biorxiv:
 
+- name: Maltagliati_covid_pa_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>75-</b> Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
+  title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
+  journal: Journal of Sports Sciences
+  doi: 10.1080/02640414.2021.1964721
+  pdf: /doc/publication/2018/01/Maltagliati_JSS_2021.pdf
+  pageinfo:
+  osf: 
+  biorxiv: https://doi.org/10.1101/2021.02.25.21252451
+  
+- name: maltagliati_preprint_2020
+  date: 2021-01-01
+  type: journal2
+  authors: <b>76-</b> Maltagliati S, Sarrazin P, Isoard-Gautheur S, Rhodes RE, <u>Boisgontier MP</u>, Cheval B
+  title: 'I sit but I don’t know why: investigating the multiple precursors of leisure-time sedentary behaviors'
+  journal: Research Quarterly for Exercise and Sport
+  doi: 10.1080/02701367.2021.1877246
+  pdf: /doc/publication/2018/01/Maltagliati_RQES_2021.pdf
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.21203/rs.3.rs-70750/v1
+  
+- name: Chalabaev_psychsci_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>77-</b> Chalabaev A, Sarrazin P, Sieber S, Sander D, Cullati S, Maltagliati S, <u>Boisgontier MP</u>, Cheval B
+  title: 'Early-life socioeconomic circumstances and physical activity in older age: women pay the price '
+  journal: Psychological Science
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: 
+  biorxiv: 
+   
+- name: Cheval_inhibition_EEG_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>78-</b> Cheval B, Cabral D, Daou M, Bacelar MFB, Parma J, Forestier C, Orsholits D, Maltagliati S, Sander D, <u>Boisgontier MP</u>, Miller MW
+  title: 'Inhibitory control elicited by physical activity and inactivity stimuli: an EEG study'
+  journal: Motivation Science
+  doi: 10.1037/mot0000236 
+  pdf: /doc/publication/2018/01/Cheval_MS_2021.pdf
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.31236/osf.io/s9q2c
+  
+- name: Aina_ejoa
+  date: 2021-01-01
+  type: journal2
+  authors: <b>79-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
+  title: 'Cognitive functions and physical activity in aging when energy is lacking'
+  journal: European Journal of Ageing
+  doi: 10.1007/s10433-021-00654-2
+  pdf: /doc/publication/2018/01/Cheval_EJA_2021.pdf
+  pageinfo: 
+  biorxiv: 
+      
+- name: Cermakova_pa_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>80-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
+  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
+  journal: Epidemiology and Psychiatric Sciences
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
+  
 - name: Wittenberg_3Dreaching_preprint
   date: 2020-01-01
   type: journal2
-  authors: <b>77-</b> Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
+  authors: <b>81-</b> Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
   title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction'
   journal: Experimental Brain Research
   doi: 
@@ -911,55 +944,10 @@
 - name: Wittenberg_3DreachingTMS_preprint
   date: 2021-01-01
   type: journal2
-  authors: <b>78-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
+  authors: <b>82-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
   title: 'Perturbation of cortical activity elicits regional and age‑dependent effects on unconstrained reaching behavior: a pilot study'
   journal: Experimental Brain Research
   doi: 10.1007/s00221-021-06228-z
   pdf: /doc/publication/2018/01/Urbin_EBR_2021.pdf
   pageinfo: 
   biorxiv: https://doi.org/10.1101/2020.12.14.422725
-  
-- name: Neva_neuroscience
-  date: 2021-01-01
-  type: journal2
-  authors: <b>79-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, <u>Boisgontier MP</u>, Boyd LA
-  title: 'Acute exercise modulates the excitability of specific interneurons in human motor cortex'
-  journal: Neuroscience
-  doi: 10.1016/j.neuroscience.2021.08.032
-  pdf: /doc/publication/2018/01/Neva_NSC_2021_Accepted-Version.pdf
-  pageinfo: 475:103-116
-  biorxiv: 
-  
-- name: Aina_ejoa
-  date: 2021-01-01
-  type: journal2
-  authors: <b>80-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
-  title: 'Cognitive functions and physical activity in aging when energy is lacking'
-  journal: European Journal of Ageing
-  doi: 10.1007/s10433-021-00654-2
-  pdf: /doc/publication/2018/01/Cheval_EJA_2021.pdf
-  pageinfo: 
-  biorxiv: 
-  
-- name: cheval_bmjo
-  date: 2021-01-01
-  type: journal2
-  authors: <b>81-</b> Cheval B, Finckh A, Maltagliati S, Fessler F, Cullati C, Sander S, Friese M, Wiers RW, <u>Boisgontier MP</u>, Courvoisier D, Luthy C
-  title: 'A cognitive-bias modification intervention to improve physical activity in patients following a rehabilitation program: protocol for the randomized controlled IMPACT trial'
-  journal: BMJ Open
-  doi: 10.1136/bmjopen-2021-053845
-  pdf: /doc/publication/2018/01/Cheval_BMJ_2021.pdf
-  pageinfo: 11:e053845
-  biorxiv:
-      
-- name: Cermakova_pa_2021
-  date: 2021-01-01
-  type: journal2
-  authors: <b>82-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
-  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
-  journal: Epidemiology and Psychiatric Sciences
-  doi: 
-  pdf:
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
