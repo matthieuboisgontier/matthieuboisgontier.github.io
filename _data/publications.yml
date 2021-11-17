@@ -815,17 +815,6 @@
   pdf: /doc/publication/2018/01/Cheval_ABM_2021.pdf
   pageinfo: 55(9):904–917
  
-- name: Wittenberg_3Dreaching_preprint
-  date: 2020-01-01
-  type: journal1
-  authors: Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
-  title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction'
-  journal: BioRxiv
-  doi: 
-  pdf: /doc/publication/2018/01/Wittenberg_3Dreaching_2020.pdf
-  pageinfo: 
-  biorxiv: https://doi.org/10.1101/2020.12.03.410001
- 
 - name: Cheval_mendelian_2020
   date: 2020-01-01
   type: journal1
@@ -859,18 +848,6 @@
   pageinfo: 
   osf: 4y38k/ 
   biorxiv: https://doi.org/10.31234/osf.io/spm9a
-    
-- name: Cermakova_pa_2021
-  date: 2021-01-01
-  type: journal1
-  authors: Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
-  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
-  journal: MedRxiv
-  doi: 
-  pdf:
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
 
 - name: Fessler_pd_2021
   date: 2021-01-01
@@ -919,11 +896,22 @@
   pageinfo: 1-6 
   osf: 
   biorxiv: https://doi.org/10.31219/osf.io/r6fka
-  
+
+- name: Wittenberg_3Dreaching_preprint
+  date: 2020-01-01
+  type: journal2
+  authors: <b>77-</b> Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
+  title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction'
+  journal: Experimental Brain Research
+  doi: 
+  pdf: /doc/publication/2018/01/Wittenberg_3Dreaching_2020.pdf
+  pageinfo: 
+  biorxiv: https://doi.org/10.1101/2020.12.03.410001
+
 - name: Wittenberg_3DreachingTMS_preprint
   date: 2021-01-01
   type: journal2
-  authors: <b>77-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
+  authors: <b>78-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
   title: 'Perturbation of cortical activity elicits regional and age‑dependent effects on unconstrained reaching behavior: a pilot study'
   journal: Experimental Brain Research
   doi: 10.1007/s00221-021-06228-z
@@ -934,7 +922,7 @@
 - name: Neva_neuroscience
   date: 2021-01-01
   type: journal2
-  authors: <b>78-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, <u>Boisgontier MP</u>, Boyd LA
+  authors: <b>79-</b> Neva JL, Brown KE, Peters S, Feldman SJ, Mahendran N, <u>Boisgontier MP</u>, Boyd LA
   title: 'Acute exercise modulates the excitability of specific interneurons in human motor cortex'
   journal: Neuroscience
   doi: 10.1016/j.neuroscience.2021.08.032
@@ -945,7 +933,7 @@
 - name: Aina_ejoa
   date: 2021-01-01
   type: journal2
-  authors: <b>79-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
+  authors: <b>80-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
   title: 'Cognitive functions and physical activity in aging when energy is lacking'
   journal: European Journal of Ageing
   doi: 10.1007/s10433-021-00654-2
@@ -956,10 +944,22 @@
 - name: cheval_bmjo
   date: 2021-01-01
   type: journal2
-  authors: <b>80-</b> Cheval B, Finckh A, Maltagliati S, Fessler F, Cullati C, Sander S, Friese M, Wiers RW, <u>Boisgontier MP</u>, Courvoisier D, Luthy C
+  authors: <b>81-</b> Cheval B, Finckh A, Maltagliati S, Fessler F, Cullati C, Sander S, Friese M, Wiers RW, <u>Boisgontier MP</u>, Courvoisier D, Luthy C
   title: 'A cognitive-bias modification intervention to improve physical activity in patients following a rehabilitation program: protocol for the randomized controlled IMPACT trial'
   journal: BMJ Open
   doi: 10.1136/bmjopen-2021-053845
   pdf: /doc/publication/2018/01/Cheval_BMJ_2021.pdf
   pageinfo: 11:e053845
-  biorxiv: 
+  biorxiv:
+      
+- name: Cermakova_pa_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>82-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
+  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
+  journal: Epidemiology and Psychiatric Sciences
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
