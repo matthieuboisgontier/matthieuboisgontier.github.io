@@ -857,10 +857,21 @@
   doi: 10.1136/bmjopen-2021-053845
   pdf: /doc/publication/2018/01/Cheval_BMJ_2021.pdf
   pageinfo: 11:e053845
-  biorxiv:
+  biorxiv: 
+  
+- name: Wittenberg_3DreachingTMS_preprint
+  date: 2021-01-01
+  type: journal2
+  authors: <b>82-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
+  title: 'Perturbation of cortical activity elicits regional and age‑dependent effects on unconstrained reaching behavior: a pilot study'
+  journal: Experimental Brain Research
+  doi: 10.1007/s00221-021-06228-z
+  pdf: /doc/publication/2018/01/Urbin_EBR_2021.pdf
+  pageinfo: 239(12):3585-3600
+  biorxiv: https://doi.org/10.1101/2020.12.14.422725
 
 - name: Maltagliati_covid_pa_2021
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>75-</b> Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
   title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
@@ -872,7 +883,7 @@
   biorxiv: https://doi.org/10.1101/2021.02.25.21252451
   
 - name: maltagliati_preprint_2020
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>76-</b> Maltagliati S, Sarrazin P, Isoard-Gautheur S, Rhodes RE, <u>Boisgontier MP</u>, Cheval B
   title: 'I sit but I don’t know why: investigating the multiple precursors of leisure-time sedentary behaviors'
@@ -884,7 +895,7 @@
   biorxiv: https://doi.org/10.21203/rs.3.rs-70750/v1
   
 - name: Chalabaev_psychsci_2021
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>77-</b> Chalabaev A, Sarrazin P, Sieber S, Sander D, Cullati S, Maltagliati S, <u>Boisgontier MP</u>, Cheval B
   title: 'Early-life socioeconomic circumstances and physical activity in older age: women pay the price '
@@ -896,7 +907,7 @@
   biorxiv: 
    
 - name: Cheval_inhibition_EEG_2021
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>78-</b> Cheval B, Cabral D, Daou M, Bacelar MFB, Parma J, Forestier C, Orsholits D, Maltagliati S, Sander D, <u>Boisgontier MP</u>, Miller MW
   title: 'Inhibitory control elicited by physical activity and inactivity stimuli: an EEG study'
@@ -908,7 +919,7 @@
   biorxiv: https://doi.org/10.31236/osf.io/s9q2c
   
 - name: Aina_ejoa
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>79-</b> Cheval B, <u>Boisgontier MP</u>, Sieber S, Ihle A, Orsholits D, Forestier C, Sander D, Chalabaev A
   title: 'Cognitive functions and physical activity in aging when energy is lacking'
@@ -919,7 +930,7 @@
   biorxiv: 
       
 - name: Cermakova_pa_2021
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>80-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
   title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
@@ -931,7 +942,7 @@
   biorxiv: https://doi.org/10.1101/2021.04.13.21255381
   
 - name: Wittenberg_3Dreaching_preprint
-  date: 2021-01-01
+  date: 2022-01-01
   type: journal2
   authors: <b>81-</b> Wittenberg GF, Tian J, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I
   title: 'Normal aging affects unconstrained three-dimensional reaching against gravity with reduced vertical precision and increased co-contraction: a pilot study'
@@ -941,13 +952,3 @@
   pageinfo: 
   biorxiv: https://doi.org/10.1101/2020.12.03.410001
 
-- name: Wittenberg_3DreachingTMS_preprint
-  date: 2021-01-01
-  type: journal2
-  authors: <b>82-</b> Urbin MA, Tian J, Lafe C, McKernan GP, Kortzog N, Wyers L, Van Halewyck F, <u>Boisgontier MP</u>, Levin O, Swinnen SP, Jonkers I, Wittenberg GF
-  title: 'Perturbation of cortical activity elicits regional and age‑dependent effects on unconstrained reaching behavior: a pilot study'
-  journal: Experimental Brain Research
-  doi: 10.1007/s00221-021-06228-z
-  pdf: /doc/publication/2018/01/Urbin_EBR_2021.pdf
-  pageinfo: 239(12):3585-3600
-  biorxiv: https://doi.org/10.1101/2020.12.14.422725
