@@ -882,14 +882,14 @@
   biorxiv: https://doi.org/10.1101/2020.12.14.422725
 
 - name: Maltagliati_covid_pa_2021
-  date: 2022-01-01
+  date: 2021-01-01
   type: journal2
   authors: <b>77-</b> Maltagliati S, Sieber S, Sarrazin P,  Cullati S, Chalabaev A, Millet GP, <u>Boisgontier MP</u>, Cheval B
   title: 'Muscle strength explains the protective effect of physical activity against COVID-19 hospitalization among adults aged 50 years and older'
   journal: Journal of Sports Sciences
   doi: 10.1080/02640414.2021.1964721
   pdf: /doc/publication/2018/01/Maltagliati_JSS_2021.pdf
-  pageinfo:
+  pageinfo: 39(24):2796-2803
   osf: 
   biorxiv: https://doi.org/10.1101/2021.02.25.21252451
   
