@@ -938,18 +938,6 @@
   pdf: /doc/publication/2018/01/Wittenberg_3Dreaching_2020.pdf
   pageinfo: 
   biorxiv: https://doi.org/10.1101/2020.12.03.410001
-
-- name: Cheval_Sleep_2022
-  date: 2022-01-01
-  type: journal1
-  authors: Cheval B, Maltagliati S, Sieber S, Cullati S, Zou L, Ihle A, Kramer AF, Yu Q, Sander D, <u>Boisgontier MP</u>
-  title: 'The association between physical activity and cognitive function is partly explained by better sleep quality'
-  journal: SportRxiv
-  doi: 
-  pdf:
-  pageinfo:
-  osf: 
-  biorxiv: https://doi.org/10.51224/SRXIV.89
   
 - name: Forestier_ego_2021
   date: 2022-01-01
@@ -962,3 +950,15 @@
   pageinfo: 
   osf: 4y38k/ 
   biorxiv: https://doi.org/10.31234/osf.io/spm9a
+  
+- name: Cheval_Sleep_2022
+  date: 2022-01-01
+  type: journal1
+  authors: Cheval B, Maltagliati S, Sieber S, Cullati S, Zou L, Ihle A, Kramer AF, Yu Q, Sander D, <u>Boisgontier MP</u>
+  title: 'The association between physical activity and cognitive function is partly explained by better sleep quality'
+  journal: SportRxiv
+  doi: 
+  pdf:
+  pageinfo:
+  osf: 
+  biorxiv: https://doi.org/10.51224/SRXIV.89
