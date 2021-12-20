@@ -776,18 +776,6 @@
   doi: 10.1249/JES.0000000000000252
   pdf: /doc/publication/2018/01/Cheval_ESSR_2021.pdf
   pageinfo: 49(3):168-178
-  
-- name: Forestier_ego_2021
-  date: 2021-01-01
-  type: journal1
-  authors: Forestier C, De Chanaleilles M, <u>Boisgontier MP</u>, Chalabaev A
-  title: 'Ego depletion:A review of criticisms alongwithnew perspectives for the replicable investigation of self-control fatigue as amulticomponent phenomenon'
-  journal: PsyArXiv
-  doi: 
-  pdf:
-  pageinfo: 
-  osf: 4y38k/ 
-  biorxiv: https://doi.org/10.31234/osf.io/spm9a
 
 - name: Fessler_pd_2021
   date: 2021-01-01
@@ -962,4 +950,15 @@
   pageinfo:
   osf: 
   biorxiv: https://doi.org/10.51224/SRXIV.89
-
+  
+- name: Forestier_ego_2021
+  date: 2022-01-01
+  type: journal2
+  authors: Forestier C, De Chanaleilles M, <u>Boisgontier MP</u>, Chalabaev A
+  title: <b>83-</b> 'From ego depletion to self-control fatigue: A review of criticisms along with new perspectives for the investigation and replication of a multicomponent phenomenon'
+  journal: PsyArXiv
+  doi: 
+  pdf:
+  pageinfo: 
+  osf: 4y38k/ 
+  biorxiv: https://doi.org/10.31234/osf.io/spm9a
