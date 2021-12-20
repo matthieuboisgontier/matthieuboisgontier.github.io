@@ -954,9 +954,9 @@
 - name: Forestier_ego_2021
   date: 2022-01-01
   type: journal2
-  authors: Forestier C, De Chanaleilles M, <u>Boisgontier MP</u>, Chalabaev A
-  title: <b>83-</b> 'From ego depletion to self-control fatigue: A review of criticisms along with new perspectives for the investigation and replication of a multicomponent phenomenon'
-  journal: PsyArXiv
+  authors: <b>83-</b> Forestier C, De Chanaleilles M, <u>Boisgontier MP</u>, Chalabaev A
+  title: 'From ego depletion to self-control fatigue: A review of criticisms along with new perspectives for the investigation and replication of a multicomponent phenomenon'
+  journal: Motivation Science
   doi: 
   pdf:
   pageinfo: 
