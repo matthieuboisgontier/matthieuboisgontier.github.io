@@ -880,6 +880,18 @@
   pageinfo: 39(24):2796-2803
   osf: 
   biorxiv: https://doi.org/10.1101/2021.02.25.21252451
+      
+- name: Cermakova_pa_2021
+  date: 2021-01-01
+  type: journal2
+  authors: <b>81-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
+  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
+  journal: Epidemiology and Psychiatric Sciences
+  doi: 10.1017/S2045796021000688
+  pdf: /doc/publication/2018/01/Cheval_EPS_2022.pdf
+  pageinfo: 30, e79
+  osf: 
+  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
   
 - name: maltagliati_preprint_2020
   date: 2022-01-01
@@ -915,18 +927,6 @@
   pdf: /doc/publication/2018/01/Cheval_EJA_2021.pdf
   pageinfo: 
   biorxiv: 
-      
-- name: Cermakova_pa_2021
-  date: 2022-01-01
-  type: journal2
-  authors: <b>81-</b> Cheval B, Csajbók Z, Formánek T, Sieber S, <u>Boisgontier MP</u>, Cullati S, Cermakova P
-  title: 'Association between physical-activity trajectories and cognitive decline in adults 50 years of age or older'
-  journal: Epidemiology and Psychiatric Sciences
-  doi: 10.1017/S2045796021000688
-  pdf: /doc/publication/2018/01/Cheval_EPS_2022.pdf
-  pageinfo: 
-  osf: 
-  biorxiv: https://doi.org/10.1101/2021.04.13.21255381
   
 - name: Wittenberg_3Dreaching_preprint
   date: 2022-01-01
