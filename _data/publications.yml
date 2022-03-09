@@ -953,10 +953,10 @@
    
 - name: Cheval_Sleep_2022
   date: 2022-01-01
-  type: journal1
-  authors: Cheval B, Maltagliati S, Sieber S, Cullati S, Zou L, Ihle A, Kramer AF, Yu Q, Sander D, <u>Boisgontier MP</u>
-  title: 'The association between physical activity and cognitive function is partly explained by better sleep quality'
-  journal: SportRxiv
+  type: journal2
+  authors: <b>84-</b> Cheval B, Maltagliati S, Sieber S, Cullati S, Zou L, Ihle A, Kramer AF, Yu Q, Sander D, <u>Boisgontier MP</u>
+  title: 'Better subjective sleep quality partly explains the association between self-reported physical activity and better cognitive function'
+  journal: Journal of Alzheimer’s Disease
   doi: 
   pdf:
   pageinfo:
