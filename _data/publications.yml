@@ -971,7 +971,6 @@
   doi: 
   pdf: 
   pageinfo:
-  osf: 
   biorxiv: https://doi.org/10.51224/SRXIV.133
   
 - name: cheval_pse_2022
@@ -994,5 +993,3 @@
   doi: 10.52057/erj.v2i1.24
   pdf: /doc/publication/2018/01/boisgontier_erj_2022.pdf
   pageinfo: 2(1):1-3
-  biorxiv: 
-    
