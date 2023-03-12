@@ -986,18 +986,31 @@
   type: journal2
   authors: <b>88-</b> Cheval B, Darrous L, Choi K, Klimentidis Y, Raichlen D, Alexander G, Cullati S, Kutalik Z, <u>Boisgontier MP</u>
   title: 'Genetic insights into the causal relationship between physical activity and cognitive functioning'
-  journal: Scientific Reports
+  journal: Scientific Reports (under review: minor comments)
   doi: 
   pdf: /doc/publication/2018/01/2023_Cheval_SR.pdf
   pageinfo: 
   osf: 
   biorxiv: https://doi.org/10.1101/2020.10.16.342675
   github: LizaDarrous/lhcMR
+
+- name: Cheval_PandA_2023
+  date: 2023-01-01
+  type: journal2
+  authors: <b>89-</b> Cheval B, Saoudi I, Maltagliati S, Fessler L, Farajzadeh A, Sieber S, Cullati S, <u>Boisgontier MP</u>
+  title: 'Initial status and change in cognitive function mediate the association between academic education and physical activity in adults over 50 years of age'
+  journal: Psychology and Aging (under review: minor comments)
+  doi: 
+  pdf: 
+  pageinfo: 
+  osf: 
+  biorxiv: https://doi.org/10.51224/SRXIV.151
+  
   
 - name: 2023_Farajzadeh_PCJ
   date: 2023-01-01
   type: journal2
-  authors: <b>89-</b> Farajzadeh A, Goubran M, Beehler A, Cherkaoui N, Morrison, de Chanaleilles M, Maltagliati S, Cheval B, Miller MW, Sheehy L, Bilodeau M, Orsholits D, <u>Boisgontier MP</u>
+  authors: <b>90-</b> Farajzadeh A, Goubran M, Beehler A, Cherkaoui N, Morrison, de Chanaleilles M, Maltagliati S, Cheval B, Miller MW, Sheehy L, Bilodeau M, Orsholits D, <u>Boisgontier MP</u>
   title: 'Automatic approach-avoidance tendency toward physical activity, sedentary, and neutral stimuli as a function of age, explicit affective attitude, and intention to be active'
   journal: Peer Community Journal
   doi: 10.24072/pcjournal.246
