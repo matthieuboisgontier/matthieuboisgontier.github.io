@@ -1002,11 +1002,23 @@
   pageinfo: 3:e21
   biorxiv: https://doi.org/10.1101/2022.09.05.22279509
   github: Boisgontier-Lab/Aging_Approach-Avoid_Physical-Activity
-
+    
+- name: 2023_cheval_JAD
+  date: 2023-01-01
+  type: journal2
+  authors: <b>91-</b> Cheval B, Maltagliati S, Saoudi I, Fessler L, Farajzadeh A, Sieber S, Cullati S, <u>Boisgontier MP</u>
+  title: 'Physical activity mediates the effect of education on mental health trajectories in older age'
+  journal: Journal of Affective Disorders
+  doi: 
+  pdf: 
+  pageinfo: 
+  biorxiv: https://doi.org/10.51224/SRXIV.228
+  github: 
+  
 - name: Miller_Cx_2023
   date: 2023-01-01
   type: journal2
-  authors: <b>91-</b> Parma JO, Bacelar MFB, Cabral DAR, Feiss RS, Orsholits D, Renaud O, Sander D, Krigolson OE, Miller MW, Cheval B, <u>Boisgontier MP</u>
+  authors: <b>92-</b> Parma JO, Bacelar MFB, Cabral DAR, Feiss RS, Orsholits D, Renaud O, Sander D, Krigolson OE, Miller MW, Cheval B, <u>Boisgontier MP</u>
   title: 'Relationship between reward-related brain activity and opportunities to sit'
   journal: Cortex
   doi: 
