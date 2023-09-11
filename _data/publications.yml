@@ -1022,14 +1022,23 @@
   journal: Cortex
   doi: 10.1016/j.cortex.2023.06.011
   pdf: /doc/publication/2018/01/2023_Parma_Cortex.pdf
-  pageinfo: In press
+  pageinfo: 167:197-217
   osf: g64sp
   github: matthieuboisgontier/Sit_Reward_EEG
+  
+- name: Cheval-Boisgontier_2023
+  date: 2023-01-01
+  type: journal2
+  authors: <b>93-</b> Cheval B, <u>Boisgontier MP</u>
+  title: 'Promouvoir une activité physique régulière chez les patients : L’importance de la perception de l’effort"
+  journal: Staps
+  doi: 
+  pdf: /doc/publication/2018/01/2023_cheval_staps.pdf
   
 - name: Goubran_2023
   date: 2023-01-01
   type: journal2
-  authors: <b>93-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>94-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Kinesiophobia and physical activity: A systematic review and meta-analysis'
   journal: MedRxiv
   doi: 10.1101/2023.08.17.23294240
