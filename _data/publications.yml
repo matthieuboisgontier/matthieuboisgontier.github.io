@@ -1045,3 +1045,15 @@
   pdf: /doc/publication/2018/01/2023_goubran.pdf
   github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
+
+    
+- name: VanAllen_2023
+  date: 2023-01-01
+  type: journal2
+  authors: <b>95-</b> Van Allen Z, Orsholits D, <u>Boisgontier MP</u>
+  title: 'Functional limitations in stroke survivors: Pre-stroke physical activity matters for activities of daily living'
+  journal: MedRxiv
+  doi: 
+  pdf: /doc/publication/2018/01/2023_VanAllen_preprint.pdf
+  github: matthieuboisgontier/Stroke_Physical-Activity
+  biorxiv: 
