@@ -1078,3 +1078,12 @@
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
     
 
+- name: Farajzadeh_2024
+  date: 2024-01-01
+  type: journal2
+  authors: <b>98-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  title: 'Apathy and physical activity: A systematic review and meta-analysis'
+  journal: MedRxiv
+  doi: 
+  pdf: 
+  github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
