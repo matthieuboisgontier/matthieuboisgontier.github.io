@@ -1065,7 +1065,15 @@
   doi: 10.1101/2023.09.14.23295576
   github: matthieuboisgontier/Stroke_Physical-Activity
   biorxiv: https://doi.org/10.1093/ptj/pzae094
-
+ 
+- name: StDenis_2024
+  date: 2024-01-01
+  type: journal2
+  authors: <b>97-</b> St Denis B, Beaudry S, <u>Boisgontier MP</u>, Cheval B, Maltagliati S
+  title: 'Validation of the French version of the Physical Effort Scale'
+  journal: Movement & Sport Sciences / Sport & Motricité
+  doi: 
+  
 - name: Farajzadeh_2024
   date: 2024-01-01
   type: journal2
@@ -1080,7 +1088,7 @@
 - name: Goubran_2023
   date: 2023-01-01
   type: journal2
-  authors: <b>97-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>99-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Physical activity and kinesiophobia: A systematic review and meta-analysis'
   journal: MedRxiv
   doi: 10.1101/2023.08.17.23294240
@@ -1091,9 +1099,19 @@
 - name: vanAllen_2024
   date: 2024-01-01
   type: journal2
-  authors: <b>98-</b> van Allen Z, Dionne N, <u>Boisgontier MP</u>
+  authors: <b>100-</b> van Allen Z, Dionne N, <u>Boisgontier MP</u>
   title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
   journal: MedRxiv
   doi: 10.1101/2024.07.15.24310429
-  github: Boisgontier-Lab/CLSA-Machine-Learning-IADL
+  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
   biorxiv: https://doi.org/10.1101/2024.07.15.24310429
+
+- name: Farajzadeh_2024
+  date: 2024-01-01
+  type: journal2
+  authors: <b>101-</b> Farajzadeh A, Dionne N, Benoit N, Bezeau O, Bourgie T, Gerro B, Ouimet J, <u>Boisgontier MP</u>
+  title: 'Apathy, intentions, and affective attitudes in physical activity behavior'
+  journal: MedRxiv
+  doi: 
+  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
+  biorxiv:
