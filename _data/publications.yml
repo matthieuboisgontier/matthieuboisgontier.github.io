@@ -1061,10 +1061,10 @@
   type: journal2
   authors: <b>96-</b> van Allen Z, Orsholits D, <u>Boisgontier MP</u>
   title: 'Pre-stroke physical activity matters for functional limitations: a longitudinal case-control study of 12,860 participants'
-  journal: PTJ - Physical Therapy & Rehabilitation Journal
+  journal: Physical Therapy
   doi: 10.1101/2023.09.14.23295576
   github: matthieuboisgontier/Stroke_Physical-Activity
-  biorxiv: https://doi.org/10.1101/2023.09.14.23295576
+  biorxiv: https://doi.org/10.1093/ptj/pzae094
 
 - name: Goubran_2023
   date: 2023-01-01
