@@ -1116,3 +1116,13 @@
   doi:  10.1101/2024.07.16.24310493
   github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
   biorxiv:  https://doi.org/10.1101/2024.07.16.24310493
+  
+- name: Park_2024
+  date: 2024-01-01
+  type: journal2
+  authors: <b>101-</b> Park K, <u>Boisgontier MP</u>
+  title: 'Kinarm Approach Avoidance Task: a robot-based reaching task to assess automatic attitudes towards visual stimuli'
+  journal: SportRxiv
+  doi: 10.51224/SRXIV.446
+  github: Boisgontier-Lab/KinarmApproachAvoidTask
+  biorxiv:  https://doi.org/10.51224/SRXIV.446
