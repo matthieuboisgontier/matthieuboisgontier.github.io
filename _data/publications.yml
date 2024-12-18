@@ -1069,63 +1069,41 @@
   github: matthieuboisgontier/Stroke_Physical-Activity
   biorxiv: https://doi.org/10.1101/2023.09.14.23295576
   pdf: /doc/publication/2018/01/vanallen_2024.pdf
- 
+
+- name: Farajzadeh_2024
+  date: 2024-01-01
+  type: journal2
+  authors: <b>97-</b> Farajzadeh A, Jabouille F, Benoit N, Bezeau O, Bourgie T, Gerro B, Ouimet J, <u>Boisgontier MP</u>
+  title: 'Apathy, intentions, explicit attitudes, and approach-avoidance tendencies in physical activity behavior'
+  journal: Communications in Kinesiology
+  doi: 10.51224/cik.2024.68
+  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
+  biorxiv:  https://doi.org/10.1101/2024.07.16.24310493
+
 - name: StDenis_2024
   date: 2024-01-01
   type: journal2
-  authors: <b>97-</b> St Denis B, Beaudry S, <u>Boisgontier MP</u>, Cheval B, Maltagliati S
+  authors: <b>98-</b> St Denis B, Beaudry S, <u>Boisgontier MP</u>, Cheval B, Maltagliati S
   title: 'Validation de la version francophone de l’échelle d’effort physique'
   journal: Movement & Sport Sciences / Science & Motricité
   pdf: /doc/publication/2018/01/stdenis_2024.pdf
   doi: 10.1051/sm/2024019
-  
+
 - name: Farajzadeh_2024
-  date: 2024-01-01
+  date: 2025-01-01
   type: journal2
-  authors: <b>98-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>99-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Apathy and physical activity: A systematic review and meta-analysis'
   journal: Physiotherapy Canada
   doi: 
   pdf: /doc/publication/2018/01/Farajzadeh-Apathy.pdf
   github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
   biorxiv: https://doi.org/10.1101/2024.05.01.24306712
-  
-- name: Goubran_2023
-  date: 2024-01-01
-  type: journal2
-  authors: <b>99-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
-  title: 'Relationship between fear of movement and physical activity in patients with cardiac, rheumatologic, neurologic, pulmonary, or pain conditions: A systematic review and meta-analysis'
-  journal: Physical Therapy
-  doi: 
-  pdf: /doc/publication/2018/01/Goubran_PTJ.pdf
-  github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
-  biorxiv: https://doi.org/10.1101/2023.08.17.23294240
 
-- name: Farajzadeh_2024
-  date: 2024-01-01
-  type: journal2
-  authors: <b>100-</b> Farajzadeh A, Jabouille F, Benoit N, Bezeau O, Bourgie T, Gerro B, Ouimet J, <u>Boisgontier MP</u>
-  title: 'Apathy, intentions, explicit attitudes, and approach-avoidance tendencies in physical activity behavior'
-  journal: Communications in Kinesiology
-  doi:  
-  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
-  biorxiv:  https://doi.org/10.1101/2024.07.16.24310493
-  
-- name: vanAllen_2024
-  date: 2024-01-01
-  type: journal2
-  authors: <b>101-</b> van Allen ZM, <u>Boisgontier MP</u>
-  title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
-  journal: MedRxiv
-  doi: 10.1101/2024.07.15.24310429
-  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
-  biorxiv: https://doi.org/10.1101/2024.07.15.24310429
-
-  
 - name: Park_2024
-  date: 2024-01-01
+  date: 2025-01-01
   type: journal2
-  authors: <b>102-</b> Park K, <u>Boisgontier MP</u>
+  authors: <b>100-</b> Park K, <u>Boisgontier MP</u>
   title: 'Kinarm Approach Avoidance Task: a robot-based reaching task to assess automatic attitudes towards visual stimuli'
   journal: SportRxiv
   doi: 10.51224/SRXIV.446
@@ -1133,8 +1111,29 @@
   biorxiv:  https://doi.org/10.51224/SRXIV.446
   pdf: /doc/publication/2018/01/2024_park.pdf
 
+- name: Goubran_2023
+  date: 2025-01-01
+  type: journal2
+  authors: <b>101-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  title: 'Relationship between fear of movement and physical activity in patients with cardiac, rheumatologic, neurologic, pulmonary, or pain conditions: A systematic review and meta-analysis'
+  journal: Physical Therapy
+  doi: 
+  pdf: /doc/publication/2018/01/Goubran_PTJ.pdf
+  github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
+  biorxiv: https://doi.org/10.1101/2023.08.17.23294240
+
+- name: vanAllen_2024
+  date: 2025-01-01
+  type: journal2
+  authors: <b>102-</b> van Allen ZM, <u>Boisgontier MP</u>
+  title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
+  journal: MedRxiv
+  doi: 10.1101/2024.07.15.24310429
+  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
+  biorxiv: https://doi.org/10.1101/2024.07.15.24310429
+
 - name: Kohrs_2024
-  date: 2024-01-01
+  date: 2025-01-01
   type: journal2
   authors: <b>103-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
   title: 'Collaborating with early career researchers to enhance the future of scholarly communication: A guide for publishers'
