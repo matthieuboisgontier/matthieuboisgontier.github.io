@@ -1090,7 +1090,7 @@
   pdf: /doc/publication/2018/01/stdenis_2024.pdf
   doi: 10.1051/sm/2024019
 
-- name: Farajzadeh_2024
+- name: Farajzadeh_2025
   date: 2025-01-01
   type: journal2
   authors: <b>99-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
@@ -1101,7 +1101,7 @@
   github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
   biorxiv: https://doi.org/10.1101/2024.05.01.24306712
 
-- name: Park_2024
+- name: Park_2025
   date: 2025-01-01
   type: journal2
   authors: <b>100-</b> Park K, <u>Boisgontier MP</u>
@@ -1112,7 +1112,7 @@
   biorxiv:  https://doi.org/10.51224/SRXIV.446
   pdf: /doc/publication/2018/01/2024_park.pdf
 
-- name: Goubran_2023
+- name: Goubran_2025
   date: 2025-01-01
   type: journal2
   authors: <b>101-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
@@ -1123,7 +1123,7 @@
   github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
 
-- name: vanAllen_2024
+- name: vanAllen_2025
   date: 2025-01-01
   type: journal2
   authors: <b>102-</b> van Allen ZM, <u>Boisgontier MP</u>
@@ -1133,7 +1133,7 @@
   github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
   biorxiv: https://doi.org/10.1101/2024.07.15.24310429
 
-- name: Kohrs_2024
+- name: Kohrs_2025
   date: 2025-01-01
   type: journal2
   authors: <b>103-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
@@ -1143,7 +1143,7 @@
   biorxiv:  https://doi.org/10.31219/osf.io/pbvfz
   pdf: /doc/publication/2018/01/Kohrs_preprint_2024.pdf
   
-- name: Cheval_2024
+- name: Cheval_2025
   date: 2025-01-01
   type: journal2
   authors: <b>104-</b> Cheval B, Ceravolo L, Igloi K, Sander D, Zimmermann M, Van Ruitenbeek P, <u>Boisgontier MP</u>
