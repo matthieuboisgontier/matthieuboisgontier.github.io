@@ -1152,3 +1152,12 @@
   journal: BioRxiv
   doi: 10.1101/2025.01.10.632302
   biorxiv:  https://doi.org/10.1101/2025.01.10.632302
+
+- name: Goubran_2025
+  date: 2025-01-01
+  type: journal2
+  authors: <b>105-</b> Goubran M, Zammar C, Tellez Alvarez S, Héran E, Proulx S, Bilodeau M, <u>Boisgontier MP</u>
+  title: 'Approach-avoidance tendencies influence the relationship between fear of movement and physical activity in osteoarthritis'
+  journal: MedRxiv
+  doi: 
+  biorxiv:  
