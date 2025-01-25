@@ -1161,3 +1161,12 @@
   journal: MedRxiv
   doi: 
   biorxiv:  
+  
+- name: derosiere_2024
+  date: 2024-01-01
+  type: contribution
+  authors: <b>1-</b> Derosiere G, Vassiliadis P, Dricot L, Dessain Q, Delinte N, Zénon A, Duque J
+  title: 'Fronto-motor circuits linked to subclinical apathy'
+  journal: BioRxiv
+  pageinfo: 
+  doi: 10.1101/2024.10.07.616861
