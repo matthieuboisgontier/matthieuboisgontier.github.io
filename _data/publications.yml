@@ -1096,7 +1096,7 @@
   type: journal2
   authors: <b>99-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Apathy and physical activity: A systematic review and meta-analysis'
-  journal: Physiotherapy Canada
+  journal: Physiotherapy Canada (In press)
   doi: 
   pdf: /doc/publication/2018/01/Farajzadeh-Apathy.pdf
   github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
@@ -1118,7 +1118,7 @@
   type: journal2
   authors: <b>101-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Relationship between fear of movement and physical activity in patients with cardiac, rheumatologic, neurologic, pulmonary, or pain conditions: A systematic review and meta-analysis'
-  journal: Physical Therapy
+  journal: Physical Therapy (In press)
   doi: 
   pdf: /doc/publication/2018/01/Goubran_PTJ.pdf
   github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
@@ -1129,7 +1129,7 @@
   type: journal2
   authors: <b>102-</b> van Allen ZM, <u>Boisgontier MP</u>
   title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
-  journal: MedRxiv
+  journal: Physiothearpy Canada (minor revisions)
   doi: 10.1101/2024.07.15.24310429
   github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
   biorxiv: https://doi.org/10.1101/2024.07.15.24310429
