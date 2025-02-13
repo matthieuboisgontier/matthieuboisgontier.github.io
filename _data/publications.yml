@@ -1174,13 +1174,12 @@
   pageinfo: 
   doi: 10.1101/2024.10.07.616861
 
-  
 - name: Goubran-vanAllen_2025
   date: 2025-01-01
   type: journal2
   authors: <b>106-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Depressive symptoms and physical activity mediate the adverse effect of pain on functional independence in patients with arthritis: Evidence from the Canadian Longitudinal Study on Aging'
   journal: MedRxiv
-  doi: 
-  biorxiv: 
-  pdf: 
+  doi: 10.1101/2025.02.10.25322043
+  biorxiv: https://doi.org/10.1101/2025.02.10.25322043
+  pdf: /doc/publication/2018/01/Goubran_CLSA_preprint.pdf
