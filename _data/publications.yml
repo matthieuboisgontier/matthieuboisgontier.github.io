@@ -1177,11 +1177,21 @@
   doi: 10.1101/2025.02.22.25322346
   biorxiv: https://doi.org/10.1101/2025.02.22.25322346
   pdf: /doc/publication/2018/01/2025_Boisgontier_preprint.pdf
+
+- name: Boisgontier_2025b
+  date: 2025-01-01
+  type: journal2
+  authors: <b>106-</b> <u>Boisgontier MP</u>
+  title: 'Evolution of attitudes toward people with disabilities in healthcare practitioners and other occupations from 2006 to 2024'
+  journal: Physiotherapy Canada
+  doi: 10.1101/2025.03.11.25323797
+  biorxiv: https://doi.org/10.1101/2025.03.11.25323797
+  pdf: /doc/publication/2018/01/2025_Boisgontier_IAT-evolution.pdf
   
 - name: Kohrs_2025
   date: 2025-01-01
   type: journal2
-  authors: <b>106-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
+  authors: <b>107-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
   title: 'Collaborating with early career researchers to enhance the future of scholarly communication: A guide for publishers'
   journal: OSF Preprints
   doi: 10.31219/osf.io/pbvfz
@@ -1191,20 +1201,11 @@
 - name: Goubran-vanAllen_2025
   date: 2025-01-01
   type: journal2
-  authors: <b>107-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>108-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Depressive symptoms and physical activity mediate the adverse effect of pain on functional independence in patients with arthritis: Evidence from the Canadian Longitudinal Study on Aging'
   journal: MedRxiv
   doi: 10.1101/2025.02.10.25322043
   biorxiv: https://doi.org/10.1101/2025.02.10.25322043
   pdf: /doc/publication/2018/01/Goubran_CLSA_preprint.pdf
 
-- name: Boisgontier_2025b
-  date: 2025-01-01
-  type: journal2
-  authors: <b>108-</b> <u>Boisgontier MP</u>
-  title: 'Evolution of attitudes toward people with disabilities in healthcare practitioners and other occupations from 2006 to 2024'
-  journal: MedRxiv
-  doi: 10.1101/2025.03.11.25323797
-  biorxiv: https://doi.org/10.1101/2025.03.11.25323797
-  pdf: /doc/publication/2018/01/2025_Boisgontier_IAT-evolution.pdf
 
