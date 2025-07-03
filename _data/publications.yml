@@ -1135,6 +1135,16 @@
   github: matthieuboisgontier/Meta-Analysis_Kinesiophobia_Physical-Activity
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
   pageinfo: 105(6):pzaf050
+
+- name: Boisgontier_2025
+  date: 2025-01-01
+  type: journal2
+  authors: <b>105-</b> <u>Boisgontier MP</u>
+  title: 'Implicit and explicit attitudes toward people with physical disabilities among clinicians, rehabilitation assistants, and other occupations: A comparative study'
+  journal: European Rehabilitation Journal
+  doi: 10.1101/2025.02.22.25322346
+  biorxiv: https://doi.org/10.1101/2025.02.22.25322346
+  pdf: /doc/publication/2018/01/2025_Boisgontier_preprint.pdf
   
 - name: vanAllen_2025
   date: 2025-01-01
@@ -1167,16 +1177,6 @@
   doi: 10.1101/2025.01.23.25321044
   biorxiv: https://doi.org/10.1101/2025.01.23.25321044
   pdf: /doc/publication/2018/01/Goubran_Preprint_approach-avoidance_arthritis.pdf
-  
-- name: Boisgontier_2025
-  date: 2025-01-01
-  type: journal2
-  authors: <b>105-</b> <u>Boisgontier MP</u>
-  title: 'Implicit and explicit attitudes toward people with physical disabilities among clinicians, rehabilitation assistants, and other occupations: A comparative study'
-  journal: European Rehabilitation Journal
-  doi: 10.1101/2025.02.22.25322346
-  biorxiv: https://doi.org/10.1101/2025.02.22.25322346
-  pdf: /doc/publication/2018/01/2025_Boisgontier_preprint.pdf
 
 - name: Boisgontier_2025b
   date: 2025-01-01
