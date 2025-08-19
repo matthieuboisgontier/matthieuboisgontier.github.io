@@ -1208,4 +1208,10 @@
   biorxiv: https://doi.org/10.1101/2025.02.10.25322043
   pdf: /doc/publication/2018/01/Goubran_CLSA_preprint.pdf
 
-
+- name: butler_2025
+  date: 2025-01-01
+  type: journal2
+  authors: <b>109-</b> Butler LA, <u>Boisgontier MP</u>
+  title: 'Rethinking where and how we publish in health sciences'
+  journal: SportRxiv
+  biorxiv: https://doi.org/10.51224/SRXIV.600
