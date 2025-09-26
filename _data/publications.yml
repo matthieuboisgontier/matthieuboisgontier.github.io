@@ -1187,26 +1187,26 @@
   journal: Physiotherapy Canada
   doi: 10.3138/ptc-2025-0026
   biorxiv: https://doi.org/10.1101/2025.03.11.25323797
-  
-- name: Kohrs_2025
-  date: 2025-01-01
-  type: journal2
-  authors: <b>107-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
-  title: 'Collaborating with early career researchers to enhance the future of scholarly communication: A guide for publishers'
-  journal: OSF Preprints
-  doi: 10.31219/osf.io/pbvfz
-  biorxiv:  https://doi.org/10.31219/osf.io/pbvfz
-  pdf: /doc/publication/2018/01/Kohrs_preprint_2024.pdf
 
 - name: Goubran-vanAllen_2025
   date: 2025-01-01
   type: journal2
-  authors: <b>108-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>107-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Depressive symptoms and physical activity mediate the adverse effect of pain on functional independence in patients with arthritis: Evidence from the Canadian Longitudinal Study on Aging'
   journal: Physical Therapy
   doi: 10.1101/2025.02.10.25322043
   biorxiv: https://doi.org/10.1101/2025.02.10.25322043
   pdf: /doc/publication/2018/01/Goubran_CLSA_preprint.pdf
+  
+- name: Kohrs_2025
+  date: 2025-01-01
+  type: journal2
+  authors: <b>108-</b> Kohrs FE, Kazezian V, Bagley RK, <u>Boisgontier MP</u>, ... , Weissgerber TL
+  title: 'Collaborating with early career researchers to enhance the future of scholarly communication: A guide for publishers'
+  journal: OSF Preprints
+  doi: 10.31219/osf.io/pbvfz
+  biorxiv:  https://doi.org/10.31219/osf.io/pbvfz
+  pdf: /doc/publication/2018/01/Kohrs_preprint_2024.pdf
 
 - name: butler_2025
   date: 2025-01-01
