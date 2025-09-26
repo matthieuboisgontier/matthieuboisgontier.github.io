@@ -1215,3 +1215,12 @@
   title: 'Rethinking where and how we publish in health sciences'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SRXIV.600
+
+- name: jabouille_2025
+  date: 2025-01-01
+  type: journal2
+  authors: <b>110-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
+  title: 'Replicability and transparency in physical therapy research: time to wake up'
+  journal: MedRxiv
+  biorxiv: https://doi.org/10.1101/2025.09.23.25336497
+
