@@ -1145,52 +1145,11 @@
   biorxiv: https://doi.org/10.1101/2025.02.22.25322346
   pdf: /doc/publication/2018/01/Boisgontier_ERJ_2025.pdf
   pageinfo: 5(1):1-15
-  
-- name: vanAllen_2025
-  date: 2025-01-01
-  type: journal2
-  authors: <b>103-</b> van Allen ZM, <u>Boisgontier MP</u>
-  title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
-  journal: Physiothearpy Canada
-  doi: 10.3138/ptc-2024-0136
-  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
-  biorxiv: https://doi.org/10.1101/2024.07.15.24310429
-  pdf: /doc/publication/2018/01/vanAllen_preprint_function-clsa-ml.pdf
-  
-- name: Farajzadeh_2025
-  date: 2025-01-01
-  type: journal2
-  authors: <b>104-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
-  title: 'Apathy and physical activity: A systematic review and meta-analysis'
-  journal: Physiotherapy Canada
-  doi: 10.3138/ptc-2024-0050
-  pdf: /doc/publication/2018/01/Farajzadeh-Apathy.pdf
-  github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
-  biorxiv: https://doi.org/10.1101/2024.05.01.24306712
-
-- name: Goubran_2025
-  date: 2025-01-01
-  type: journal2
-  authors: <b>105-</b> Goubran M, Zammar C, Tellez Alvarez S, Héran E, Proulx S, Bilodeau M, <u>Boisgontier MP</u>
-  title: 'Approach-avoidance tendencies influence the relationship between fear of movement and physical activity in osteoarthritis'
-  journal: Physiotherapy Canada
-  doi: 10.3138/ptc-2025-0011
-  biorxiv: https://doi.org/10.1101/2025.01.23.25321044
-  pdf: /doc/publication/2018/01/Goubran_Preprint_approach-avoidance_arthritis.pdf
-
-- name: Boisgontier_2025b
-  date: 2025-01-01
-  type: journal2
-  authors: <b>106-</b> <u>Boisgontier MP</u>
-  title: 'Evolution of attitudes toward people with disabilities among health care practitioners and other workers, 2006-2024'
-  journal: Physiotherapy Canada
-  doi: 10.3138/ptc-2025-0026
-  biorxiv: https://doi.org/10.1101/2025.03.11.25323797
 
 - name: Goubran-vanAllen_2025
   date: 2025-01-01
   type: journal2
-  authors: <b>107-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>103-</b> Goubran M, van Allen ZM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Depressive symptoms and physical activity mediate the adverse effect of pain on functional independence in patients with arthritis: Evidence from the Canadian Longitudinal Study on Aging'
   journal: Physical Therapy
   doi: 10.1093/ptj/pzaf120
@@ -1201,7 +1160,7 @@
 - name: Goubran_2025
   date: 2025-01-01
   type: journal2
-  authors: <b>108-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>104-</b> Goubran M, Farajzadeh A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Relationship between fear of movement and physical activity in patients with cardiac, rheumatologic, neurologic, pulmonary, or pain conditions: A systematic review and meta-analysis'
   journal: Physical Therapy
   doi: 10.1093/ptj/pzaf050
@@ -1210,8 +1169,49 @@
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
   pageinfo: 105(6):pzaf050
   
+- name: vanAllen_2025
+  date: 2026-01-01
+  type: journal2
+  authors: <b>105-</b> van Allen ZM, <u>Boisgontier MP</u>
+  title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
+  journal: Physiothearpy Canada
+  doi: 10.3138/ptc-2024-0136
+  github: matthieuboisgontier/Mechanisms_Apathy_PhysicalActivity
+  biorxiv: https://doi.org/10.1101/2024.07.15.24310429
+  pdf: /doc/publication/2018/01/vanAllen_preprint_function-clsa-ml.pdf
+  
+- name: Farajzadeh_2025
+  date: 2026-01-01
+  type: journal2
+  authors: <b>106-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  title: 'Apathy and physical activity: A systematic review and meta-analysis'
+  journal: Physiotherapy Canada
+  doi: 10.3138/ptc-2024-0050
+  pdf: /doc/publication/2018/01/Farajzadeh-Apathy.pdf
+  github: matthieuboisgontier/Meta-Analysis_Apathy_Physical-Activity
+  biorxiv: https://doi.org/10.1101/2024.05.01.24306712
+
+- name: Goubran_2025
+  date: 2026-01-01
+  type: journal2
+  authors: <b>107-</b> Goubran M, Zammar C, Tellez Alvarez S, Héran E, Proulx S, Bilodeau M, <u>Boisgontier MP</u>
+  title: 'Approach-avoidance tendencies influence the relationship between fear of movement and physical activity in osteoarthritis'
+  journal: Physiotherapy Canada
+  doi: 10.3138/ptc-2025-0011
+  biorxiv: https://doi.org/10.1101/2025.01.23.25321044
+  pdf: /doc/publication/2018/01/Goubran_Preprint_approach-avoidance_arthritis.pdf
+
+- name: Boisgontier_2025b
+  date: 2026-01-01
+  type: journal2
+  authors: <b>108-</b> <u>Boisgontier MP</u>
+  title: 'Evolution of attitudes toward people with disabilities among health care practitioners and other workers, 2006-2024'
+  journal: Physiotherapy Canada
+  doi: 10.3138/ptc-2025-0026
+  biorxiv: https://doi.org/10.1101/2025.03.11.25323797
+  
 - name: butler_2025
-  date: 2025-01-01
+  date: 2026-01-01
   type: journal2
   authors: <b>109-</b> Butler LA, <u>Boisgontier MP</u>
   title: 'Rethinking where and how we publish in health sciences'
@@ -1219,7 +1219,7 @@
   biorxiv: https://doi.org/10.51224/SRXIV.600
 
 - name: jabouille_2025
-  date: 2025-01-01
+  date: 2026-01-01
   type: journal2
   authors: <b>110-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
   title: 'Replicability and transparency in physical therapy research: time to wake up'
