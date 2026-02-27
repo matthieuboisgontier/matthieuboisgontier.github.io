@@ -1226,3 +1226,12 @@
   journal: MedRxiv
   github: Boisgontier-Lab/PT_research_practice/tree/v4.0
   biorxiv: https://doi.org/10.1101/2025.09.23.25336497
+
+- name: jabouille_2026
+  date: 2026-01-01
+  type: journal2
+  authors: <b>111-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
+  title: 'Validity of the Kinarm Approach-Avoidance Task for assessing automatic tendencies towards physical activity and sedentary behaviours: A registered report'
+  journal: Zenodo - Submitted to Peer Community In (PCI) Registered Reports
+  github: Boisgontier-Lab/RR_Validation_KAAT
+  biorxiv: https://doi.org/10.5281/zenodo.18733460
