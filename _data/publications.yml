@@ -1255,7 +1255,7 @@
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.811
 
-- name: farajzadeh_2026
+- name: farajzadeh_metaanalysis_2026
   date: 2026-01-01
   type: journal2
   authors: <b>114-</b> Farajzadeh A, Park K, Dumas T, Lahart IM, Carlsen AN, <u>Boisgontier MP</u>
@@ -1263,3 +1263,10 @@
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.815
 
+- name: farajzadeh_TMS_2026
+  date: 2026-01-01
+  type: journal2
+  authors: <b>115-</b> Farajzadeh A, Harroum N, <u>Boisgontier MP</u>
+  title: 'Behavioral apathy shows negligible associations with M1 corticospinal excitability and intracortical circuits'
+  journal: SportRxiv
+  biorxiv: https://doi.org/10.51224/SportRxiv.822
