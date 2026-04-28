@@ -1221,10 +1221,21 @@
   biorxiv: https://doi.org/10.51224/SRXIV.600
   pdf: /doc/publication/2018/01/Butler_ERJ2026.pdf
 
+- name: boisgontier_2026
+  date: 2026-01-01
+  type: journal2
+  authors: <b>110-</b> <u>Boisgontier MP</u>
+  title: 'STORK Publications: Communications in Kinesiology, SportRχiv, and Kinesiology Books. Editorial from the Chair of Publications'
+  journal: Communications in Kinesiology
+  doi: 10.51224/cik.2026.7970
+  pageinfo: 8:1-5
+  biorxiv: https://doi.org/10.51224/SportRxiv.784
+  pdf: /doc/publication/2018/01/boisgontier_cik_2026.pdf
+
 - name: jabouille_2025
   date: 2026-01-01
   type: journal2
-  authors: <b>110-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
+  authors: <b>111-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
   title: 'Replicability and transparency in physical therapy research: time to wake up'
   journal: MedRxiv
   github: Boisgontier-Lab/PT_research_practice/tree/v4.0
@@ -1233,22 +1244,11 @@
 - name: jabouille_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>111-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
+  authors: <b>112-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
   title: 'Validity of the Kinarm Approach-Avoidance Task for assessing automatic tendencies towards physical activity and sedentary behaviours: A registered report'
   journal: Submitted to Peer Community In (PCI) Registered Reports
   github: Boisgontier-Lab/RR_Validation_KAAT
   biorxiv: https://doi.org/10.5281/zenodo.18733460
-
-- name: boisgontier_2026
-  date: 2026-01-01
-  type: journal2
-  authors: <b>112-</b> <u>Boisgontier MP</u>
-  title: 'STORK Publications: Communications in Kinesiology, SportRχiv, and Kinesiology Books. Editorial from the Chair of Publications'
-  journal: Communications in Kinesiology
-  doi: 10.51224/cik.2026.7970
-  pageinfo: 8:1-5
-  biorxiv: https://doi.org/10.51224/SportRxiv.784
-  pdf: /doc/publication/2018/01/boisgontier_cik_2026.pdf
 
 - name: Park_2026
   date: 2026-01-01
