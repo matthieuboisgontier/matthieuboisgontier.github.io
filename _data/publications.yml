@@ -1244,7 +1244,9 @@
   type: journal2
   authors: <b>112-</b> <u>Boisgontier MP</u>
   title: 'STORK Publications: Communications in Kinesiology, SportRχiv, and Kinesiology Books. Editorial from the Chair of Publications'
-  journal: SportRxiv
+  journal: Communications in Kinesiology
+  doi: 10.51224/cik.2026.7970
+  pageinfo: 8:1-5
   biorxiv: https://doi.org/10.51224/SportRxiv.784
 
 - name: Park_2026
