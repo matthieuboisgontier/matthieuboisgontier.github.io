@@ -1242,10 +1242,18 @@
   github: Boisgontier-Lab/PT_research_practice/tree/v4.0
   biorxiv: https://doi.org/10.1101/2025.09.23.25336497
 
+- name: jabouille_meta_2026
+  date: 2026-01-01
+  type: journal2
+  authors: <b>112-</b> Jabouille F, Farajzadeh A, <u>Boisgontier MP</u>
+  title: 'Approach-avoidance tendencies and physical activity level: A systematic review and meta-analysis'
+  journal: Communications in Kinesiology
+  biorxiv: https://doi.org/10.51224/SportRxiv.839
+
 - name: jabouille_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>112-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
+  authors: <b>113-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
   title: 'Validity of the Kinarm Approach-Avoidance Task for assessing automatic tendencies towards physical activity and sedentary behaviours: A registered report'
   journal: PCI Registered Reports
   github: Boisgontier-Lab/RR_Validation_KAAT
@@ -1254,7 +1262,7 @@
 - name: Park_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>113-</b> Jabouille F, Dumas T, <u>Boisgontier MP</u>, Park K
+  authors: <b>114-</b> Jabouille F, Dumas T, <u>Boisgontier MP</u>, Park K
   title: 'Robot-based cognitive bias modification to improve physical activity engagement in older adults: A pilot study'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.811
@@ -1262,7 +1270,7 @@
 - name: farajzadeh_metaanalysis_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>114-</b> Farajzadeh A, Park K, Lahart IM, Carlsen AN, <u>Boisgontier MP</u>
+  authors: <b>115-</b> Farajzadeh A, Park K, Lahart IM, Carlsen AN, <u>Boisgontier MP</u>
   title: 'Habitual physical activity and motor cortical neurophysiology: A systematic review with meta-analyses of transcranial magnetic stimulation measures'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.815
@@ -1270,15 +1278,8 @@
 - name: farajzadeh_TMS_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>115-</b> Farajzadeh A, Harroum N, <u>Boisgontier MP</u>
+  authors: <b>116-</b> Farajzadeh A, Harroum N, <u>Boisgontier MP</u>
   title: 'Behavioral apathy shows negligible associations with M1 corticospinal excitability and intracortical circuits'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.822
-  
-- name: jabouille_meta_2026
-  date: 2026-01-01
-  type: journal2
-  authors: <b>116-</b> Jabouille F, Farajzadeh A, <u>Boisgontier MP</u>
-  title: 'Approach-avoidance tendencies and physical activity level: A systematic review and meta-analysis'
-  journal: Communications in Kinesiology
-  biorxiv: https://doi.org/10.51224/SportRxiv.839
+
