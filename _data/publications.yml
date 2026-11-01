@@ -1169,10 +1169,19 @@
   biorxiv: https://doi.org/10.1101/2023.08.17.23294240
   pageinfo: 105(6):pzaf050
 
+- name: Kimijanova_2026
+  date: 2026-01-01
+  type: journal2
+  authors: <b>105-</b> Kimijanová J, Bzdúšková D, Hirjaková Z, Assländer L, Reynolds R, Cottin Y, Butler LA, <u>Boisgontier MP</u>, Bruijn SM
+  title: 'Editorial: A new collaboration between Communications in Kinesiology and the International Posture Symposium in Smolenice Castle'
+  journal: Communications in Kinesiology
+  pageinfo: 8:1-4
+  doi: 10.51224/cik.2026.8576
+  
 - name: Farajzadeh_PTC_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>105-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>106-</b> Farajzadeh A, Hébert A, Lahart IM, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Apathy and physical activity: A systematic review and meta-analysis'
   journal: Physiotherapy Canada
   doi: 10.3138/ptc-2024-0050
@@ -1184,7 +1193,7 @@
 - name: vanAllen_2025
   date: 2026-01-01
   type: journal2
-  authors: <b>106-</b> van Allen ZM, <u>Boisgontier MP</u>
+  authors: <b>107-</b> van Allen ZM, <u>Boisgontier MP</u>
   title: 'Prospective classification of functional dependence: Insights from machine learning and 39,927 participants in the Canadian Longitudinal Study on Aging'
   journal: Physiothearpy Canada
   doi: 10.3138/ptc-2024-0136
@@ -1195,7 +1204,7 @@
 - name: Goubran_2025
   date: 2026-01-01
   type: journal2
-  authors: <b>107-</b> Goubran M, Zammar C, Tellez Alvarez S, Héran E, Proulx S, Bilodeau M, <u>Boisgontier MP</u>
+  authors: <b>108-</b> Goubran M, Zammar C, Tellez Alvarez S, Héran E, Proulx S, Bilodeau M, <u>Boisgontier MP</u>
   title: 'Approach-avoidance tendencies influence the relationship between fear of movement and physical activity in osteoarthritis'
   journal: Physiotherapy Canada
   doi: 10.3138/ptc-2025-0011
@@ -1205,7 +1214,7 @@
 - name: Boisgontier_2025b
   date: 2026-01-01
   type: journal2
-  authors: <b>108-</b> <u>Boisgontier MP</u>
+  authors: <b>109-</b> <u>Boisgontier MP</u>
   title: 'Evolution of attitudes toward people with disabilities among health care practitioners and other workers, 2006-2024'
   journal: Physiotherapy Canada
   doi: 10.3138/ptc-2025-0026
@@ -1214,7 +1223,7 @@
 - name: butler_2025
   date: 2026-01-01
   type: journal2
-  authors: <b>109-</b> Butler LA, <u>Boisgontier MP</u>
+  authors: <b>110-</b> Butler LA, <u>Boisgontier MP</u>
   title: 'Rethinking where and how we publish in health sciences'
   journal: European Rehabilitation Journal
   doi: 10.52057/erj.v6i1.81
@@ -1225,7 +1234,7 @@
 - name: boisgontier_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>110-</b> <u>Boisgontier MP</u>
+  authors: <b>111-</b> <u>Boisgontier MP</u>
   title: 'STORK Publications: Communications in Kinesiology, SportRχiv, and Kinesiology Books. Editorial from the Chair of Publications'
   journal: Communications in Kinesiology
   doi: 10.51224/cik.2026.7970
@@ -1236,7 +1245,7 @@
 - name: jabouille_2025
   date: 2026-01-01
   type: journal2
-  authors: <b>111-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
+  authors: <b>112-</b> Jabouille F, Farajzadeh A, Guillemot Exertier A, Martine J, Sadek N, Huet Klinger L, Iliut CM, Kapsa V, <u>Boisgontier MP</u>
   title: 'Replicability, transparency, and robustness in physiotherapy research: time to wake up'
   journal: Physiotherapy Canada (in press)
   github: Boisgontier-Lab/PT_research_practice/tree/v4.0
@@ -1245,7 +1254,7 @@
 - name: jabouille_meta_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>112-</b> Jabouille F, Farajzadeh A, <u>Boisgontier MP</u>
+  authors: <b>113-</b> Jabouille F, Farajzadeh A, <u>Boisgontier MP</u>
   title: 'Approach-avoidance tendencies and physical activity level: A systematic review and meta-analysis'
   journal: Communications in Kinesiology (in press)
   biorxiv: https://doi.org/10.51224/SportRxiv.839
@@ -1253,7 +1262,7 @@
 - name: jabouille_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>113-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
+  authors: <b>114-</b> Jabouille F, Dumas T, Fortier J, Robichaud MP, Nguyen BNT, Jolicoeur F, Maltagliati S, Cheval B, Park K, <u>Boisgontier MP</u>
   title: 'Validity of the Kinarm Approach-Avoidance Task for assessing automatic tendencies towards physical activity and sedentary behaviours: A registered report'
   journal: PCI Registered Reports
   github: Boisgontier-Lab/RR_Validation_KAAT
@@ -1262,7 +1271,7 @@
 - name: Park_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>114-</b> Jabouille F, Dumas T, <u>Boisgontier MP</u>, Park K
+  authors: <b>115-</b> Jabouille F, Dumas T, <u>Boisgontier MP</u>, Park K
   title: 'Robot-based cognitive bias modification to improve physical activity engagement in older adults: A pilot study'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.811
@@ -1270,7 +1279,7 @@
 - name: farajzadeh_metaanalysis_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>115-</b> Farajzadeh A, Park K, Lahart IM, Carlsen AN, <u>Boisgontier MP</u>
+  authors: <b>116-</b> Farajzadeh A, Park K, Lahart IM, Carlsen AN, <u>Boisgontier MP</u>
   title: 'Habitual physical activity and motor cortical neurophysiology: A systematic review with meta-analyses of transcranial magnetic stimulation measures'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.815
@@ -1278,7 +1287,7 @@
 - name: farajzadeh_TMS_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>116-</b> Farajzadeh A, Harroum N, <u>Boisgontier MP</u>
+  authors: <b>117-</b> Farajzadeh A, Harroum N, <u>Boisgontier MP</u>
   title: 'Behavioral apathy shows negligible associations with M1 corticospinal excitability and intracortical circuits'
   journal: SportRxiv
   biorxiv: https://doi.org/10.51224/SportRxiv.822
@@ -1286,7 +1295,7 @@
 - name: Boisgontier_MSSSM_2026
   date: 2026-01-01
   type: journal2
-  authors: <b>117-</b> <u>Boisgontier MP</u>
+  authors: <b>118-</b> <u>Boisgontier MP</u>
   title: 'Building Robustness and Openness in Movement and Sport Sciences - Renforcer la rigueur et l’ouverture des sciences du mouvement et des activités physiques et sportives'
   journal: Movement & Sport Sciences – Science & Motricité (in press)
   biorxiv: https://doi.org/10.51224/SportRxiv.993
